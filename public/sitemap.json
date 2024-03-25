@@ -1,0 +1,10 @@
+{
+  "title": "Home",
+  "permalink": "/",
+  "paths": [
+    {
+      "permalink": "/about",
+      "title": "About"
+    }
+  ]
+}
