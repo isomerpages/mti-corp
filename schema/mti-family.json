@@ -1,0 +1,70 @@
+{
+  "version": "0.1.0",
+  "page": {
+    "layout": "content"
+  },
+  "content": [
+    {
+      "type": "contentpageheader",
+      "breadcrumb": {
+        "links": [
+          {
+            "title": "Home",
+            "url": "https://www.mti.gov.sg/"
+          },
+          {
+            "title": "About Us",
+            "url": "https://www.mti.gov.sg/About-Us"
+          },
+          {
+            "title": "MTI Family",
+            "url": "https://www.mti.gov.sg/About-Us/MTI-Family"
+          }
+        ]
+      },
+      "title": "MTI Family",
+      "summary": "There are altogether nine statutory boards and one government department under the Ministry’s purview."
+    },
+    {
+      "type": "heading",
+      "content": "MTI Family",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": "here are altogether nine statutory boards and one government department under the Ministry’s purview."
+    },
+    {
+      "type": "paragraph",
+      "content": "Our statutory boards are: Agency for Science, Technology and Research (A*STAR), Economic Development Board (EDB), Enterprise Singapore, Jurong Town Corporation (JTC), Singapore Tourism Board (STB), Competition and Consumer Commission of Singapore (CCCS), Energy Market Authority (EMA), Hotels Licensing Board (HLB) and Sentosa Development Corporation (SDC). The scope of their work comprises driving research and innovation, forging a progressive energy landscape, promotion of local enterprises and the development of our tourism sector, among others. "
+    },
+    {
+      "type": "paragraph",
+      "content": "Our government department is: Singapore Department of Statistics (DOS). As the National Statistical Office, DOS delivers statistics and statistical services to empower decision making."
+    },
+    {
+      "type": "button",
+      "label": "About MTI",
+      "href": "https://www.mti.gov.sg/About-Us/About-MTI",
+      "colorScheme": "black",
+      "variant": "outline",
+      "rounded": true
+    },
+    {
+      "type": "button",
+      "label": "People at MTI",
+      "href": "https://www.mti.gov.sg/About-Us/People-at-MTI",
+      "colorScheme": "black",
+      "variant": "outline",
+      "rounded": true
+    },
+    {
+      "type": "button",
+      "label": "MTI Family",
+      "href": "https://www.mti.gov.sg/About-Us/MTI-Family",
+      "colorScheme": "black",
+      "variant": "outline",
+      "rounded": true
+    }
+  ]
+}
