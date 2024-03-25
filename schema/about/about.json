@@ -1,0 +1,82 @@
+{
+  "version": "0.1.0",
+  "page": {
+    "layout": "content"
+  },
+  "content": [
+    {
+      "type": "contentpageheader",
+      "breadcrumb": {
+        "links": [
+          {
+            "title": "Home",
+            "url": "https://www.mti.gov.sg/"
+          },
+          {
+            "title": "About MTI",
+            "url": "https://www.mti.gov.sg/about"
+          }
+        ]
+      },
+      "title": "About MTI",
+      "summary": "Our organisation's vision, mission, structure and values"
+    },
+    {
+      "type": "heading",
+      "content": "Our Vision",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": "Our vision is for Singapore to be a leading global city with a dynamic economy, world-class and innovative enterprises, a conducive environment for entrepreneurs and enterprises to tap its diverse opportunities and good jobs for all Singaporeans."
+    },
+    {
+      "type": "heading",
+      "content": "Our Mission",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": "To promote economic growth and create good jobs, to enable Singaporeans to improve their lives. Together with our statutory boards, we will ensure that Singapore’s economy continues to be competitive, is able to attract investments, and nurture a deeper base of global Singapore enterprises."
+    },
+    {
+      "type": "heading",
+      "content": "Our Core Values",
+      "level": 3
+    },
+    {
+      "type": "unorderedlist",
+      "items": [
+        "Value Our People",
+        "Serve With Integrity",
+        "Collaborate As Partners",
+        "Dare To Innovate",
+        "Strive For Excellence"
+      ]
+    },
+    {
+      "type": "button",
+      "label": "About MTI",
+      "href": "https://www.mti.gov.sg/about",
+      "colorScheme": "black",
+      "variant": "outline",
+      "rounded": true
+    },
+    {
+      "type": "button",
+      "label": "People at MTI",
+      "href": "https://www.mti.gov.sg/about/people-at-mti",
+      "colorScheme": "black",
+      "variant": "outline",
+      "rounded": true
+    },
+    {
+      "type": "button",
+      "label": "MTI Family",
+      "href": "https://www.mti.gov.sg/about/mti-family",
+      "colorScheme": "black",
+      "variant": "outline",
+      "rounded": true
+    }
+  ]
+}
