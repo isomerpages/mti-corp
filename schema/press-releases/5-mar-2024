@@ -1,0 +1,46 @@
+{
+  "version": "0.1.0",
+  "page": {
+    "layout": "content"
+  },
+  "content": [
+    {
+      "type": "contentpageheader", 
+      "breadcrumb": {
+        "links": [
+          {
+            "title": "Home",
+            "url": "https://www.mti.gov.sg/"
+          },
+          {
+            "title": "Press Releases",
+            "url": "https://www.mti.gov.sg/press-releases"
+          },
+          {
+            "title": "Joint Development of Principles to Guide Development of Cross-Border Electricity Trade",
+            "url": "https://www.mti.gov.sg/press-releases/5-mar-2024"
+          }
+        ]
+      },
+      "title": "Press Release",
+      "summary": "5 MAR 2024"
+    },
+    {
+      "type": "heading",
+      "content": "Joint Development of Principles to Guide Development of Cross-Border Electricity Trade",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": "Singapore and Australia have jointly developed “Ten Principles to Guide the Development of Cross-Border Electricity Trade” to deepen energy connectivity and support Cross-Border Electricity Trading (CBET). This was announced at the 9th Singapore-Australia Annual Leaders’ Meeting in Melbourne, Australia on 5 March 2024, in the opening remarks by Singapore Prime Minister Lee Hsien Loong and Australia Prime Minister Anthony Albanese."
+    },
+    {
+      "type": "paragraph",
+      "content": "<a href='https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2024/03/MTI-Factsheet-on-CBET-VF3.pdf'>Please click here for the full factsheet.</a>"
+    },
+    {
+      "type": "paragraph",
+      "content": "MINISTRY OF TRADE AND INDUSTRY 5 MARCH 2024"
+    }
+  ]
+}
