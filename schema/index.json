@@ -7,49 +7,103 @@
     {
       "type": "hero",
       "variant": "gradient",
+      "title": "Ministry of Trade & Industry",
+      "subtitle": " A leading global city of enterprise and talent, a vibrant nation of innovation and opportunity",
       "alignment": "left",
-      "backgroundColor": "black",
-      "title": "Ministry of Trade and Industry",
-      "subtitle": "A leading global city of enterprise and talent, a vibrant nation of innovation and opportunity",
-      "buttonLabel": "Main CTA",
-      "buttonUrl": "/",
-      "secondaryButtonLabel": "Sub CTA",
-      "secondaryButtonUrl": "/",
-      "backgroundUrl": "https://ohno.isomer.gov.sg/images/hero-banner.png"
-    },
-    {
-      "type": "infobar",
-      "title": "This is an infobar",
-      "description": "This is the description that goes into the Infobar section"
+      "dropdown": {
+        "options": []
+      },
+      "backgroundUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Home/jumbotron-merlion.jpg?h=516",
+      "keyHighlights": []
     },
     {
       "type": "infopic",
-      "title": "This is an infopic",
-      "description": "This is the description for the infopic component",
-      "imageSrc": "https://placehold.co/600x400"
+      "title": "Committee of Supply (COS) 2024",
+      "imageSrc": "https://www.mti.gov.sg/-/media/MTI/COS-2024/Web-Banners/COS_banner.png?h=450&hash=BE7566290A34E0145E0D5AE7A4A83427",
+      "buttonLabel": "Read More",
+      "buttonUrl": "https://www.mti.gov.sg/COS-2024/Committee-of-Supply-2024",
+      "isTextOnRight": true,
+      "variant": "side-by-side"
     },
     {
       "type": "keystatistics",
       "statistics": [
         {
-          "label": "Average all nighters pulled in a typical calendar month",
-          "value": "3"
+          "label": "Real GDP, 4Q 2023 (YoY)",
+          "value": "+ 2.2%"
         },
         {
-          "label": "Growth in tasks assigned Q4 2024 (YoY)",
-          "value": "+12.2%"
+          "label": "Total Merchandise Trade, Feb 2024 (YoY)",
+          "value": "+ 3.5%"
         },
         {
-          "label": "Creative blocks met per single evening",
-          "value": "89"
+          "label": "Industrial Production, Jan 2024 (YoY)",
+          "value": "+ 1.1%"
         },
         {
-          "value": "4.0",
-          "label": "Number of lies in this stat block"
+          "label": "Consumer Price Index, Feb 2024 (YoY)",
+          "value": "+ 3.4%"
         }
       ],
-      "variant": "top",
-      "title": "Irrationality in numbers"
+      "variant": "side",
+      "title": "Key Economic Indicators"
+    },
+    {
+      "type": "infocols",
+      "infoBoxes": [
+        {
+          "title": "Committee of Supply (COS) 2024",
+          "buttonLabel": "Learn more",
+          "description": "Singapore Economy 2030",
+          "buttonUrl": "https://www.mti.gov.sg/COS-2024/Committee-of-Supply-2024",
+          "icon": "bar-chart"
+        },
+        {
+          "title": "Launch of the Manpower for Strategic Economic Priorities (M-SEP) scheme to support firms’ expansion plans",
+          "buttonUrl": "https://www.mti.gov.sg/Newsroom/Press-Releases/2022/12/Launch-of-the-M-SEP-scheme-to-support-firms-expansion-plans",
+          "buttonLabel": "Learn more",
+          "description": "Supporting businesses that contribute to Singapore's strategic economic priorities.",
+          "icon": "bar-chart"
+        },
+        {
+          "title": "Partnerships",
+          "description": "Multilateral collaborations to strengthen regional cooperation and build capabilities.",
+          "buttonLabel": "Learn more",
+          "buttonUrl": "https://www.mti.gov.sg/Partnerships/Overview",
+          "icon": "bar-chart"
+        },
+        {
+          "title": "Digital Economy Agreements",
+          "description": "Digital trade rules and digital economy collaborations between two or more economies.",
+          "buttonLabel": "Learn more",
+          "buttonUrl": "https://www.mti.gov.sg/Trade/Digital-Economy-Agreements",
+          "icon": "bar-chart"
+        },
+        {
+          "title": "Industry Transformation Maps",
+          "description": "23 roadmaps to drive industry transformation",
+          "buttonLabel": "Learn more",
+          "buttonUrl": "https://www.mti.gov.sg/ITMs/Overview",
+          "icon": "bar-chart"
+        },
+        {
+          "title": "Pro-Enterprise Panel (PEP)",
+          "description": "A pro-enterprise environment that facilitates the growth of businesses",
+          "buttonLabel": "Learn more",
+          "buttonUrl": "https://www.mti.gov.sg/PEP/About-the-PEP",
+          "icon": "bar-chart"
+        }
+      ],
+      "title": "Highlights"
+    },
+    {
+      "type": "infopic",
+      "title": "Budget 2024",
+      "description": "Building our Shared Future Together",
+      "imageSrc": "https://www.mti.gov.sg/-/media/MTI/Images/Home/Budget-banner-2024.png?h=312&mh=312&w=533&hash=197E898658D82343A1FD208F1EEA9459",
+      "buttonLabel": "Learn more",
+      "buttonUrl": "https://www.mof.gov.sg/singaporebudget",
+      "variant": "side-by-side"
     }
   ]
 }
