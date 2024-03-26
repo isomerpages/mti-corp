@@ -1,0 +1,38 @@
+{
+  "version": "0.1.0",
+  "page": {
+    "layout": "content"
+  },
+  "content": [
+    {
+      "type": "contentpageheader",
+      "breadcrumb": {
+        "links": [
+          {
+            "title": "Home",
+            "url": "https://www.mti.gov.sg/"
+          },
+          {
+            "title": "Press Releases",
+            "url": "https://www.mti.gov.sg/press-releases"
+          }
+        ]
+      },
+      "title": "Press Release",
+      "summary": "25 MAR 2024"
+    },
+    {
+      "type": "heading",
+      "content": "Consumer Price Developments in February 2024",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": "<a href='https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2024/03/Consumer-Price-Developments-in-February-2024.pdf'>Please click here for the full press release.</a> "
+    },
+    {
+      "type": "paragraph",
+      "content": "MONETARY AUTHORITY OF SINGAPORE MINISTRY OF TRADE AND INDUSTRY 25 MARCH 2024"
+    }
+  ]
+}
