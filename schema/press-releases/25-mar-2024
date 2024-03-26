@@ -15,6 +15,10 @@
           {
             "title": "Press Releases",
             "url": "https://www.mti.gov.sg/press-releases"
+          },
+          {
+            "title": "Consumer Price Developments in February 2024",
+            "url": "https://www.mti.gov.sg/press-releases/25-mar-2024"
           }
         ]
       },
@@ -28,7 +32,7 @@
     },
     {
       "type": "paragraph",
-      "content": "<a href='https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2024/03/Consumer-Price-Developments-in-February-2024.pdf'>Please click here for the full press release.</a> "
+      "content": "Please click here for the full press release. "
     },
     {
       "type": "paragraph",
