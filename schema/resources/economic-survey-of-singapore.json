@@ -1,0 +1,74 @@
+{
+  "version": "0.1.0",
+  "page": {
+    "layout": "content"
+  },
+  "content": [
+    {
+      "type": "contentpageheader",
+      "breadcrumb": {
+        "links": [
+          {
+            "title": "Home",
+            "url": "https://www.mti.gov.sg/"
+          },
+          {
+            "url": "https://www.mti.gov.sg/resources/economic-survey-of-singapore",
+            "title": "Economic Survey of Singapore"
+          }
+        ]
+      },
+      "title": "Economic Survey of Singapore",
+      "summary": "Resources"
+    },
+    {
+      "type": "infocols",
+      "infoBoxes": [
+        {
+          "title": "Economic Survey of Singapore",
+          "description": "Key statistical data such as on the labour market, productivity, industrial production, investments, retail activity, tourism and trade are available here.",
+          "buttonLabel": "Learn more",
+          "buttonUrl": "https://www.mti.gov.sg/resources/key-economic-indicators"
+        },
+        {
+          "title": "Feature Articles",
+          "description": "Additional articles on economics and trade issues, published on an ad-hoc basis, are posted here.",
+          "buttonLabel": "Learn more",
+          "buttonUrl": "https://www.mti.gov.sg/Resources/feature-articles"
+        },
+        {
+          "title": "Publications",
+          "description": "The list of publications available are posted here.",
+          "buttonLabel": "Learn more",
+          "buttonUrl": "https://www.mti.gov.sg/Resources/publications"
+        }
+      ],
+      "title": "Our Resources"
+    },
+    {
+      "type": "infocards",
+      "cards": [
+        {
+          "title": "Singstat Statistics",
+          "imageUrl": "https://www.singstat.gov.sg/assets/singstat/images/design/Singstat-New-Logo_v7.png",
+          "buttonLabel": "Learn more",
+          "buttonUrl": "https://www.singstat.gov.sg/"
+        },
+        {
+          "title": "Ministry of Manpower (MOM) Statistics",
+          "imageUrl": "https://stats.mom.gov.sg/Style%20Library/imas/img/main-logo.png",
+          "buttonLabel": "Learn more",
+          "buttonUrl": "http://stats.mom.gov.sg/Pages/Home.aspx"
+        },
+        {
+          "buttonUrl": "https://www.mas.gov.sg/Statistics.aspx",
+          "buttonLabel": "Learn more",
+          "title": "Monetary Authority of Singapore (MAS) Statistics",
+          "imageUrl": "https://www.mas.gov.sg/-/media/mas/mas-logo.svg"
+        }
+      ],
+      "variant": "top",
+      "title": "Other Resources"
+    }
+  ]
+}
