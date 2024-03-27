@@ -1,0 +1,50 @@
+{
+  "version": "0.1.0",
+  "page": {
+    "layout": "content"
+  },
+  "content": [
+    {
+      "type": "contentpageheader",
+      "breadcrumb": {
+        "links": [
+          {
+            "title": "Home",
+            "url": "https://www.mti.gov.sg/"
+          },
+          {
+            "url": "https://www.mti.gov.sg/resources/publications",
+            "title": "Publications"
+          }
+        ]
+      },
+      "title": "Publications",
+      "summary": "Resources"
+    },
+    {
+      "type": "infocards",
+      "cards": [
+        {
+          "title": "Singstat Statistics",
+          "imageUrl": "https://www.singstat.gov.sg/assets/singstat/images/design/Singstat-New-Logo_v7.png",
+          "buttonLabel": "Learn more",
+          "buttonUrl": "https://www.singstat.gov.sg/"
+        },
+        {
+          "title": "Ministry of Manpower (MOM) Statistics",
+          "imageUrl": "https://stats.mom.gov.sg/Style%20Library/imas/img/main-logo.png",
+          "buttonLabel": "Learn more",
+          "buttonUrl": "http://stats.mom.gov.sg/Pages/Home.aspx"
+        },
+        {
+          "buttonUrl": "https://www.mas.gov.sg/Statistics.aspx",
+          "buttonLabel": "Learn more",
+          "title": "Monetary Authority of Singapore (MAS) Statistics",
+          "imageUrl": "https://www.mas.gov.sg/-/media/mas/mas-logo.svg"
+        }
+      ],
+      "variant": "top",
+      "title": "Other Resources"
+    }
+  ]
+}
