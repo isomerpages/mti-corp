@@ -1,0 +1,46 @@
+{
+  "version": "0.1.0",
+  "page": {
+    "layout": "content"
+  },
+  "content": [
+    {
+      "type": "contentpageheader",
+      "breadcrumb": {
+        "links": [
+          {
+            "title": "Home",
+            "url": "https://www.mti.gov.sg/"
+          },
+          {
+            "url": "https://www.mti.gov.sg/resources/publications",
+            "title": "Publications"
+          },
+          {
+            "title": "The digital realm – next step in EU-S’pore partnership",
+            "url": "https://www.mti.gov.sg/resources/publications/the-digital-realm"
+          }
+        ]
+      },
+      "title": "Publication",
+      "summary": "7 JAN 2022"
+    },
+    {
+      "type": "heading",
+      "content": "The digital realm – next step in EU-S’pore partnership",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": "Published on 7 January 2022"
+    },
+    {
+      "type": "paragraph",
+      "content": "Just two years after the EU-Singapore Free Trade Agreement (EUSFTA) entered into force, the EU and Singapore are ready to take our economic cooperation to the next level by pursuing a comprehensive digital partnership. Digitalisation has changed the way we transact goods and services and it is imperative that we advance into the digital space. Read the commentary by Minister-in-charge for Trade Relations S. Iswaran and European Commission Executive Vice-President and Trade Commissioner Valdis Dombrovskis to find out more."
+    },
+    {
+      "type": "paragraph",
+      "content": "Click <a href='https://www.mti.gov.sg/-/media/MTI/Resources/Publications/EU-Singapore-Op-Ed/EU-Singapore-Op-Ed_7.pdf'>here</a> for the full commentary."
+    }
+  ]
+}
