@@ -1,0 +1,88 @@
+{
+  "version": "0.1.0",
+  "page": {
+    "layout": "content"
+  },
+  "content": [
+    {
+      "type": "contentpageheader",
+      "breadcrumb": {
+        "links": [
+          {
+            "title": "Home",
+            "url": "https://www.mti.gov.sg/"
+          },
+          {
+            "title": "Free Trade Agreements",
+            "url": "https://www.mti.gov.sg/free-trade-agreements"
+          }
+        ]
+      },
+      "title": "Free Trade Agreements",
+      "summary": "Over the years, Singapore has forged an extensive network of 27 implemented agreements."
+    },
+    {
+      "type": "heading",
+      "content": "Free Trade Agreements",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": "Free Trade Agreements (FTAs) are treaties which make trade and investment between 2 or more economies easier. Singapore has an open economy which is driven by trade in goods and services. Over the years, it has forged an extensive network of 27 implemented agreements."
+    },
+    {
+      "type": "paragraph",
+      "content": "With FTAs, Singapore-based exporters and investors stand to enjoy a myriad of benefits like tariff concessions, preferential access to certain sectors, faster entry into markets and Intellectual Property protection."
+    },
+    {
+      "type": "image",
+      "src": "https://www.mti.gov.sg/-/media/MTI/improving-trade/FTAs/FTAs_and_DEAs_bookletcover.png",
+      "alt": "FTAs and DEAs booklet cover"
+    },
+    {
+      "type": "paragraph",
+      "content": "Click <a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/FTAs/All-you-need-to-know-about-SG-FTAs-and-DEAs-15022023.pdf'>here</a> for more information on Free Trade Agreements and Digital Economy Agreements."
+    },
+    {
+      "type": "infocards",
+      "cards": [
+        {
+          "title": "Singapore-India Comprehensive Economic Cooperation Agreement (CECA)",
+          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Microsites/CECA/cta-ceca_v2.png?h=312&mh=312&w=533&hash=7E74E73408C4AB1E2E337ACCAE4189CD",
+          "text": "Understanding the comprehensive economic partnership between Singapore and India and why it matters to us.",
+          "buttonLabel": "Learn more",
+          "buttonUrl": "https://www.mti.gov.sg/Trade/Free-Trade-Agreements/CECA"
+        },
+        {
+          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Improving-Trade/cta-cptpp.jpg?h=312&mh=312&w=534&hash=7491DDA69585C26FC46CE8D9AE0DC728",
+          "title": "Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)",
+          "text": "The CPTPP is a FTA between 11 countries: Australia, Brunei Darussalam, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam.",
+          "buttonLabel": "Learn more",
+          "buttonUrl": "https://www.mti.gov.sg/Trade/Free-Trade-Agreements/CPTPP"
+        },
+        {
+          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Improving-Trade/cta-trade-in-goods.jpg?h=312&mh=312&w=534&hash=4DAF3AB6DE838750BFFC8ADA323CCA7C",
+          "title": "FTA Website",
+          "text": "Visit the FTA website for more information.",
+          "buttonLabel": "Learn more",
+          "buttonUrl": "https://www.enterprisesg.gov.sg/grow-your-business/go-global/international-agreements/free-trade-agreements"
+        },
+        {
+          "title": "Regional Comprehensive Economic Partnership (RCEP) Agreement",
+          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/RCEP-carousel-banner_v2.png?h=312&mh=312&w=534&hash=EE5CCE7408F7F10C8FC324F8D4F7CE75",
+          "text": "The Regional Comprehensive Economic Partnership (“RCEP\") Agreement is a Free Trade Agreement (“FTA”) between 15 countries: Brunei Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand, Viet Nam, Australia, China, Japan, Republic of Korea, and New Zealand.",
+          "buttonLabel": "Learn more",
+          "buttonUrl": "https://www.mti.gov.sg/Trade/Free-Trade-Agreements/RCEP"
+        },
+        {
+          "title": "European Union-Singapore Free Trade Agreement (EUSFTA)",
+          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Improving-Trade/cta-eusfta.jpg?h=312&mh=312&w=534&hash=5C1D9CD88FCD47ADF6EEE2893B8F7A95",
+          "text": "The EUSFTA is the first FTA concluded between the EU and an ASEAN country.",
+          "buttonLabel": "Learn more",
+          "buttonUrl": "https://www.mti.gov.sg/Trade/Free-Trade-Agreements/EUSFTA"
+        }
+      ],
+      "variant": "side"
+    }
+  ]
+}
