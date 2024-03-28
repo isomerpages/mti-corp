@@ -66,17 +66,21 @@
     {
       "type": "image",
       "src": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Services-Logo/QMS_SAC-Logo.jpg?thn=0&w=200&hash=995DF125FC1A8EED245FF83778AEF40B",
-      "alt": "QMS_SAC"
+      "alt": "QMS_SAC",
+      "width": 20
+
     },
     {
       "type": "image",
       "src": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Services-Logo/PD-Logo.jpg?thn=0&w=200&hash=F1C67A008B783762EC395D493EA1314C",
-      "alt": "PD"
+      "alt": "PD",
+      "width": 20
     },
     {
       "type": "image",
       "src": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Services-Logo/SQC.jpg?thn=0&w=200&hash=816B62D58026E9B2EE3028FFE9AB2E9B",
-      "alt": "SQC"
+      "alt": "SQC",
+      "width": 20
     }
   ]
 }
