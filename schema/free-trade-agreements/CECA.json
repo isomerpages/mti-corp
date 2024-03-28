@@ -1,0 +1,131 @@
+{
+  "version": "0.1.0",
+  "page": {
+    "layout": "content"
+  },
+  "content": [
+    {
+      "type": "contentpageheader",
+      "breadcrumb": {
+        "links": [
+          {
+            "title": "Home",
+            "url": "https://www.mti.gov.sg/"
+          },
+          {
+            "title": "Free Trade Agreements",
+            "url": "https://www.mti.gov.sg/free-trade-agreements"
+          },
+          {
+            "title": "Singapore-India Comprehensive Economic Cooperation Agreement (CECA)",
+            "url": "https://www.mti.gov.sg/free-trade-agreements/ceca"
+          }
+        ]
+      },
+      "title": "Singapore-India Comprehensive Economic Cooperation Agreement (CECA)",
+      "summary": "Free Trade Agreement"
+    },
+    {
+      "type": "heading",
+      "content": "What is CECA?",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": "CECA is a part of Singapore’s extensive network of 26 Free Trade Agreements (FTAs)."
+    },
+    {
+      "type": "image",
+      "src": "https://www.mti.gov.sg/-/media/MTI/Microsites/CECA/fta_map.png",
+      "alt": "FTA map",
+      "width": 50
+    },
+    {
+      "type": "paragraph",
+      "content": "CECA entered into force in 2005. It was the first comprehensive economic agreement between Singapore and a South Asian country."
+    },
+    {
+      "type": "heading",
+      "content": "Why does CECA matter? ",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": "Our FTAs widen and facilitate our businesses' access to overseas markets when exporting their goods and services, provide protection for their investments abroad and provide certainty on foreign regulations."
+    },
+    {
+      "type": "paragraph",
+      "content": "Specifically under CECA:"
+    },
+    {
+      "type": "unorderedlist",
+      "items": [
+        "With tariff reduced under CECA, Singapore companies’ products are more competitively priced in India's large consumer market.",
+        "More than 3,000 tariffs have been zeroed under CECA, and another 2,000-plus tariffs reduced. Products that benefit include the following:"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://www.mti.gov.sg/-/media/MTI/Microsites/CECA/tarifflines.png",
+      "alt": "tarifflines",
+      "width": 80
+    },
+    {
+      "type": "unorderedlist",
+      "items": [
+        "CECA gives preferential access for Singapore service providers and investors in sectors of interest: including engineering, banking, telecommunications and real estate development. Such access gives them more opportunities to expand beyond Singapore.",
+        "Clear provisions, such as those spelling out dispute resolution processes, give Singapore investors greater confidence and protect their investments in India."
+      ]
+    },
+    {
+      "type": "callout",
+      "content": "Have an export question? Please refer to the <a href='https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/tariff-finder'>Tariff Finder site</a>. Read more on the <a href='https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/Singapore-ftas/CECA'>benefits of CECA for businesses.</a>\t",
+      "variant": "info"
+    },
+    {
+      "type": "heading",
+      "content": "How does CECA benefit us?",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": "Since CECA was signed, bilateral trade and investment between Singapore and India have increased significantly."
+    },
+    {
+      "type": "paragraph",
+      "content": "Singapore companies can better access investment opportunities and increase trade with India. As a part of our network of FTAs, CECA also makes Singapore a more attractive base for global companies, encouraging them to base themselves in Singapore and enter the Indian market from here."
+    },
+    {
+      "type": "paragraph",
+      "content": "These have resulted in the creation of good jobs for Singaporeans."
+    },
+    {
+      "type": "image",
+      "src": "https://www.mti.gov.sg/-/media/MTI/Microsites/CECA/ifgstats.png?;",
+      "alt": "ifgstats",
+      "width": 80
+    },
+    {
+      "type": "heading",
+      "content": "Truths about CECA – addressing misunderstandings and inaccuracies",
+      "level": 3
+    },
+      {
+      "type": "heading",
+      "content": "More about CECA",
+      "level": 3
+    },
+    {
+      "type": "unorderedlist",
+      "items": [
+        "<a href='https://www.mti.gov.sg/Newsroom/Speeches/2021/07/Ministerial-Statement-by-Minister-for-Health-Ong-Ye-Kung-for-Parliament-Sitting'>Ministerial Statement on FTAs/CECA by Minister for Health Ong Ye Kung</a>",
+        "<a href='https://www.mti.gov.sg/Newsroom/Speeches/2021/07/Ministerial-Statement-by-Dr-Tan-See-Leng-Minister-for-Manpower'>Ministerial Statement on foreign workforce policies by Minister for Manpower and Second Minister for Trade and Industry Dr Tan See Leng</a>",
+        "<a href='https://www.mti.gov.sg/Newsroom/Parliamentary-Replies/2021/08/Written-reply-to-PQ-on-review-of-the-CECA'>Written reply to PQ on review of CECA</a>",
+        "<a href='https://www.mti.gov.sg/Newsroom/Parliamentary-Replies/2021/02/Written-reply-to-PQ-on-CECA'>Written reply to PQ on CECA</a>",
+        "<a href='https://www.mti.gov.sg/Newsroom/Parliamentary-Replies/2017/09/Written-reply-to-PQ-on-update-on-review-of-economic-cooperation-Agreement-CECA-with-India-and-discus'>Written reply to PQ on update on review of CECA</a>",
+        "<a href='https://www.youtube.com/watch?v=4iAIQwmLzns'>CECA explained</a>",
+        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CECA/FTA-infographic.pdf'>Infographic on FTAs</a>"
+      ]
+    }
+  ]
+}
