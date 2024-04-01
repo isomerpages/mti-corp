@@ -10,15 +10,15 @@
         "links": [
           {
             "title": "Home",
-            "url": "https://www.mti.gov.sg/"
+            "url": "/"
           },
           {
-            "url": "https://www.mti.gov.sg/resources/feature-articles",
+            "url": "/resources/feature-articles",
             "title": "Feature Articles"
           },
           {
             "title": "Business Cost Conditions in Singapore’s Manufacturing and Services Sectors",
-            "url": "https://www.mti.gov.sg/resources/feature-articles/business-cost-conditions-in-singapore-manufacturing-and-services-sectors"
+            "url": "/resources/feature-articles/business-cost-conditions-in-singapore-manufacturing-and-services-sectors"
           }
         ]
       },
