@@ -10,10 +10,10 @@
         "links": [
           {
             "title": "Home",
-            "url": "https://www.mti.gov.sg/"
+            "url": "/"
           },
           {
-            "url": "https://www.mti.gov.sg/resources/key-economic-indicators",
+            "url": "/resources/key-economic-indicators",
             "title": "Key Economic Indicators"
           }
         ]
