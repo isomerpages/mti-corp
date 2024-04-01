@@ -10,15 +10,15 @@
         "links": [
           {
             "title": "Home",
-            "url": "https://www.mti.gov.sg/"
+            "url": "/"
           },
           {
             "title": "Press Releases",
-            "url": "https://www.mti.gov.sg/press-releases"
+            "url": "/press-releases"
           },
           {
             "title": "INDO-PACIFIC ECONOMIC FRAMEWORK FOR PROSPERITY (IPEF) MINISTERS ADVANCE CLEAN ECONOMY AGREEMENT AND SUPPLY CHAIN AGREEMENT AT THE FIRST MINISTERIAL MEETING OF 2024",
-            "url": "https://www.mti.gov.sg/press-releases/14-mar-2024"
+            "url": "/press-releases/14-mar-2024"
           }
         ]
       },
