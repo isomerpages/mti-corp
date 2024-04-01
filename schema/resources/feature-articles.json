@@ -10,10 +10,10 @@
         "links": [
           {
             "title": "Home",
-            "url": "https://www.mti.gov.sg/"
+            "url": "/"
           },
           {
-            "url": "https://www.mti.gov.sg/resources/feature-articles",
+            "url": "/resources/feature-articles",
             "title": "Feature Articles"
           }
         ]
