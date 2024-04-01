@@ -10,11 +10,11 @@
         "links": [
           {
             "title": "Home",
-            "url": "https://www.mti.gov.sg/"
+            "url": "/"
           },
           {
             "title": "About MTI",
-            "url": "https://www.mti.gov.sg/about"
+            "url": "/about"
           }
         ]
       },
