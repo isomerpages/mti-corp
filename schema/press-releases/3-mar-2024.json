@@ -10,15 +10,15 @@
         "links": [
           {
             "title": "Home",
-            "url": "https://www.mti.gov.sg/"
+            "url": "/"
           },
           {
             "title": "Press Releases",
-            "url": "https://www.mti.gov.sg/press-releases"
+            "url": "/press-releases"
           },
           {
             "title": "MC13 delivers milestones: Continued exemption of customs duties on electronic transmissions, dispute settlement progress, new members and finalisation of IFD Agreement",
-            "url": "https://www.mti.gov.sg/press-releases/3-mar-2024"
+            "url": "/press-releases/3-mar-2024"
           }
         ]
       },
