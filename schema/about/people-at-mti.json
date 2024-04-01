@@ -10,15 +10,15 @@
         "links": [
           {
             "title": "Home",
-            "url": "https://www.mti.gov.sg/"
+            "url": "/"
           },
           {
             "title": "About MTI",
-            "url": "https://www.mti.gov.sg/about"
+            "url": "/about"
           },
           {
             "title": "People at MTI",
-            "url": "https://www.mti.gov.sg/about/people-at-mti"
+            "url": "/people-at-mti"
           }
         ]
       },
