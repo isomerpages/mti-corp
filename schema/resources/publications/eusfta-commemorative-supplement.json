@@ -10,15 +10,15 @@
         "links": [
           {
             "title": "Home",
-            "url": "https://www.mti.gov.sg/"
+            "url": "/"
           },
           {
-            "url": "https://www.mti.gov.sg/resources/publications",
+            "url": "/resources/publications",
             "title": "Publications"
           },
           {
             "title": "EUSFTA Commemorative Supplement - Deepening Trade and Business Links",
-            "url": "https://www.mti.gov.sg/resources/publications/eusfta-commemorative-supplement"
+            "url": "/resources/publications/eusfta-commemorative-supplement"
           }
         ]
       },
