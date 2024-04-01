@@ -10,15 +10,15 @@
         "links": [
           {
             "title": "Home",
-            "url": "https://www.mti.gov.sg/"
+            "url": "/"
           },
           {
-            "url": "https://www.mti.gov.sg/resources/publications",
+            "url": "/resources/publications",
             "title": "Publications"
           },
           {
             "title": "20 Conversations Publication",
-            "url": "https://www.mti.gov.sg/resources/publications/20-conversations"
+            "url": "/resources/publications/20-conversations"
           }
         ]
       },
