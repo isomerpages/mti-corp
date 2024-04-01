@@ -10,15 +10,15 @@
         "links": [
           {
             "title": "Home",
-            "url": "https://www.mti.gov.sg/"
+            "url": "/"
           },
           {
             "title": "Free Trade Agreements",
-            "url": "https://www.mti.gov.sg/free-trade-agreements"
+            "url": "/free-trade-agreements"
           },
           {
             "title": "Singapore-India Comprehensive Economic Cooperation Agreement (CECA)",
-            "url": "https://www.mti.gov.sg/free-trade-agreements/ceca"
+            "url": "/free-trade-agreements/ceca"
           }
         ]
       },
