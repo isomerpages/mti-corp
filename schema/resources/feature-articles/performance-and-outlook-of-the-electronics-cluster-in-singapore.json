@@ -10,15 +10,15 @@
         "links": [
           {
             "title": "Home",
-            "url": "https://www.mti.gov.sg/"
+            "url": "/"
           },
           {
-            "url": "https://www.mti.gov.sg/resources/feature-articles",
+            "url": "/resources/feature-articles",
             "title": "Feature Articles"
           },
           {
             "title": "Performance and Outlook of the Electronics Cluster in Singapore",
-            "url": "https://www.mti.gov.sg/resources/feature-articles/performance-and-outlook-of-the-electronics-cluster-in-singapore"
+            "url": "/resources/feature-articles/performance-and-outlook-of-the-electronics-cluster-in-singapore"
           }
         ]
       },
