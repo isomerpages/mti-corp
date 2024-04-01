@@ -10,15 +10,15 @@
         "links": [
           {
             "title": "Home",
-            "url": "https://www.mti.gov.sg/"
+            "url": "/"
           },
           {
-            "url": "https://www.mti.gov.sg/resources/publications",
+            "url": "/resources/publications",
             "title": "Publications"
           },
           {
             "title": "The digital realm – next step in EU-S’pore partnership",
-            "url": "https://www.mti.gov.sg/resources/publications/the-digital-realm"
+            "url": "/resources/publications/the-digital-realm"
           }
         ]
       },
