@@ -1,0 +1,107 @@
+{
+  "version": "0.1.0",
+  "page": {
+    "layout": "content"
+  },
+  "content": [
+    {
+      "type": "contentpageheader",
+      "breadcrumb": {
+        "links": [
+          {
+            "title": "Home",
+            "url": "/"
+          },
+          {
+            "title": "Free Trade Agreements",
+            "url": "/free-trade-agreements"
+          },
+          {
+            "title": "RCEP",
+            "url": "/free-trade-agreements/RCEP"
+          }
+        ]
+      },
+      "title": "Regional Comprehensive Economic Partnership (RCEP)",
+      "summary": "Free Trade Agreements"
+    },
+    {
+      "type": "paragraph",
+      "content": "<br>The Regional Comprehensive Economic Partnership (“RCEP\") Agreement is a Free Trade Agreement (“FTA”) between 15 countries: Brunei Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand, Viet Nam, Australia, China, Japan, Republic of Korea, and New Zealand.</br>"
+    },
+    {
+      "type": "paragraph",
+      "content": "<br>It is the world’s largest FTA, comprising about 30% of global GDP and about a third of the world’s population.</br>"
+    },
+    {
+      "type": "paragraph",
+      "content": "<br>RCEP negotiations were formally launched at the 2012 ASEAN Summit in Cambodia and the Agreement was signed on 15 November 2020. The quorum for entry into force was met in November 2021.</br>"
+    },
+    {
+      "type": "paragraph",
+      "content": "<br>The RCEP Agreement entered into force on 1 January 2022 for ten participating countries (Australia, Brunei Darussalam, Cambodia, China, Japan, Lao PDR, New Zealand, Singapore, Thailand and Vietnam). It has also entered into force for South Korea (1 February), Myanmar (4 March) and Malaysia (18 March). It will enter into force for the remaining participating countries 60 days after they have deposited their instrument of ratification with the Depositary.</br></br>"
+    },
+    {
+      "type": "callout",
+      "content": "\"The entry into force of the RCEP will provide a boost to the trade and business ties between Singapore and the RCEP parties. We are heartened that many Singapore businesses indicated that they were keen to explore utilising the RCEP Agreement when it enters info force during outreach events. That the RCEP agreement is entering into force about a year after it was signed, is testament to the region’s determination and commitment to deepening economic integration amidst difficult times. We look forward to the swift ratification of the RCEP by all remaining parties so that the full potential of the Agreement can be realised.\" - Minister Gan Kim Yong, Minister for Trade and Industry",
+      "variant": "info"
+    },
+    {
+      "type": "heading",
+      "content": "Joint Statements",
+      "level": 5
+    },
+    {
+      "type": "unorderedlist",
+      "items": [
+        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/RCEPISSLMM10-04-Final-Joint-Media-Statement.pdf'>10th Inter-sessional RCEP Ministerial Meeting, 23 June 2020</a>",
+        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/The-8th-RCEP-Intersessional-Ministerial-Meeting.pdf'>8th Inter-sessional RCEP Ministerial Meeting, 2-3 August 2019</a>",
+        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/The-7th-RCEP-Intersessional-Ministerial-Meeting.pdf'>7th Inter-sessional RCEP Ministerial Meeting, 2 March 2019</a></br></br>"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "MTI Press Releases",
+      "level": 5
+    },
+    {
+      "type": "unorderedlist",
+      "items": [
+        "<a href='https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2021/04/Press-Release-on-Ratification-of-the-RCEP.pdf'>Regional Comprehensive Economic Partnership Agreement enters into force on 1 January 2022, 1 January 2022</a>",
+        "<a href='https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2021/04/Press-Release-on-Ratification-of-the-RCEP.pdf'>Singapore Ratifies the RCEP Agreement, 9 April 2021</a>",
+        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/Press-Release-on-the-Regional-Comprehensive-Economic-Partnership-Signing-15-Nov.pdf'>RCEP Agreement Signed, 15 November 2020</a>",
+        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/5th-RCEP-ISSL-MM-Pre-trip-Press-Release.pdf'>MTI statement on the 5th Inter-sessional RCEP Ministerial Meeting, 29 June 2018</a></br></br>"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Infographic",
+      "level": 5
+    },
+    {
+      "type": "unorderedlist",
+      "items": [
+        "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/-/media/2284D0D6D6804D3C9860FDBB5CA1DAF0.ashx'>Regional Comprehensive Economic Partnership (RCEP) Agreement</a></br></br>"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "What You Need to Know about the RCEP",
+      "level": 5
+    },
+    {
+      "type": "unorderedlist",
+      "items": [
+        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/RCEP-booklet.pdf'>Understanding Trade in Goods and Rules of Origin Under the RCEP: Benefits for Businesses</a>",
+        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/Trade-in-Services.pdf'>Understanding the RCEP Services, Investments, and E-commerce Chapters: Benefits for Businesses</a>",
+        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/IP-Booklet.pdf'>Understanding the RCEP Intellectual Property Chapter: Benefits for Businesses</a>",
+        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/What-You-Need-to-Know-About-the-RCEP-Apr-2021.pdf'>Factsheet on the RCEP Agreement</a></br></br>"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Singapore's FTA Network",
+      "level": 5
+    }
+  ]
+}
