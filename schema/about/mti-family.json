@@ -10,15 +10,15 @@
         "links": [
           {
             "title": "Home",
-            "url": "https://www.mti.gov.sg/"
+            "url": "/"
           },
           {
             "title": "About Us",
-            "url": "https://www.mti.gov.sg/about"
+            "url": "/about"
           },
           {
             "title": "MTI Family",
-            "url": "https://www.mti.gov.sg/about/mti-family"
+            "url": "/about/mti-family"
           }
         ]
       },
@@ -41,30 +41,6 @@
     {
       "type": "paragraph",
       "content": "Our government department is: Singapore Department of Statistics (DOS). As the National Statistical Office, DOS delivers statistics and statistical services to empower decision making."
-    },
-    {
-      "type": "button",
-      "label": "About MTI",
-      "href": "https://www.mti.gov.sg/about",
-      "colorScheme": "black",
-      "variant": "outline",
-      "rounded": true
-    },
-    {
-      "type": "button",
-      "label": "People at MTI",
-      "href": "https://www.mti.gov.sg/about/people-at-mti",
-      "colorScheme": "black",
-      "variant": "outline",
-      "rounded": true
-    },
-    {
-      "type": "button",
-      "label": "MTI Family",
-      "href": "https://www.mti.gov.sg/about/mti-family",
-      "colorScheme": "black",
-      "variant": "outline",
-      "rounded": true
     }
   ]
 }
