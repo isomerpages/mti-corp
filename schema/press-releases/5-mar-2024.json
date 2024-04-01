@@ -10,15 +10,15 @@
         "links": [
           {
             "title": "Home",
-            "url": "https://www.mti.gov.sg/"
+            "url": "/"
           },
           {
             "title": "Press Releases",
-            "url": "https://www.mti.gov.sg/press-releases"
+            "url": /press-releases"
           },
           {
             "title": "Joint Development of Principles to Guide Development of Cross-Border Electricity Trade",
-            "url": "https://www.mti.gov.sg/press-releases/5-mar-2024"
+            "url": "/press-releases/5-mar-2024"
           }
         ]
       },
