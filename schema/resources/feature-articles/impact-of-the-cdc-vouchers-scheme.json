@@ -10,15 +10,15 @@
         "links": [
           {
             "title": "Home",
-            "url": "https://www.mti.gov.sg/"
+            "url": "/"
           },
           {
-            "url": "https://www.mti.gov.sg/resources/feature-articles",
+            "url": "/resources/feature-articles",
             "title": "Feature Articles"
           },
           {
             "title": "Impact of the CDC Vouchers Scheme",
-            "url": "https://www.mti.gov.sg/resources/feature-articles/impact-of-the-cdc-vouchers-scheme"
+            "url": "/resources/feature-articles/impact-of-the-cdc-vouchers-scheme"
           }
         ]
       },
