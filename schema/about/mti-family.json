@@ -32,15 +32,85 @@
     },
     {
       "type": "paragraph",
-      "content": "here are altogether nine statutory boards and one government department under the Ministry’s purview."
+      "content": "There are altogether nine statutory boards and one government department under the Ministry’s purview.</br></br>"
     },
     {
       "type": "paragraph",
-      "content": "Our statutory boards are: Agency for Science, Technology and Research (A*STAR), Economic Development Board (EDB), Enterprise Singapore, Jurong Town Corporation (JTC), Singapore Tourism Board (STB), Competition and Consumer Commission of Singapore (CCCS), Energy Market Authority (EMA), Hotels Licensing Board (HLB) and Sentosa Development Corporation (SDC). The scope of their work comprises driving research and innovation, forging a progressive energy landscape, promotion of local enterprises and the development of our tourism sector, among others. "
+      "content": "Our statutory boards are: Agency for Science, Technology and Research (A*STAR), Economic Development Board (EDB), Enterprise Singapore, Jurong Town Corporation (JTC), Singapore Tourism Board (STB), Competition and Consumer Commission of Singapore (CCCS), Energy Market Authority (EMA), Hotels Licensing Board (HLB) and Sentosa Development Corporation (SDC). The scope of their work comprises driving research and innovation, forging a progressive energy landscape, promotion of local enterprises and the development of our tourism sector, among others.</br></br>"
     },
     {
       "type": "paragraph",
-      "content": "Our government department is: Singapore Department of Statistics (DOS). As the National Statistical Office, DOS delivers statistics and statistical services to empower decision making."
+      "content": "Our government department is: Singapore Department of Statistics (DOS). As the National Statistical Office, DOS delivers statistics and statistical services to empower decision making.</br></br>"
+    },
+    {
+      "type": "image",
+      "src": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Agencies/New-Singstat-logo.jpg?h=63&w=251&hash=F1212178E848F9FC54000C9588F71C10",
+      "alt": "Singstat",
+      "width": 20,
+      "href": "https://www.singstat.gov.sg/"
+    },
+    {
+      "type": "image",
+      "src": "https://www.mti.gov.sg/-/media/Images/A_star_new_logo.png?h=313&w=823&hash=021FB4EFDB933333A635544D93483B41",
+      "alt": "A-STAR",
+      "width": 20,
+      "href": "http://www.a-star.edu.sg/"
+    },
+    {
+      "type": "image",
+      "src": "https://www.mti.gov.sg/-/media/MTI/Images/CCCS-logo---final.jpg?h=86&w=195&hash=0DE0AAC46357AC56A7EB539AD0FB999E",
+      "alt": "CCCS",
+      "width": 20,
+      "href": "http://www.cccs.gov.sg/"
+    },
+    {
+      "type": "image",
+      "src": "https://www.mti.gov.sg/-/media/MTI/Images/edb-logo-v3.png?h=88&w=144&hash=1236BB6E83E4FF3E78F34F083D97048F",
+      "alt": "EDB",
+      "width": 20,
+      "href": "https://www.edb.gov.sg/?cmpid=edb_en26"
+    },
+    {
+      "type": "image",
+      "src": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Agencies/EMA-logo.png?h=111&w=195&hash=646208AD8164AADF6C5738BED4B154D7",
+      "alt": "EMA",
+      "width": 20,
+      "href": "https://www.ema.gov.sg/index.aspx"
+    },
+    {
+      "type": "image",
+      "src": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Agencies/Enterprise-Singapore-logo.jpg?h=86&w=190&hash=ED11A0DC3D50D0A2A1ED13101D8243CB",
+      "alt": "Enterprise Singapore",
+      "width": 20,
+      "href": "https://www.enterprisesg.gov.sg/"
+    },
+    {
+      "type": "image",
+      "src": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Agencies/HLB-logo.png?h=55&w=242&hash=F44CE62418C097DD9DC97FA44DC63E62",
+      "alt": "Hotel Lincensing Board",
+      "width": 20,
+      "href": "https://www.hlb.gov.sg/"
+    },
+    {
+      "type": "image",
+      "src": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Agencies/JTC-logo-v2.png?h=90&w=145&hash=19F91910B7F4670750E7B8EB873C8D57",
+      "alt": "jtc",
+      "width": 20,
+      "href": "http://www.jtc.gov.sg/Pages/default.aspx"
+    },
+    {
+      "type": "image",
+      "src": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Agencies/Sentosa-logo.png?h=86&w=245&hash=15186D8D71423E4764A893597DC0C4B8",
+      "alt": "Sentosa",
+      "width": 20,
+      "href": "http://www.sentosa.gov.sg/"
+    },
+    {
+      "type": "image",
+      "src": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Agencies/STB-logo.png?h=121&w=200&hash=EC19729EF9E3184EA44D4CFEB34801AB",
+      "alt": "STB",
+      "width": 20,
+      "href": "https://www.stb.gov.sg/"
     }
   ]
 }
