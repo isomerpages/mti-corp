@@ -115,7 +115,7 @@
       {
         "name": "Public Consultations",
         "url": "/public-consultations"
-      },
+      }
     ]
   },
   {
@@ -145,11 +145,11 @@
       {
         "name": "Legislation",
         "url": "/legislation"
-      },
+      }
     ]
   },
   {
     "name": "Careers",
     "url": "/careers"
-  },
+  }
 ]
