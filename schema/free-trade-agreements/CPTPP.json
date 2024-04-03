@@ -1,11 +1,8 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
-    "layout": "content"
-  },
-  "content": [
-    {
-      "type": "contentpageheader",
+    "contentPageHeader": {
       "breadcrumb": {
         "links": [
           {
@@ -25,6 +22,10 @@
       "title": "The Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)",
       "summary": "Free Trade Agreements"
     },
+    "title": "The Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)",
+    "description": "Free Trade Agreements"
+  },
+  "content": [
     {
       "type": "paragraph",
       "content": "<br>The Comprehensive and Progressive Agreement for Trans-Pacific Partnership (\"CPTPP\") is a Free Trade Agreement (\"FTA\") between 11 countries: Australia, Brunei Darussalam, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam.</br></br>"

@@ -1,11 +1,8 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
-    "layout": "content"
-  },
-  "content": [
-    {
-      "type": "contentpageheader",
+    "contentPageHeader": {
       "breadcrumb": {
         "links": [
           {
@@ -25,6 +22,10 @@
       "title": "Feature Article",
       "summary": "15 FEB 2024"
     },
+    "title": "Feature Article",
+    "description": "15 FEB 2024"
+  },
+  "content": [
     {
       "type": "heading",
       "content": "Performance and Outlook of the Electronics Cluster in Singapore",

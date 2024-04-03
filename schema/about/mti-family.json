@@ -1,11 +1,7 @@
 {
   "version": "0.1.0",
   "page": {
-    "layout": "content"
-  },
-  "content": [
-    {
-      "type": "contentpageheader",
+    "contentPageHeader": {
       "breadcrumb": {
         "links": [
           {
@@ -25,6 +21,10 @@
       "title": "MTI Family",
       "summary": "There are altogether nine statutory boards and one government department under the Ministry’s purview."
     },
+    "title": "MTI Family",
+    "description": "There are altogether nine statutory boards and one government department under the Ministry’s purview."
+  },
+  "content": [
     {
       "type": "heading",
       "content": "MTI Family",
@@ -112,5 +112,6 @@
       "width": 20,
       "href": "https://www.stb.gov.sg/"
     }
-  ]
+  ],
+  "layout": "content"
 }

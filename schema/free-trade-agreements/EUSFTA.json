@@ -1,11 +1,8 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
-    "layout": "content"
-  },
-  "content": [
-    {
-      "type": "contentpageheader",
+    "contentPageHeader": {
       "breadcrumb": {
         "links": [
           {
@@ -25,6 +22,10 @@
       "title": "European Union-Singapore Free Trade Agreement (EUSFTA)",
       "summary": "Free Trade Agreements"
     },
+    "title": "European Union-Singapore Free Trade Agreement (EUSFTA)",
+    "description": "Free Trade Agreements"
+  },
+  "content": [
     {
       "type": "paragraph",
       "content": "<br>The European Union-Singapore Free Trade Agreement (EUSFTA) is the first FTA between the European Union (EU) and an ASEAN country. Singapore and the EU launched negotiations of the EUSFTA in 2009. The Good and Services negotiations were concluded in 2012, while the investment protection negotiations were concluded in 2014. The investment protection elements later became the EU-Singapore Investment Protection Agreement (EUSIPA).</br>"

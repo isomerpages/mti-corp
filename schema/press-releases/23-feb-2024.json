@@ -1,11 +1,8 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
-    "layout": "content"
-  },
-  "content": [
-    {
-      "type": "contentpageheader",
+    "contentPageHeader": {
       "breadcrumb": {
         "links": [
           {
@@ -25,6 +22,10 @@
       "title": "Press Release",
       "summary": "23 FEB 2024"
     },
+    "title": "Press Release",
+    "description": "23 FEB 2024"
+  },
+  "content": [
     {
       "type": "heading",
       "content": "Minister for Trade and Industry Gan Kim Yong to visit Abu Dhabi for the 13th World Trade Organization Ministerial Conference and related meetings",

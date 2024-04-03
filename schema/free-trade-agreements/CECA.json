@@ -1,11 +1,8 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
-    "layout": "content"
-  },
-  "content": [
-    {
-      "type": "contentpageheader",
+    "contentPageHeader": {
       "breadcrumb": {
         "links": [
           {
@@ -13,18 +10,22 @@
             "url": "/"
           },
           {
-            "title": "Free Trade Agreements",
-            "url": "/free-trade-agreements"
+            "title": "About MTI",
+            "url": "/about"
           },
           {
-            "title": "Singapore-India Comprehensive Economic Cooperation Agreement (CECA)",
-            "url": "/free-trade-agreements/ceca"
+            "title": "People at MTI",
+            "url": "/about/people-at-mti"
           }
         ]
       },
-      "title": "Singapore-India Comprehensive Economic Cooperation Agreement (CECA)",
-      "summary": "Free Trade Agreement"
+      "title": "People at MTI",
+      "summary": "There are altogether nine statutory boards and one government department under the Ministry’s purview."
     },
+    "title": "People at MTI",
+    "description": "There are altogether nine statutory boards and one government department under the Ministry’s purview."
+  },
+  "content": [
     {
       "type": "heading",
       "content": "What is CECA?",
@@ -110,7 +111,7 @@
       "content": "Truths about CECA – addressing misunderstandings and inaccuracies",
       "level": 3
     },
-      {
+    {
       "type": "heading",
       "content": "More about CECA",
       "level": 3

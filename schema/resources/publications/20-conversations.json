@@ -1,11 +1,8 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
-    "layout": "content"
-  },
-  "content": [
-    {
-      "type": "contentpageheader",
+    "contentPageHeader": {
       "breadcrumb": {
         "links": [
           {
@@ -25,6 +22,10 @@
       "title": "Publication",
       "summary": "11 NOV 2022"
     },
+    "title": "Publication",
+    "description": "11 NOV 2022"
+  },
+  "content": [
     {
       "type": "heading",
       "content": "20 Conversations Publication",

@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "page": {
-    "layout": "homepage"
+    "title": "Home"
   },
   "content": [
     {
@@ -105,5 +105,6 @@
       "buttonUrl": "https://www.mof.gov.sg/singaporebudget",
       "variant": "side-by-side"
     }
-  ]
+  ],
+  "layout": "homepage"
 }

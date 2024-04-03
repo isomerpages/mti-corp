@@ -1,11 +1,8 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
-    "layout": "content"
-  },
-  "content": [
-    {
-      "type": "contentpageheader",
+    "contentPageHeader": {
       "breadcrumb": {
         "links": [
           {
@@ -25,6 +22,10 @@
       "title": "Feature Article",
       "summary": "13 FEB 2023"
     },
+    "title": "Feature Article",
+    "description": "13 FEB 2023"
+  },
+  "content": [
     {
       "type": "heading",
       "content": "Business Cost Conditions in Singapore’s Manufacturing and Services Sectors",

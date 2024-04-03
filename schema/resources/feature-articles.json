@@ -1,11 +1,8 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
-    "layout": "content"
-  },
-  "content": [
-    {
-      "type": "contentpageheader",
+    "contentPageHeader": {
       "breadcrumb": {
         "links": [
           {
@@ -21,25 +18,32 @@
       "title": "Feature Articles",
       "summary": "Resources"
     },
+    "title": "Feature Articles",
+    "description": "Resources"
+  },
+  "content": [
     {
       "type": "infocards",
       "cards": [
         {
           "title": "Singstat Statistics",
           "imageUrl": "https://www.singstat.gov.sg/assets/singstat/images/design/Singstat-New-Logo_v7.png",
+          "imageAlt": "Singstat Statistics",
           "buttonLabel": "Learn more",
-          "buttonUrl": "https://www.singstat.gov.sg/"
+          "url": "https://www.singstat.gov.sg/"
         },
         {
           "title": "Ministry of Manpower (MOM) Statistics",
           "imageUrl": "https://stats.mom.gov.sg/Style%20Library/imas/img/main-logo.png",
+          "imageAlt": "Ministry of Manpower (MOM) Statistics",
           "buttonLabel": "Learn more",
-          "buttonUrl": "http://stats.mom.gov.sg/Pages/Home.aspx"
+          "url": "http://stats.mom.gov.sg/Pages/Home.aspx"
         },
         {
-          "buttonUrl": "https://www.mas.gov.sg/Statistics.aspx",
+          "url": "https://www.mas.gov.sg/Statistics.aspx",
           "buttonLabel": "Learn more",
           "title": "Monetary Authority of Singapore (MAS) Statistics",
+          "imageAlt": "Monetary Authority of Singapore (MAS) Statistics",
           "imageUrl": "https://www.mas.gov.sg/-/media/mas/mas-logo.svg"
         }
       ],

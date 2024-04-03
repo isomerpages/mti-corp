@@ -1,11 +1,8 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
-    "layout": "content"
-  },
-  "content": [
-    {
-      "type": "contentpageheader",
+    "contentPageHeader": {
       "breadcrumb": {
         "links": [
           {
@@ -25,6 +22,10 @@
       "title": "Press Release",
       "summary": "3 MAR 2024"
     },
+    "title": "Press Release",
+    "description": "3 MAR 2024"
+  },
+  "content": [
     {
       "type": "heading",
       "content": "MC13 delivers milestones: Continued exemption of customs duties on electronic transmissions, dispute settlement progress, new members and finalisation of IFD Agreement",
