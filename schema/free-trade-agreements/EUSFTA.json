@@ -3,22 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Free Trade Agreements",
-            "url": "/free-trade-agreements"
-          },
-          {
-            "title": "European Union-Singapore Free Trade Agreement (EUSFTA)",
-            "url": "/free-trade-agreements/EUSFTA"
-          }
-        ]
-      },
       "title": "European Union-Singapore Free Trade Agreement (EUSFTA)",
       "summary": "Free Trade Agreements"
     },

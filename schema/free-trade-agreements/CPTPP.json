@@ -3,22 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "https://www.mti.gov.sg/"
-          },
-          {
-            "title": "Free Trade Agreements",
-            "url": "/free-trade-agreements"
-          },
-          {
-            "title": "The Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)",
-            "url": "/free-trade-agreements/CPTPP"
-          }
-        ]
-      },
       "title": "The Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)",
       "summary": "Free Trade Agreements"
     },

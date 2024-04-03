@@ -1,0 +1,13 @@
+{
+  "version": "0.1.0",
+  "page": {
+    "contentPageHeader": {
+      "title": "Resources",
+      "summary": "resources"
+    },
+    "title": "Resources",
+    "description": "resources"
+  },
+  "layout": "content",
+  "content": []
+}

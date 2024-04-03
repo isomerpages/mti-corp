@@ -3,18 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "url": "/resources/key-economic-indicators",
-            "title": "Key Economic Indicators"
-          }
-        ]
-      },
       "title": "Key Economic Indicators",
       "summary": "Resources"
     },

@@ -2,22 +2,6 @@
   "version": "0.1.0",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "About Us",
-            "url": "/about"
-          },
-          {
-            "title": "MTI Family",
-            "url": "/about/mti-family"
-          }
-        ]
-      },
       "title": "MTI Family",
       "summary": "There are altogether nine statutory boards and one government department under the Ministry’s purview."
     },

@@ -3,22 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "url": "/resources/publications",
-            "title": "Publications"
-          },
-          {
-            "title": "The digital realm – next step in EU-S’pore partnership",
-            "url": "/resources/publications/the-digital-realm"
-          }
-        ]
-      },
       "title": "Publication",
       "summary": "7 JAN 2022"
     },

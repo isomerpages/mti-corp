@@ -3,18 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "url": "/resources/publications",
-            "title": "Publications"
-          }
-        ]
-      },
       "title": "Publications",
       "summary": "Resources"
     },

@@ -3,22 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "url": "/resources/publications",
-            "title": "Publications"
-          },
-          {
-            "title": "EUSFTA Commemorative Supplement - Deepening Trade and Business Links",
-            "url": "/resources/publications/eusfta-commemorative-supplement"
-          }
-        ]
-      },
       "title": "Publication",
       "summary": "7 APR 2021"
     },

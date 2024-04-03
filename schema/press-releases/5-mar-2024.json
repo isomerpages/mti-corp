@@ -3,22 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Press Releases",
-            "url": "/press-releases"
-          },
-          {
-            "title": "Joint Development of Principles to Guide Development of Cross-Border Electricity Trade",
-            "url": "/press-releases/5-mar-2024"
-          }
-        ]
-      },
       "title": "Press Release",
       "summary": "5 MAR 2024"
     },

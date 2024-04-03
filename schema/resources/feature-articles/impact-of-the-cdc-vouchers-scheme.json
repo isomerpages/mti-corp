@@ -3,22 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "url": "/resources/feature-articles",
-            "title": "Feature Articles"
-          },
-          {
-            "title": "Impact of the CDC Vouchers Scheme",
-            "url": "/resources/feature-articles/impact-of-the-cdc-vouchers-scheme"
-          }
-        ]
-      },
       "title": "Feature Article",
       "summary": "15 FEB 2024"
     },

@@ -3,22 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Free Trade Agreements",
-            "url": "/free-trade-agreements"
-          },
-          {
-            "title": "RCEP",
-            "url": "/free-trade-agreements/RCEP"
-          }
-        ]
-      },
       "title": "Regional Comprehensive Economic Partnership (RCEP)",
       "summary": "Free Trade Agreements"
     },

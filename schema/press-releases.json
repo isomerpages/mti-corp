@@ -1,0 +1,13 @@
+{
+  "version": "0.1.0",
+  "page": {
+    "contentPageHeader": {
+      "title": "Press Releases",
+      "summary": "Press Releases"
+    },
+    "title": "Press Releases",
+    "description": "Press Releases"
+  },
+  "layout": "content",
+  "content": []
+}

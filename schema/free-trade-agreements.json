@@ -2,18 +2,6 @@
   "version": "0.1.0",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Free Trade Agreements",
-            "url": "/free-trade-agreements"
-          }
-        ]
-      },
       "title": "Free Trade Agreements",
       "summary": "Over the years, Singapore has forged an extensive network of 27 implemented agreements."
     },

@@ -3,18 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "url": "/resources/economic-survey-of-singapore",
-            "title": "Economic Survey of Singapore"
-          }
-        ]
-      },
       "title": "Economic Survey of Singapore",
       "summary": "Resources"
     },
