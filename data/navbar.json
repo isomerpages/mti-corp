@@ -1,86 +1,155 @@
 [
   {
-    "name": "Expandable nav item",
-    "url": "/item-one",
+    "name": "About Us",
+    "url": "/about",
     "items": [
       {
-        "name": "PA's network one",
-        "url": "/item-one/pa-network-one",
-        "description": "Click here and brace yourself for mild disappointment."
+        "name": "About MTI",
+        "url": "/about",
+        "description": "Our organisation's vision, mission, structure and values."
       },
       {
-        "name": "PA's network two",
-        "url": "/item-one/pa-network-two",
-        "description": "Click here and brace yourself for mild disappointment."
+        "name": "People at MTI",
+        "url": "/about/people-at-mti",
+        "description": "There are altogether nine statutory boards and one government department under the Ministry’s purview."
       },
       {
-        "name": "PA's network three",
-        "url": "/item-one/pa-network-three"
-      },
-      {
-        "name": "PA's network four",
-        "url": "/item-one/pa-network-four",
-        "description": "Click here and brace yourself for mild disappointment. This one has a pretty long one"
-      },
-      {
-        "name": "PA's network five",
-        "url": "/item-one/pa-network-five",
-        "description": "Click here and brace yourself for mild disappointment. This one has a pretty long one"
-      },
-      {
-        "name": "PA's network six",
-        "url": "/item-one/pa-network-six",
-        "description": "Click here and brace yourself for mild disappointment."
+        "name": "MTI Family",
+        "url": "/about/mti-family",
+        "description": "There are altogether nine statutory boards and one government department under the Ministry’s purview."
       }
     ]
   },
   {
-    "name": "Expandable nav item",
-    "url": "/item-two",
-    "description": "This is a description of the item.",
+    "name": "Trade",
+    "url": "/trade",
     "items": [
       {
-        "name": "A sub item",
-        "url": "/item-two/sub-item",
-        "description": "Click here and brace yourself for mild disappointment."
+        "name": "Free Trade Agreements",
+        "url": "/free-trade-agreements",
+        "description": "Free Trade Agreements are treaties which make trade and investment between two or more economies easier. Find out more here."
       },
       {
-        "name": "Another sub item",
-        "url": "/item-two/another-sub-item"
+        "name": "International Investment Agreements",
+        "url": "/international-investment-agreements",
+        "description": "Singapore's International Investment Agreements promote investment flows between the signatory countries. Find out more here."
+      },
+      {
+        "name": "Digital Economy Agreements",
+        "url": "/digital-economy-agreements",
+        "description": "A Digital Economy Agreement (DEA) is a treaty that establishes digital trade rules and digital economy collaborations between two or more economies."
+      },
+      {
+        "name": "Green Economy Agreements",
+        "url": "/green-economy-agreements",
+        "description": "Green Economy Agreements (GEA) foster common rules and standards that promote trade and investment in green goods, services and technologies; develop interoperable policy frameworks; and catalyse technology development and cooperative projects."
+      },
+      {
+        "name": "Multilateral and Regional Forums",
+        "url": "/multilateral-and-regional-forums",
+        "description": "Singapore supports multilateral and region forums that promote free and open trade. Find out more here."
+      },
+      {
+        "name": "Indo-Pacific Economic Framework for Prosperity (IPEF)",
+        "url": "https://www.ipef.gov.sg",
+        "description": "The IPEF is a platform for countries in the region to collaborate on advancing resilient, sustainable, and inclusive economic growth. Find out more here."
       }
     ]
   },
   {
-    "name": "Expandable nav item",
-    "url": "/item-three",
+    "name": "Industries",
+    "url": "/industries",
     "items": [
       {
-        "name": "A sub item",
-        "url": "/item-three/sub-item"
+        "name": "For Individuals",
+        "url": "/industries/for-individuals"
       },
       {
-        "name": "Another sub item",
-        "url": "/item-three/another-sub-item",
-        "description": "Click here and brace yourself for mild disappointment."
+        "name": "For Enterprises",
+        "url": "/industries/for-enterprises"
+      },
+      {
+        "name": "For Industries",
+        "url": "/industries/for-industries"
       }
     ]
   },
   {
-    "name": "Single item",
-    "url": "/single-item"
-  },
-  {
-    "name": "Expandable nav item",
-    "url": "/item-five",
+    "name": "Partnerships",
+    "url": "/partnerships",
     "items": [
       {
-        "name": "A sub item",
-        "url": "/item-five/sub-item"
+        "name": "France-Singapore Digital and Green Partnership",
+        "url": "/partnerships/france-singapore-digital-and-green-partnership"
       },
       {
-        "name": "Another sub item",
-        "url": "/item-five/another-sub-item"
+        "name": "US-Singapore Partnership for Growth and Innovation",
+        "url": "/partnerships/us-singapore-partnership-for-growth-and-innovation"
       }
     ]
-  }
+  },
+  {
+    "name": "Newsroom",
+    "url": "/newsroom",
+    "items": [
+      {
+        "name": "Press Releases",
+        "description": "Read our press releases here.",
+        "url": "/press-releases"
+      },
+      {
+        "name": "Speeches",
+        "description": "Read the speeches delivered by our political appointees and senior management here.",
+        "url": "/speeches"
+      },
+      {
+        "name": "Parliamentary Replies",
+        "description": "Read our responses to questions raised in the Singapore Parliament here.",
+        "url": "/parliamentary-replies"
+      },
+      {
+        "name": "Forum Letter Replies",
+        "description": "Read our replies to letters to the Forum here.",
+        "url": "/forum-letter-replies"
+      },
+      {
+        "name": "Public Consultations",
+        "url": "/public-consultations"
+      },
+    ]
+  },
+  {
+    "name": "Resources",
+    "url": "/resources",
+    "items": [
+      {
+        "name": "Key Economic Indicators",
+        "description": "Key statistical data such as on the labour market, productivity, industrial production, investments, retail activity, tourism and trade are available here.",
+        "url": "/key-economic-indicators"
+      },
+      {
+        "name": "Economic Survey of Singapore",
+        "description": "Read the Economic Survey of Singapore, which we produce on a quarterly basis, here. Each report contains analyses of the overall Singapore economy and its various economic sectors.",
+        "url": "/economic-survey-of-singapore"
+      },
+      {
+        "name": "Feature Articles",
+        "description": "Additional articles on economics and trade issues, published on an ad-hoc basis, are posted here.",
+        "url": "/feature-articles"
+      },
+      {
+        "name": "Publications",
+        "description": "The list of publications available are posted here. They include an information booklet on Singapore's Free Trade Agreements and Digital Economy Agreements, Future Tense - which covers emerging issues that could transform Singapore's economy, as well as economic plans or reports such as the Report of the Committee on the Future Economy.",
+        "url": "/publications"
+      },
+      {
+        "name": "Legislation",
+        "url": "/legislation"
+      },
+    ]
+  },
+  {
+    "name": "Careers",
+    "url": "/careers"
+  },
 ]
