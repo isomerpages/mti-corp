@@ -3,7 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "title": "Publication",
       "summary": "11 NOV 2022"
     },
     "title": "Publication",
@@ -13,7 +12,8 @@
     {
       "type": "heading",
       "content": "20 Conversations Publication",
-      "level": 3
+      "level": 2,
+      "id": "20-conversations-publication"
     },
     {
       "type": "paragraph",

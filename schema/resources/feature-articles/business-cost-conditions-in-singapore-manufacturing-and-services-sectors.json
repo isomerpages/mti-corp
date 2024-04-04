@@ -3,7 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "title": "Feature Article",
       "summary": "13 FEB 2023"
     },
     "title": "Feature Article",
@@ -13,7 +12,8 @@
     {
       "type": "heading",
       "content": "Business Cost Conditions in Singapore’s Manufacturing and Services Sectors",
-      "level": 3
+      "level": 2,
+      "id": "business-cost-conditions-in-singapores-manufacturing-and-services-sectors"
     },
     {
       "type": "paragraph",

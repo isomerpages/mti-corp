@@ -3,7 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "title": "Publication",
       "summary": "7 JAN 2022"
     },
     "title": "Publication",
@@ -13,7 +12,8 @@
     {
       "type": "heading",
       "content": "The digital realm – next step in EU-S’pore partnership",
-      "level": 3
+      "level": 2,
+      "id": "the-digital-realm"
     },
     {
       "type": "paragraph",

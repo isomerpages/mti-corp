@@ -3,7 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "title": "Feature Article",
       "summary": "15 FEB 2024"
     },
     "title": "Feature Article",
@@ -13,7 +12,8 @@
     {
       "type": "heading",
       "content": "Impact of the CDC Vouchers Scheme",
-      "level": 3
+      "level": 2,
+      "id": "impact-of-the-cdc-vouchers-scheme"
     },
     {
       "type": "paragraph",

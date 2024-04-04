@@ -3,7 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "title": "Publication",
       "summary": "7 APR 2021"
     },
     "title": "Publication",
@@ -13,7 +12,8 @@
     {
       "type": "heading",
       "content": "EUSFTA Commemorative Supplement - Deepening Trade and Business Links",
-      "level": 3
+      "level": 2,
+      "id": "eusfta-commemorative-supplement-deepening-trade-and-business-links"
     },
     {
       "type": "paragraph",
