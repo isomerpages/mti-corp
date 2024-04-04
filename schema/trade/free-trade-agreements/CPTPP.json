@@ -1,6 +1,5 @@
 {
   "version": "0.1.0",
-  "layout": "content",
   "page": {
     "contentPageHeader": {
       "breadcrumb": {
@@ -10,20 +9,24 @@
             "url": "https://www.mti.gov.sg/"
           },
           {
+            "title": "Trade",
+            "url": "/trade"
+          },
+          {
             "title": "Free Trade Agreements",
-            "url": "/free-trade-agreements"
+            "url": "/trade/free-trade-agreements"
           },
           {
             "title": "The Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)",
-            "url": "/free-trade-agreements/CPTPP"
+            "url": "/trade/free-trade-agreements/CPTPP"
           }
         ]
       },
       "title": "The Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)",
-      "summary": "Free Trade Agreements"
+      "summary": "The CPTPP is a FTA between 11 countries: Australia, Brunei Darussalam, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam."
     },
     "title": "The Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)",
-    "description": "Free Trade Agreements"
+    "description": "The CPTPP is a FTA between 11 countries: Australia, Brunei Darussalam, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam."
   },
   "content": [
     {
@@ -345,5 +348,6 @@
         "<a href='https://www.sgpc.gov.sg/sgpcmedia/media_releases/mti/press_release/P-20210901-1/attachment/010921%20-%20Press%20Release%20-%20Min%20Gan%20Kim%20Yong%20Participates%20in%20Fifth%20Meeting%20of%20the%20CPTPP%20Commission.pdf'>CPTPP 5th Commission Meeting, 1 September 2021</a>"
       ]
     }
-  ]
+  ],
+  "layout": "content"
 }
