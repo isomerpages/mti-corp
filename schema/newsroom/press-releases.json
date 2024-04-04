@@ -9,8 +9,12 @@
             "url": "/"
           },
           {
+            "title": "Newsroom",
+            "url": "/newsroom"
+          },
+          {
             "title": "Press Releases",
-            "url": "/press-releases"
+            "url": "/newsroom/press-releases"
           }
         ]
       },
