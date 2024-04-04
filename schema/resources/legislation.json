@@ -1,0 +1,34 @@
+{
+  "version": "0.1.0",
+  "page": {
+    "contentPageHeader": {
+      "breadcrumb": {
+        "links": [
+          {
+            "title": "Home",
+            "url": "/"
+          },
+          {
+            "title": "Resources",
+            "url": "/resources"
+          },
+          {
+            "title": "Legislation",
+            "url": "/resources/legislation"
+          }
+        ]
+      },
+      "title": "Legislation",
+      "summary": "Find out more about the legislation administered by MTI here."
+    },
+    "title": "Legislation"
+  },
+  "content": [
+    {
+      "type": "heading",
+      "content": "Find out more about the legislation administered by MTI here.",
+      "level": 3
+    }
+  ],
+  "layout": "content"
+}
