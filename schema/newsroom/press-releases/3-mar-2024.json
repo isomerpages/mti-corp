@@ -10,12 +10,16 @@
             "url": "/"
           },
           {
+            "title": "Newsroom",
+            "url": "/newsroom"
+          },
+          {
             "title": "Press Releases",
-            "url": "/press-releases"
+            "url": "/newsroom/press-releases"
           },
           {
             "title": "MC13 delivers milestones: Continued exemption of customs duties on electronic transmissions, dispute settlement progress, new members and finalisation of IFD Agreement",
-            "url": "/press-releases/3-mar-2024"
+            "url": "/newsroom/press-releases/3-mar-2024"
           }
         ]
       },
