@@ -1,0 +1,34 @@
+{
+  "version": "0.1.0",
+  "page": {
+    "contentPageHeader": {
+      "breadcrumb": {
+        "links": [
+          {
+            "title": "Home",
+            "url": "/"
+          },
+          {
+            "title": "Careers",
+            "url": "/careers"
+          }
+        ]
+      },
+      "title": "Careers",
+      "summary": "At MTI, you will be at the forefront of shaping Singapore’s vibrant economy!"
+    },
+    "title": "Careers"
+  },
+  "content": [
+    {
+      "type": "heading",
+      "content": "Why MTI",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": "Join us to create exciting opportunities and good jobs for all. Together with our Statutory Boards, we create a thriving business environment. Come steer the growth of our companies and industries, spur innovation and R&D, and manage our land and energy resources effectively. Come travel the world to unlock new markets for our companies to venture into and discover new trade potential for Singapore."
+    }
+  ],
+  "layout": "content"
+}
