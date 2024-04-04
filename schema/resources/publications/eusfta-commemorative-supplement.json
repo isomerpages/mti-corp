@@ -10,8 +10,12 @@
             "url": "/"
           },
           {
-            "url": "/resources/publications",
-            "title": "Publications"
+            "title": "Resources",
+            "url": "/resources"
+          },
+          {
+            "title": "Publications",
+            "url": "/resources/publications"
           },
           {
             "title": "EUSFTA Commemorative Supplement - Deepening Trade and Business Links",
@@ -19,10 +23,10 @@
           }
         ]
       },
-      "title": "Publication",
+      "title": "EUSFTA Commemorative Supplement - Deepening Trade and Business Links",
       "summary": "7 APR 2021"
     },
-    "title": "Publication",
+    "title": "EUSFTA Commemorative Supplement - Deepening Trade and Business Links",
     "description": "7 APR 2021"
   },
   "content": [
