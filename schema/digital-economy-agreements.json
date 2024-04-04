@@ -1,0 +1,34 @@
+{
+  "version": "0.1.0",
+  "page": {
+    "contentPageHeader": {
+      "breadcrumb": {
+        "links": [
+          {
+            "title": "Home",
+            "url": "/"
+          },
+          {
+            "title": "Digital Economy Agreements",
+            "url": "/digital-economy-agreements"
+          }
+        ]
+      },
+      "title": "Digital Economy Agreements",
+      "summary": "A Digital Economy Agreement (DEA) is a treaty that establishes digital trade rules and digital economy collaborations between two or more economies."
+    },
+    "title": "Digital Economy Agreements"
+  },
+  "content": [
+    {
+      "type": "heading",
+      "content": "What are Digital Economy Agreements (DEAs)?",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": "A Digital Economy Agreement (DEA) is a treaty that establishes digital trade rules and digital economy collaborations between two or more economies. Through DEAs with key partners, Singapore hopes to develop international frameworks to foster interoperability of standards and systems and support our businesses, especially SMEs, engaging in digital trade and electronic commerce."
+    }
+  ],
+  "layout": "content"
+}
