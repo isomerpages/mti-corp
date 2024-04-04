@@ -1,6 +1,5 @@
 {
   "version": "0.1.0",
-  "layout": "content",
   "page": {
     "contentPageHeader": {
       "breadcrumb": {
@@ -10,12 +9,16 @@
             "url": "/"
           },
           {
+            "title": "Newsroom",
+            "url": "/newsroom"
+          },
+          {
             "title": "Press Releases",
-            "url": "/press-releases"
+            "url": "/newsroom/press-releases"
           },
           {
             "title": "INDO-PACIFIC ECONOMIC FRAMEWORK FOR PROSPERITY (IPEF) MINISTERS ADVANCE CLEAN ECONOMY AGREEMENT AND SUPPLY CHAIN AGREEMENT AT THE FIRST MINISTERIAL MEETING OF 2024",
-            "url": "/press-releases/14-mar-2024"
+            "url": "/newsroom/press-releases/14-mar-2024"
           }
         ]
       },
@@ -47,5 +50,6 @@
       "type": "paragraph",
       "content": "<a href='file:///C:/Users/mti-izyan/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/SB8DE312/MTI%20Press%20release%20-%20IPEF%20Ministers%20Advance%20Clean%20Economy%20Agreement%20and%20Supply%20Chain%20Agreement%20at%20the%20First%20Ministerial%20Meeting%20of%202024.docx#_ftn1'>[1]</a> In addition to Singapore, the IPEF Partners are Australia, Brunei, Fiji, India, Indonesia, Japan, Korea, Malaysia, New Zealand, the Philippines, Thailand, the United States, and Vietnam."
     }
-  ]
+  ],
+  "layout": "content"
 }
