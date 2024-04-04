@@ -1,0 +1,38 @@
+{
+  "version": "0.1.0",
+  "page": {
+    "contentPageHeader": {
+      "breadcrumb": {
+        "links": [
+          {
+            "title": "Home",
+            "url": "/"
+          },
+          {
+            "title": "Industries",
+            "url": "/industries"
+          },
+          {
+            "title": "For Enterprises",
+            "url": "/industries/for-enterprises"
+          }
+        ]
+      },
+      "title": "For Enterprises",
+      "summary": "The Government is committed to working with our enterprises throughout their transformation journeys."
+    },
+    "title": "For Enterprises"
+  },
+  "content": [
+    {
+      "type": "heading",
+      "content": "Empowering Businesses",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": "With an accelerated pace of disruption and technological change, our enterprises must be prepared to capitalise on emerging trends and take Singapore – and our workforce – into the future. The Government is committed to working with our enterprises throughout their transformation journeys. We will continue to look out for ways to ease business processes for our enterprises, by setting good rules and regulations and fostering a pro-business and pro-worker environment. To accomplish this, we are proactively seeking feedback from businesses to continuously improve our rules and licensing framework, speed up processes and facilitate new business ideas. We will also cut red tape and simplify our licensing regime to reduce compliance costs for businesses where possible."
+    }
+  ],
+  "layout": "content"
+}
