@@ -10,8 +10,12 @@
             "url": "/"
           },
           {
-            "url": "/resources/publications",
-            "title": "Publications"
+            "title": "Resources",
+            "url": "/resources"
+          },
+          {
+            "title": "Publications",
+            "url": "/resources/publications"
           },
           {
             "title": "The digital realm – next step in EU-S’pore partnership",
@@ -19,10 +23,10 @@
           }
         ]
       },
-      "title": "Publication",
+      "title": "The digital realm – next step in EU-S’pore partnership",
       "summary": "7 JAN 2022"
     },
-    "title": "Publication",
+    "title": "The digital realm – next step in EU-S’pore partnership",
     "description": "7 JAN 2022"
   },
   "content": [
