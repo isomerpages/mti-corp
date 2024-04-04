@@ -10,6 +10,10 @@
             "url": "/"
           },
           {
+            "title": "Resources",
+            "url": "/resources"
+          },
+          {
             "url": "/resources/key-economic-indicators",
             "title": "Key Economic Indicators"
           }
