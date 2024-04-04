@@ -1,6 +1,5 @@
 {
   "version": "0.1.0",
-  "layout": "content",
   "page": {
     "contentPageHeader": {
       "breadcrumb": {
@@ -16,10 +15,10 @@
         ]
       },
       "title": "Economic Survey of Singapore",
-      "summary": "Resources"
+      "summary": "Key statistical data such as on the labour market, productivity, industrial production, investments, retail activity, tourism and trade are available here."
     },
     "title": "Economic Survey of Singapore",
-    "description": "Resources"
+    "description": "Key statistical data such as on the labour market, productivity, industrial production, investments, retail activity, tourism and trade are available here."
   },
   "content": [
     {
@@ -74,5 +73,6 @@
       "variant": "top",
       "title": "Other Resources"
     }
-  ]
+  ],
+  "layout": "content"
 }
