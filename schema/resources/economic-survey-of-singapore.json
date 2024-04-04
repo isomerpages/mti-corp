@@ -9,6 +9,10 @@
             "url": "/"
           },
           {
+            "title": "Resources",
+            "url": "/resources"
+          },
+          {
             "url": "/resources/economic-survey-of-singapore",
             "title": "Economic Survey of Singapore"
           }
