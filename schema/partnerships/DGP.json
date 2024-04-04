@@ -1,0 +1,33 @@
+{
+  "version": "0.1.0",
+  "page": {
+    "contentPageHeader": {
+      "breadcrumb": {
+        "links": [
+          {
+            "title": "Home",
+            "url": "/"
+          },
+          {
+            "title": "Partnerships",
+            "url": "/partnerships"
+          },
+          {
+            "title": "France-Singapore Digital and Green Partnership",
+            "url": "/partnerships/DGP"
+          }
+        ]
+      },
+      "title": "France-Singapore Digital and Green Partnership",
+      "summary": "The France-Singapore Digital and Green Partnership (DGP) is part of Singapore’s larger strategy to build a network of international partnerships that enable our companies, especially SMEs, to seize growth opportunities in the fast-growing digital and green economies."
+    },
+    "title": "France-Singapore Digital and Green Partnership"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "content": "The France-Singapore Digital and Green Partnership (DGP) is part of Singapore’s larger strategy to build a network of international partnerships that enable our companies, especially SMEs, to seize growth opportunities in the fast-growing digital and green economies. The DGP provides a structured platform for France and Singapore to cooperate on a wide range of digital and green issues."
+    }
+  ],
+  "layout": "content"
+}
