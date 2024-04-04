@@ -90,7 +90,7 @@ export default function Page({
         site={{
           ...config.site,
           environment: process.env.NEXT_PUBLIC_ISOMER_NEXT_ENVIRONMENT,
-          siteMap: sitemap as any,
+          siteMap: sitemap,
           navBarItems: navbar,
           // @ts-expect-error blah
           footerItems: footer,
