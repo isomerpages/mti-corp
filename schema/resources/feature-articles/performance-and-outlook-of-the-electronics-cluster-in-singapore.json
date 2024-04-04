@@ -10,8 +10,12 @@
             "url": "/"
           },
           {
-            "url": "/resources/feature-articles",
-            "title": "Feature Articles"
+            "title": "Resources",
+            "url": "/resources"
+          },
+          {
+            "title": "Feature Articles",
+            "url": "/resources/feature-articles"
           },
           {
             "title": "Performance and Outlook of the Electronics Cluster in Singapore",
@@ -19,10 +23,10 @@
           }
         ]
       },
-      "title": "Feature Article",
+      "title": "Performance and Outlook of the Electronics Cluster in Singapore",
       "summary": "15 FEB 2024"
     },
-    "title": "Feature Article",
+    "title": "Performance and Outlook of the Electronics Cluster in Singapore",
     "description": "15 FEB 2024"
   },
   "content": [
