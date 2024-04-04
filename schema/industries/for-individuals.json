@@ -1,0 +1,29 @@
+{
+  "version": "0.1.0",
+  "page": {
+    "contentPageHeader": {
+      "breadcrumb": {
+        "links": [
+          {
+            "title": "Home",
+            "url": "/"
+          },
+          {
+            "title": "For Industries",
+            "url": "/trade/for-industries"
+          }
+        ]
+      },
+      "title": "For Industries",
+      "summary": "As the industry transforms, the nature of work and the skills required will change quickly. Individuals will need to continuously deepen and refresh their skills to stay relevant and take advantage of new opportunities."
+    },
+    "title": "For Industries"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "content": "Industry Transformation Maps (ITMs) for 23 industries under 6 clusters were launched progressively between 2016 and 2018. Each ITM integrates productivity improvement, innovation, internationalisation and skills development to promote growth and competitiveness. They were developed and supported by strong partnerships between Government, small and large firms, Trade Associations and Chambers (TACs) and unions."
+    }
+  ],
+  "layout": "content"
+}
