@@ -1,6 +1,5 @@
 {
   "version": "0.1.0",
-  "layout": "content",
   "page": {
     "contentPageHeader": {
       "breadcrumb": {
@@ -10,20 +9,24 @@
             "url": "/"
           },
           {
+            "title": "Trade",
+            "url": "/trade"
+          },
+          {
             "title": "Free Trade Agreements",
-            "url": "/free-trade-agreements"
+            "url": "/trade/free-trade-agreements"
           },
           {
             "title": "European Union-Singapore Free Trade Agreement (EUSFTA)",
-            "url": "/free-trade-agreements/EUSFTA"
+            "url": "/trade/free-trade-agreements/EUSFTA"
           }
         ]
       },
       "title": "European Union-Singapore Free Trade Agreement (EUSFTA)",
-      "summary": "Free Trade Agreements"
+      "summary": "The EUSFTA is the first FTA concluded between the EU and an ASEAN country."
     },
     "title": "European Union-Singapore Free Trade Agreement (EUSFTA)",
-    "description": "Free Trade Agreements"
+    "description": "The EUSFTA is the first FTA concluded between the EU and an ASEAN country."
   },
   "content": [
     {
@@ -106,5 +109,6 @@
         "<a href='https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview'>Singapore's FTA Network</a>"
       ]
     }
-  ]
+  ],
+  "layout": "content"
 }
