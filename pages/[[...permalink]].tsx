@@ -28,9 +28,9 @@ function extractPermalinks(sitemap: any) {
         });
       }
     }
-    // If the current node has children ('paths'), recurse on each child
-    if (node.paths && node.paths.length > 0) {
-      node.paths.forEach((child: any) => traverse(child, path));
+    // If the current node has children, recurse on each child
+    if (node.children && node.children.length > 0) {
+      node.children.forEach((child: any) => traverse(child, path));
     }
   }
 
@@ -45,7 +45,7 @@ const getBreadcrumbFromSiteMap = (sitemap: any, permalink: string[]) => {
   let currentPath = "";
   for (const pathSegment of permalink) {
     currentPath += "/" + pathSegment;
-    node = node.paths.find((node: any) => node.permalink === currentPath);
+    node = node.children.find((node: any) => node.permalink === currentPath);
     breadcrumb.push({
       title: node.title,
       url: node.permalink,
@@ -61,7 +61,7 @@ const getSiderailFromSiteMap = (sitemap: any, permalink: string[]) => {
   let i = 0;
   while (i < permalink.length - 1) {
     currentPath += "/" + permalink[i];
-    node = node.paths.find((node: any) => node.permalink === currentPath);
+    node = node.children.find((node: any) => node.permalink === currentPath);
     i++;
   }
   const parentTitle = node.title;
@@ -70,14 +70,14 @@ const getSiderailFromSiteMap = (sitemap: any, permalink: string[]) => {
   const pages = [];
   // get all siblings of page
   const pagePath = "/" + permalink.join("/");
-  for (const sibling of node.paths) {
+  for (const sibling of node.children) {
     if (sibling.permalink === pagePath) {
       pages.push({
         title: sibling.title,
         url: sibling.permalink,
         isCurrent: true,
         childPages:
-          sibling.paths?.map((child: any) => ({
+          sibling.children?.map((child: any) => ({
             url: child.permalink,
             title: child.title,
           })) ?? null,
