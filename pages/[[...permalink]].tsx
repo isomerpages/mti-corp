@@ -39,63 +39,6 @@ function extractPermalinks(sitemap: any) {
   return result;
 }
 
-const getBreadcrumbFromSiteMap = (sitemap: any, permalink: string[]) => {
-  const breadcrumb = [];
-  let node = sitemap;
-  let currentPath = "";
-  for (const pathSegment of permalink) {
-    currentPath += "/" + pathSegment;
-    node = node.children.find((node: any) => node.permalink === currentPath);
-    breadcrumb.push({
-      title: node.title,
-      url: node.permalink,
-    });
-  }
-  return { links: breadcrumb };
-};
-
-const getSiderailFromSiteMap = (sitemap: any, permalink: string[]) => {
-  let node = sitemap;
-  let currentPath = "";
-
-  let i = 0;
-  while (i < permalink.length - 1) {
-    currentPath += "/" + permalink[i];
-    node = node.children.find((node: any) => node.permalink === currentPath);
-    i++;
-  }
-  const parentTitle = node.title;
-  const parentUrl = node.permalink;
-
-  const pages = [];
-  // get all siblings of page
-  const pagePath = "/" + permalink.join("/");
-  for (const sibling of node.children) {
-    if (sibling.permalink === pagePath) {
-      pages.push({
-        title: sibling.title,
-        url: sibling.permalink,
-        isCurrent: true,
-        childPages:
-          sibling.children?.map((child: any) => ({
-            url: child.permalink,
-            title: child.title,
-          })) ?? null,
-      });
-    } else {
-      pages.push({
-        title: sibling.title,
-        url: sibling.permalink,
-      });
-    }
-  }
-  return {
-    parentTitle,
-    parentUrl,
-    pages,
-  };
-};
-
 export const getStaticPaths = (async () => {
   return {
     paths: extractPermalinks(sitemap),
@@ -113,28 +56,17 @@ export const getStaticProps = (async (context) => {
       (module) => module.default
     )) as IsomerPageSchema;
 
-    if (schema.layout === "content") {
-      const tableOfContents = schema.content
-        .filter((block) => block.type === "heading" && block.level === 2)
-        .map((block: any) => ({
-          content: block.content,
-          anchorLink: "#" + block.id,
-        }));
-      schema.page.tableOfContents = { items: tableOfContents };
+    schema.page.permalink = "/" + joinedPermalink;
 
-      const breadCrumb = getBreadcrumbFromSiteMap(sitemap, permalink);
-      schema.page.contentPageHeader.breadcrumb = breadCrumb;
-      schema.page.contentPageHeader.title = schema.page.title;
-
-      const sideRail = getSiderailFromSiteMap(sitemap, permalink);
-      schema.page.sideRail = sideRail;
-    }
     return { props: { schema } };
   }
 
   const schema = (await import(`@/schema/index.json`).then(
     (module) => module.default
   )) as IsomerPageSchema;
+
+  schema.page.permalink = "/";
+
   return { props: { schema } };
 }) satisfies GetStaticProps<{
   schema: IsomerPageSchema;
@@ -158,7 +90,7 @@ export default function Page({
         site={{
           ...config.site,
           environment: process.env.NEXT_PUBLIC_ISOMER_NEXT_ENVIRONMENT,
-          siteMap: [],
+          siteMap: sitemap as any,
           navBarItems: navbar,
           // @ts-expect-error blah
           footerItems: footer,
