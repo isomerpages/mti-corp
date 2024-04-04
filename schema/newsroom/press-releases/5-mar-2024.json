@@ -5,17 +5,21 @@
     "contentPageHeader": {
       "breadcrumb": {
         "links": [
-          {
+         {
             "title": "Home",
             "url": "/"
           },
           {
+            "title": "Newsroom",
+            "url": "/newsroom"
+          },
+          {
             "title": "Press Releases",
-            "url": "/press-releases"
+            "url": "/newsroom/press-releases"
           },
           {
             "title": "Joint Development of Principles to Guide Development of Cross-Border Electricity Trade",
-            "url": "/press-releases/5-mar-2024"
+            "url": "/newsroom/press-releases/5-mar-2024"
           }
         ]
       },
