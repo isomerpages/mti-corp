@@ -10,8 +10,12 @@
             "url": "/"
           },
           {
-            "url": "/resources/publications",
-            "title": "Publications"
+            "title": "Resources",
+            "url": "/resources"
+          },
+          {
+            "title": "Publications",
+            "url": "/resources/publications"
           },
           {
             "title": "20 Conversations Publication",
@@ -19,7 +23,7 @@
           }
         ]
       },
-      "title": "Publication",
+      "title": "20 Conversations Publication",
       "summary": "11 NOV 2022"
     },
     "title": "Publication",
