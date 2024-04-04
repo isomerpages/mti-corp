@@ -10,8 +10,12 @@
             "url": "/"
           },
           {
-            "url": "/resources/feature-articles",
-            "title": "Feature Articles"
+            "title": "Resources",
+            "url": "/resources"
+          },
+          {
+            "title": "Feature Articles",
+            "url": "/resources/feature-articles"
           },
           {
             "title": "Business Cost Conditions in Singapore’s Manufacturing and Services Sectors",
@@ -19,10 +23,10 @@
           }
         ]
       },
-      "title": "Feature Article",
+      "title": "Business Cost Conditions in Singapore’s Manufacturing and Services Sectors",
       "summary": "13 FEB 2023"
     },
-    "title": "Feature Article",
+    "title": "Business Cost Conditions in Singapore’s Manufacturing and Services Sectors",
     "description": "13 FEB 2023"
   },
   "content": [
