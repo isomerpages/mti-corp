@@ -1,1 +1,29 @@
-
+{
+  "version": "0.1.0",
+  "page": {
+    "contentPageHeader": {
+      "breadcrumb": {
+        "links": [
+          {
+            "title": "Home",
+            "url": "/"
+          },
+          {
+            "title": "Press Releases",
+            "url": "/press-releases"
+          }
+        ]
+      },
+      "title": "Press Releases",
+      "summary": "Read our press releases here."
+    },
+    "title": "Press Releases"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "content": "Placeholder"
+    }
+  ],
+  "layout": "content"
+}
