@@ -1,0 +1,38 @@
+{
+  "version": "0.1.0",
+  "page": {
+    "contentPageHeader": {
+      "breadcrumb": {
+        "links": [
+          {
+            "title": "Home",
+            "url": "/"
+          },
+          {
+            "title": "Newsroom",
+            "url": "/newsroom"
+          },
+          {
+            "title": "Public Consultations",
+            "url": "/newsroom/public-consultations"
+          }
+        ]
+      },
+      "title": "Public Consultations",
+      "summary": "Share your views and play a part in shaping our policies. More information can be found in this section."
+    },
+    "title": "Public Consultations"
+  },
+  "content": [
+    {
+      "type": "heading",
+      "content": "Your Opinion Matters",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": "Share your views and play a part in shaping our policies. More information can be found in this section."
+    }
+  ],
+  "layout": "content"
+}
