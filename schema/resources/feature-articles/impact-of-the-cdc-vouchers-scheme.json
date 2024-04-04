@@ -10,8 +10,12 @@
             "url": "/"
           },
           {
-            "url": "/resources/feature-articles",
-            "title": "Feature Articles"
+            "title": "Resources",
+            "url": "/resources"
+          },
+          {
+            "title": "Feature Articles",
+            "url": "/resources/feature-articles"
           },
           {
             "title": "Impact of the CDC Vouchers Scheme",
@@ -19,10 +23,10 @@
           }
         ]
       },
-      "title": "Feature Article",
+      "title": "Impact of the CDC Vouchers Scheme",
       "summary": "15 FEB 2024"
     },
-    "title": "Feature Article",
+    "title": "Impact of the CDC Vouchers Scheme",
     "description": "15 FEB 2024"
   },
   "content": [
