@@ -1,6 +1,5 @@
 {
   "version": "0.1.0",
-  "layout": "content",
   "page": {
     "contentPageHeader": {
       "breadcrumb": {
@@ -10,20 +9,24 @@
             "url": "/"
           },
           {
+            "title": "Trade",
+            "url": "/trade"
+          },
+          {
             "title": "Free Trade Agreements",
-            "url": "/free-trade-agreements"
+            "url": "/trade/free-trade-agreements"
           },
           {
             "title": "RCEP",
-            "url": "/free-trade-agreements/RCEP"
+            "url": "/trade/free-trade-agreements/RCEP"
           }
         ]
       },
       "title": "Regional Comprehensive Economic Partnership (RCEP)",
-      "summary": "Free Trade Agreements"
+      "summary": "The Regional Comprehensive Economic Partnership (“RCEP\") Agreement is a Free Trade Agreement (“FTA”) between 15 countries: Brunei Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand, Viet Nam, Australia, China, Japan, Republic of Korea, and New Zealand."
     },
     "title": "Regional Comprehensive Economic Partnership (RCEP)",
-    "description": "Free Trade Agreements"
+    "description": "The Regional Comprehensive Economic Partnership (“RCEP\") Agreement is a Free Trade Agreement (“FTA”) between 15 countries: Brunei Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand, Viet Nam, Australia, China, Japan, Republic of Korea, and New Zealand."
   },
   "content": [
     {
@@ -104,5 +107,6 @@
       "content": "Singapore's FTA Network",
       "level": 5
     }
-  ]
+  ],
+  "layout": "content"
 }
