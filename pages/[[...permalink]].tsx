@@ -28,9 +28,9 @@ function extractPermalinks(sitemap: any) {
         });
       }
     }
-    // If the current node has children ('paths'), recurse on each child
-    if (node.paths && node.paths.length > 0) {
-      node.paths.forEach((child: any) => traverse(child, path));
+    // If the current node has children, recurse on each child
+    if (node.children && node.children.length > 0) {
+      node.children.forEach((child: any) => traverse(child, path));
     }
   }
 
@@ -56,12 +56,17 @@ export const getStaticProps = (async (context) => {
       (module) => module.default
     )) as IsomerPageSchema;
 
+    schema.page.permalink = "/" + joinedPermalink;
+
     return { props: { schema } };
   }
 
   const schema = (await import(`@/schema/index.json`).then(
     (module) => module.default
   )) as IsomerPageSchema;
+
+  schema.page.permalink = "/";
+
   return { props: { schema } };
 }) satisfies GetStaticProps<{
   schema: IsomerPageSchema;
@@ -85,19 +90,14 @@ export default function Page({
         site={{
           ...config.site,
           environment: process.env.NEXT_PUBLIC_ISOMER_NEXT_ENVIRONMENT,
-          siteMap: [],
+          siteMap: sitemap,
           navBarItems: navbar,
           // @ts-expect-error blah
           footerItems: footer,
           lastUpdated,
         }}
         layout={renderSchema.layout}
-        page={{
-          ...renderSchema.page,
-          tableOfContents: {
-            items: [],
-          },
-        }}
+        page={renderSchema.page}
         content={renderSchema.content}
         LinkComponent={Link}
         HeadComponent={Head}
