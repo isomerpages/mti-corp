@@ -10,7 +10,8 @@
     {
       "type": "heading",
       "content": "Why MTI",
-      "level": 3
+      "level": 2,
+      "id": "why-mti"
     },
     {
       "type": "paragraph",

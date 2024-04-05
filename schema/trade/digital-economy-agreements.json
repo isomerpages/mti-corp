@@ -10,7 +10,8 @@
     {
       "type": "heading",
       "content": "What are Digital Economy Agreements (DEAs)?",
-      "level": 3
+      "level": 2,
+      "id": "what-are-digital-economy-agreements-deas"
     },
     {
       "type": "paragraph",

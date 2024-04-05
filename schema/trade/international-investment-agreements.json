@@ -10,7 +10,8 @@
     {
       "type": "heading",
       "content": "What is an IIA?",
-      "level": 3
+      "level": 2,
+      "id": "what-is-an-iia"
     },
     {
       "type": "paragraph",

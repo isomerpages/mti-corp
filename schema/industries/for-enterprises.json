@@ -10,7 +10,8 @@
     {
       "type": "heading",
       "content": "Empowering Businesses",
-      "level": 3
+      "level": 2,
+      "id": "empowering-businesses"
     },
     {
       "type": "paragraph",

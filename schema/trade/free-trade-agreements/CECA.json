@@ -4,14 +4,15 @@
     "contentPageHeader": {
       "summary": "Understanding the comprehensive economic partnership between Singapore and India and why it matters to us."
     },
-    "title": "People at MTI",
+    "title": "Singapore-India Comprehensive Economic Cooperation Agreement (CECA)",
     "description": "There are altogether nine statutory boards and one government department under the Ministry’s purview."
   },
   "content": [
     {
       "type": "heading",
       "content": "What is CECA?",
-      "level": 3
+      "level": 2,
+      "id": "what-is-ceca"
     },
     {
       "type": "paragraph",
@@ -30,7 +31,8 @@
     {
       "type": "heading",
       "content": "Why does CECA matter? ",
-      "level": 3
+      "level": 2,
+      "id": "why-does-ceca-matter"
     },
     {
       "type": "paragraph",
@@ -68,7 +70,8 @@
     {
       "type": "heading",
       "content": "How does CECA benefit us?",
-      "level": 3
+      "level": 2,
+      "id": "how-does-ceca-benefit-us"
     },
     {
       "type": "paragraph",
@@ -91,12 +94,14 @@
     {
       "type": "heading",
       "content": "Truths about CECA – addressing misunderstandings and inaccuracies",
-      "level": 3
+      "level": 2,
+      "id": "truths-about-ceca"
     },
     {
       "type": "heading",
       "content": "More about CECA",
-      "level": 3
+      "level": 2,
+      "id": "more-about-ceca"
     },
     {
       "type": "unorderedlist",

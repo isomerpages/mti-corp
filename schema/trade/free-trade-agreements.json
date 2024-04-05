@@ -10,7 +10,8 @@
     {
       "type": "heading",
       "content": "Free Trade Agreements",
-      "level": 3
+      "level": 2,
+      "id": "free-trade-agreements"
     },
     {
       "type": "paragraph",

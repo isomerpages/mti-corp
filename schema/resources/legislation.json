@@ -10,7 +10,8 @@
     {
       "type": "heading",
       "content": "Find out more about the legislation administered by MTI here.",
-      "level": 3
+      "level": 2,
+      "id": "find-out-more-about-the-legislation-administered-by-mti-here"
     }
   ],
   "layout": "content"

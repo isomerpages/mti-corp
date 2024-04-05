@@ -11,7 +11,8 @@
     {
       "type": "heading",
       "content": "MTI Family",
-      "level": 3
+      "level": 2,
+      "id": "mti-family"
     },
     {
       "type": "paragraph",

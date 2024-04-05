@@ -10,7 +10,8 @@
     {
       "type": "heading",
       "content": "Vibrant Industries",
-      "level": 3
+      "level": 2,
+      "id": "vibrant-industries"
     },
     {
       "type": "paragraph",

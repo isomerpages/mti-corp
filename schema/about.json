@@ -11,7 +11,8 @@
     {
       "type": "heading",
       "content": "Our Vision",
-      "level": 3
+      "level": 2,
+      "id": "our-vision"
     },
     {
       "type": "paragraph",
@@ -20,7 +21,8 @@
     {
       "type": "heading",
       "content": "Our Mission",
-      "level": 3
+      "level": 2,
+      "id": "our-mission"
     },
     {
       "type": "paragraph",

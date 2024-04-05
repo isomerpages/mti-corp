@@ -11,7 +11,8 @@
     {
       "type": "heading",
       "content": "Who We Are",
-      "level": 3
+      "level": 2,
+      "id": "who-we-are"
     },
     {
       "type": "paragraph",
@@ -83,7 +84,8 @@
     {
       "type": "heading",
       "content": "Organisational Structure",
-      "level": 3
+      "level": 2,
+      "id": "organisational-structure"
     },
     {
       "type": "paragraph",
@@ -92,7 +94,8 @@
     {
       "type": "heading",
       "content": "Our Divisions",
-      "level": 3
+      "level": 2,
+      "id": "our-divisions"
     }
   ],
   "layout": "content"

@@ -10,7 +10,8 @@
     {
       "type": "heading",
       "content": "Your Opinion Matters",
-      "level": 3
+      "level": 2,
+      "id": "your-opinion-matters"
     },
     {
       "type": "paragraph",
