@@ -26,27 +26,27 @@
     "items": [
       {
         "name": "Free Trade Agreements",
-        "url": "/free-trade-agreements",
+        "url": "/trade/free-trade-agreements",
         "description": "Free Trade Agreements are treaties which make trade and investment between two or more economies easier. Find out more here."
       },
       {
         "name": "International Investment Agreements",
-        "url": "/international-investment-agreements",
+        "url": "/trade/international-investment-agreements",
         "description": "Singapore's International Investment Agreements promote investment flows between the signatory countries. Find out more here."
       },
       {
         "name": "Digital Economy Agreements",
-        "url": "/digital-economy-agreements",
+        "url": "/trade/digital-economy-agreements",
         "description": "A Digital Economy Agreement (DEA) is a treaty that establishes digital trade rules and digital economy collaborations between two or more economies."
       },
       {
         "name": "Green Economy Agreements",
-        "url": "/green-economy-agreements",
+        "url": "/trade/green-economy-agreements",
         "description": "Green Economy Agreements (GEA) foster common rules and standards that promote trade and investment in green goods, services and technologies; develop interoperable policy frameworks; and catalyse technology development and cooperative projects."
       },
       {
         "name": "Multilateral and Regional Forums",
-        "url": "/multilateral-and-regional-forums",
+        "url": "/trade/multilateral-and-regional-forums",
         "description": "Singapore supports multilateral and region forums that promote free and open trade. Find out more here."
       },
       {
@@ -80,11 +80,11 @@
     "items": [
       {
         "name": "France-Singapore Digital and Green Partnership",
-        "url": "/partnerships/france-singapore-digital-and-green-partnership"
+        "url": "/partnerships/DGP"
       },
       {
         "name": "US-Singapore Partnership for Growth and Innovation",
-        "url": "/partnerships/us-singapore-partnership-for-growth-and-innovation"
+        "url": "/partnerships/PGI"
       }
     ]
   },
@@ -95,26 +95,26 @@
       {
         "name": "Press Releases",
         "description": "Read our press releases here.",
-        "url": "/press-releases"
+        "url": "/newsroom/press-releases"
       },
       {
         "name": "Speeches",
         "description": "Read the speeches delivered by our political appointees and senior management here.",
-        "url": "/speeches"
+        "url": "/newsroom/speeches"
       },
       {
         "name": "Parliamentary Replies",
         "description": "Read our responses to questions raised in the Singapore Parliament here.",
-        "url": "/parliamentary-replies"
+        "url": "/newsroom/parliamentary-replies"
       },
       {
         "name": "Forum Letter Replies",
         "description": "Read our replies to letters to the Forum here.",
-        "url": "/forum-letter-replies"
+        "url": "/newsroom/forum-letter-replies"
       },
       {
         "name": "Public Consultations",
-        "url": "/public-consultations"
+        "url": "/newsroom/public-consultations"
       }
     ]
   },
@@ -125,26 +125,26 @@
       {
         "name": "Key Economic Indicators",
         "description": "Key statistical data such as on the labour market, productivity, industrial production, investments, retail activity, tourism and trade are available here.",
-        "url": "/key-economic-indicators"
+        "url": "/resources/key-economic-indicators"
       },
       {
         "name": "Economic Survey of Singapore",
         "description": "Read the Economic Survey of Singapore, which we produce on a quarterly basis, here. Each report contains analyses of the overall Singapore economy and its various economic sectors.",
-        "url": "/economic-survey-of-singapore"
+        "url": "/resources/economic-survey-of-singapore"
       },
       {
         "name": "Feature Articles",
         "description": "Additional articles on economics and trade issues, published on an ad-hoc basis, are posted here.",
-        "url": "/feature-articles"
+        "url": "/resources/feature-articles"
       },
       {
         "name": "Publications",
         "description": "The list of publications available are posted here. They include an information booklet on Singapore's Free Trade Agreements and Digital Economy Agreements, Future Tense - which covers emerging issues that could transform Singapore's economy, as well as economic plans or reports such as the Report of the Committee on the Future Economy.",
-        "url": "/publications"
+        "url": "/resources/publications"
       },
       {
         "name": "Legislation",
-        "url": "/legislation"
+        "url": "/resources/legislation"
       }
     ]
   },
