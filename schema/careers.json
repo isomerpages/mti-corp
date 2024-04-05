@@ -2,19 +2,6 @@
   "version": "0.1.0",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Careers",
-            "url": "/careers"
-          }
-        ]
-      },
-      "title": "Careers",
       "summary": "At MTI, you will be at the forefront of shaping Singapore’s vibrant economy!"
     },
     "title": "Careers"

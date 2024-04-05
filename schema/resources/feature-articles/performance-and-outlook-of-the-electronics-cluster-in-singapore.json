@@ -3,27 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Resources",
-            "url": "/resources"
-          },
-          {
-            "title": "Feature Articles",
-            "url": "/resources/feature-articles"
-          },
-          {
-            "title": "Performance and Outlook of the Electronics Cluster in Singapore",
-            "url": "/resources/feature-articles/performance-and-outlook-of-the-electronics-cluster-in-singapore"
-          }
-        ]
-      },
-      "title": "Performance and Outlook of the Electronics Cluster in Singapore",
       "summary": "15 FEB 2024"
     },
     "title": "Performance and Outlook of the Electronics Cluster in Singapore",

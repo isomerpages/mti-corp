@@ -2,23 +2,6 @@
   "version": "0.1.0",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Newsroom",
-            "url": "/newsroom"
-          },
-          {
-            "title": "Public Consultations",
-            "url": "/newsroom/public-consultations"
-          }
-        ]
-      },
-      "title": "Public Consultations",
       "summary": "Share your views and play a part in shaping our policies. More information can be found in this section."
     },
     "title": "Public Consultations"

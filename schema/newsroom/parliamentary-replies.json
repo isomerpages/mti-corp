@@ -2,23 +2,6 @@
   "version": "0.1.0",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Newsroom",
-            "url": "/newsroom"
-          },
-          {
-            "title": "Parliamentary Replies",
-            "url": "/newsroom/parliamentary-replies"
-          }
-        ]
-      },
-      "title": "Parliamentary Replies",
       "summary": "Read our responses to questions raised in the Singapore Parliament here."
     },
     "title": "Parliamentary Replies"

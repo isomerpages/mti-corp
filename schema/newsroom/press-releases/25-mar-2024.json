@@ -3,27 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Newsroom",
-            "url": "/newsroom"
-          },
-          {
-            "title": "Press Releases",
-            "url": "/newsroom/press-releases"
-          },
-          {
-            "title": "Consumer Price Developments in February 2024",
-            "url": "/newsroom/press-releases/25-mar-2024"
-          }
-        ]
-      },
-      "title": "Consumer Price Developments in February 2024",
       "summary": "25 MAR 2024"
     },
     "title": "Consumer Price Developments in February 2024",

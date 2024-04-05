@@ -3,27 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Resources",
-            "url": "/resources"
-          },
-          {
-            "title": "Feature Articles",
-            "url": "/resources/feature-articles"
-          },
-          {
-            "title": "Impact of the CDC Vouchers Scheme",
-            "url": "/resources/feature-articles/impact-of-the-cdc-vouchers-scheme"
-          }
-        ]
-      },
-      "title": "Impact of the CDC Vouchers Scheme",
       "summary": "15 FEB 2024"
     },
     "title": "Impact of the CDC Vouchers Scheme",

@@ -2,19 +2,6 @@
   "version": "0.1.0",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Digital Economy Agreements",
-            "url": "/trade/digital-economy-agreements"
-          }
-        ]
-      },
-      "title": "Digital Economy Agreements",
       "summary": "A Digital Economy Agreement (DEA) is a treaty that establishes digital trade rules and digital economy collaborations between two or more economies."
     },
     "title": "Digital Economy Agreements"

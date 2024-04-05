@@ -3,27 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Resources",
-            "url": "/resources"
-          },
-          {
-            "title": "Publications",
-            "url": "/resources/publications"
-          },
-          {
-            "title": "20 Conversations Publication",
-            "url": "/resources/publications/20-conversations"
-          }
-        ]
-      },
-      "title": "20 Conversations Publication",
       "summary": "11 NOV 2022"
     },
     "title": "20 Conversations Publication",

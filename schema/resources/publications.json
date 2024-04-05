@@ -3,23 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Resources",
-            "url": "/resources"
-          },
-          {
-            "url": "/resources/publications",
-            "title": "Publications"
-          }
-        ]
-      },
-      "title": "Publications",
       "summary": "The list of publications available are posted here. They include an information booklet on Singapore's Free Trade Agreements and Digital Economy Agreements, Future Tense - which covers emerging issues that could transform Singapore's economy, as well as economic plans or reports such as the Report of the Committee on the Future Economy."
     },
     "title": "Publications",

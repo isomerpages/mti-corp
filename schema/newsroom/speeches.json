@@ -2,23 +2,6 @@
   "version": "0.1.0",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Newsroom",
-            "url": "/newsroom"
-          },
-          {
-            "title": "Speeches",
-            "url": "/newsroom/speeches"
-          }
-        ]
-      },
-      "title": "Speeches",
       "summary": "Read the speeches delivered by our political appointees and senior management here."
     },
     "title": "Speeches"

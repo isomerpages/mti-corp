@@ -2,23 +2,6 @@
   "version": "0.1.0",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Industries",
-            "url": "/industries"
-          },
-          {
-            "title": "For Industries",
-            "url": "/industries/for-industries"
-          }
-        ]
-      },
-      "title": "For Industries",
       "summary": "The Ministry of Trade and Industry works to create opportunities for our enterprises and good jobs for our people. We are committed to investing in the capabilities of our industries, enterprises, and people."
     },
     "title": "For Industries"

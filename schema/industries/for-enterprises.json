@@ -2,23 +2,6 @@
   "version": "0.1.0",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Industries",
-            "url": "/industries"
-          },
-          {
-            "title": "For Enterprises",
-            "url": "/industries/for-enterprises"
-          }
-        ]
-      },
-      "title": "For Enterprises",
       "summary": "The Government is committed to working with our enterprises throughout their transformation journeys."
     },
     "title": "For Enterprises"

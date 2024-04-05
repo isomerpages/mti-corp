@@ -3,23 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Resources",
-            "url": "/resources"
-          },
-          {
-            "url": "/resources/key-economic-indicators",
-            "title": "Key Economic Indicators"
-          }
-        ]
-      },
-      "title": "Key Economic Indicators",
       "summary": "Key statistical data such as on the labour market, productivity, industrial production, investments, retail activity, tourism and trade are available here."
     },
     "title": "Key Economic Indicators",

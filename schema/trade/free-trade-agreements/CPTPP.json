@@ -2,27 +2,6 @@
   "version": "0.1.0",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "https://www.mti.gov.sg/"
-          },
-          {
-            "title": "Trade",
-            "url": "/trade"
-          },
-          {
-            "title": "Free Trade Agreements",
-            "url": "/trade/free-trade-agreements"
-          },
-          {
-            "title": "The Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)",
-            "url": "/trade/free-trade-agreements/CPTPP"
-          }
-        ]
-      },
-      "title": "The Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)",
       "summary": "The CPTPP is a FTA between 11 countries: Australia, Brunei Darussalam, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam."
     },
     "title": "The Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)",

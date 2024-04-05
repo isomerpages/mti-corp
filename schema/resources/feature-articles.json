@@ -3,23 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Resources",
-            "url": "/resources"
-          },
-          {
-            "url": "/resources/feature-articles",
-            "title": "Feature Articles"
-          }
-        ]
-      },
-      "title": "Feature Articles",
       "summary": "Additional articles on economics and trade issues, published on an ad-hoc basis, are posted here."
     },
     "title": "Feature Articles",

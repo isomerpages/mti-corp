@@ -2,27 +2,6 @@
   "version": "0.1.0",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Trade",
-            "url": "/trade"
-          },
-          {
-            "title": "Free Trade Agreements",
-            "url": "/trade/free-trade-agreements"
-          },
-          {
-            "title": "Singapore-India Comprehensive Economic Cooperation Agreement (CECA)",
-            "url": "/trade/free-trade-agreements/CECA"
-          }
-        ]
-      },
-      "title": "Singapore-India Comprehensive Economic Cooperation Agreement (CECA)",
       "summary": "Understanding the comprehensive economic partnership between Singapore and India and why it matters to us."
     },
     "title": "People at MTI",

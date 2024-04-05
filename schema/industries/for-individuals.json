@@ -2,23 +2,6 @@
   "version": "0.1.0",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Industries",
-            "url": "/industries"
-          },
-          {
-            "title": "For Individuals",
-            "url": "/industries/for-individuals"
-          }
-        ]
-      },
-      "title": "For Individuals",
       "summary": "As the industry transforms, the nature of work and the skills required will change quickly. Individuals will need to continuously deepen and refresh their skills to stay relevant and take advantage of new opportunities."
     },
     "title": "For Individuals"

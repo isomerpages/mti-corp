@@ -2,19 +2,6 @@
   "version": "0.1.0",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "International Investment Agreements",
-            "url": "/trade/international-investment-agreements"
-          }
-        ]
-      },
-      "title": "International Investment Agreements",
       "summary": "Singapore's International Investment Agreements promote investment flows between the signatory countries. Find out more here."
     },
     "title": "International Investment Agreements"

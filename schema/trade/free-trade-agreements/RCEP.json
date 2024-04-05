@@ -2,27 +2,6 @@
   "version": "0.1.0",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Trade",
-            "url": "/trade"
-          },
-          {
-            "title": "Free Trade Agreements",
-            "url": "/trade/free-trade-agreements"
-          },
-          {
-            "title": "RCEP",
-            "url": "/trade/free-trade-agreements/RCEP"
-          }
-        ]
-      },
-      "title": "Regional Comprehensive Economic Partnership (RCEP)",
       "summary": "The Regional Comprehensive Economic Partnership (“RCEP\") Agreement is a Free Trade Agreement (“FTA”) between 15 countries: Brunei Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand, Viet Nam, Australia, China, Japan, Republic of Korea, and New Zealand."
     },
     "title": "Regional Comprehensive Economic Partnership (RCEP)",

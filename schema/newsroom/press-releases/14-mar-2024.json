@@ -2,27 +2,6 @@
   "version": "0.1.0",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Newsroom",
-            "url": "/newsroom"
-          },
-          {
-            "title": "Press Releases",
-            "url": "/newsroom/press-releases"
-          },
-          {
-            "title": "INDO-PACIFIC ECONOMIC FRAMEWORK FOR PROSPERITY (IPEF) MINISTERS ADVANCE CLEAN ECONOMY AGREEMENT AND SUPPLY CHAIN AGREEMENT AT THE FIRST MINISTERIAL MEETING OF 2024",
-            "url": "/newsroom/press-releases/14-mar-2024"
-          }
-        ]
-      },
-      "title": "INDO-PACIFIC ECONOMIC FRAMEWORK FOR PROSPERITY (IPEF) MINISTERS ADVANCE CLEAN ECONOMY AGREEMENT AND SUPPLY CHAIN AGREEMENT AT THE FIRST MINISTERIAL MEETING OF 2024",
       "summary": "14 MAR 2024"
     },
     "title": "INDO-PACIFIC ECONOMIC FRAMEWORK FOR PROSPERITY (IPEF) MINISTERS ADVANCE CLEAN ECONOMY AGREEMENT AND SUPPLY CHAIN AGREEMENT AT THE FIRST MINISTERIAL MEETING OF 2024",

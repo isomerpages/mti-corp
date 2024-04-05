@@ -2,19 +2,6 @@
   "version": "0.1.0",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Multilateral and Regional Forums",
-            "url": "/trade/multilateral-and-regional-forums"
-          }
-        ]
-      },
-      "title": "Multilateral and Regional Forums",
       "summary": "Singapore supports multilateral and region forums that promote free and open trade. Find out more here."
     },
     "title": "Multilateral and Regional Forums"

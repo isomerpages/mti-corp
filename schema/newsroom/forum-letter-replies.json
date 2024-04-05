@@ -2,23 +2,6 @@
   "version": "0.1.0",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Newsroom",
-            "url": "/newsroom"
-          },
-          {
-            "title": "Forum Letter Replies",
-            "url": "/newsroom/forum-letter-replies"
-          }
-        ]
-      },
-      "title": "Forum Letter Replies",
       "summary": "Read our replies to letters to the Forum here."
     },
     "title": "Forum Letter Replies"

@@ -2,19 +2,6 @@
   "version": "0.1.0",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Free Trade Agreements",
-            "url": "/trade/free-trade-agreements"
-          }
-        ]
-      },
-      "title": "Free Trade Agreements",
       "summary": "Free Trade Agreements are treaties which make trade and investment between two or more economies easier. Find out more here."
     },
     "title": "Free Trade Agreements"

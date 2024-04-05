@@ -3,27 +3,6 @@
   "layout": "content",
   "page": {
     "contentPageHeader": {
-      "breadcrumb": {
-        "links": [
-          {
-            "title": "Home",
-            "url": "/"
-          },
-          {
-            "title": "Resources",
-            "url": "/resources"
-          },
-          {
-            "title": "Feature Articles",
-            "url": "/resources/feature-articles"
-          },
-          {
-            "title": "Business Cost Conditions in Singapore’s Manufacturing and Services Sectors",
-            "url": "/resources/feature-articles/business-cost-conditions-in-singapore-manufacturing-and-services-sectors"
-          }
-        ]
-      },
-      "title": "Business Cost Conditions in Singapore’s Manufacturing and Services Sectors",
       "summary": "13 FEB 2023"
     },
     "title": "Business Cost Conditions in Singapore’s Manufacturing and Services Sectors",
