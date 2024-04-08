@@ -96,6 +96,189 @@
       "content": "Our Divisions",
       "level": 2,
       "id": "our-divisions"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The ASEAN Division formulates and reviews Singapore's foreign economic policy at the ASEAN fora, to ensure that Singapore remains economically relevant and competitive. The division's portfolio includes ASEAN integration issues and ASEAN external relations."
+      ],
+      "summary": "ASEAN Division"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The Chongqing Connectivity Initiative Office plays a key role in deepening Singapore's bilateral engagement with China through the implementation of the third Government-to-Government project in Western China, the Chongqing Connectivity Initiative (CCI).",
+        "Through the promotion of Singapore companies' participation in Chongqing’s economy, the CCI seeks to create greater opportunities for Singapore companies to internationalise, leveraging Chongqing as a gateway to expand their presence in Western China."
+      ],
+      "summary": "Chongqing Connectivity Initiative Office"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The Communications and Engagement Division is responsible for communicating MTI’s policies to external stakeholders such as the business community, industry players, as well as the general public. The Division oversees the areas of public relations, media relations, stakeholder engagement, strategic messaging as well as marketing and digital communications for the Ministry. It works closely with the other Divisions within MTI to profile MTI’s work in developing a vibrant and dynamic Singapore economy. The Division also manages the Ministry’s website and quality service functions, which serve as crucial touchpoints between the Ministry and the public."
+      ],
+      "summary": "Communications and Engagement Division"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The Corporate Operations Division plays a vital role towards achieving its strategic goal of a High Performing Organisation for MTI. It establishes robust corporate policies, IT systems and formulates strategies for the organisational performance in line with MTI’s mission and vision. In addition, it is also responsible for MTI’s National Emergency preparation and peacetime crisis response plans in support of the government. These include scenario and business continuity planning and exercising of contingency plans against various national security scenarios."
+      ],
+      "summary": "Corporate Operations Division"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The Digitalisation Office centrally drives digital transformation and digitalisation efforts across the MTI family. Broadly, this includes the formulation of a digitalisation strategy for the ministry family in line with Whole of Government directions on digitalisation, as well as the conceptualisation and implementation of a suite of digitalisation initiatives that supports MTI’s policy agenda."
+      ],
+      "summary": "Digitalisation Office"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The Economics Division generates research and analytical reports of Singapore and the global economies to assist policymakers in their decision making. It identifies key growth sectors in Singapore, and it assesses the impact of policy initiatives by other government agencies. Working closely with the Singapore Department of Statistics, it also provides other Ministries and our Statutory Boards with competitive benchmarking."
+      ],
+      "summary": "Economics Division"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The Emerging Markets Division is a sub-division within the Trade Division that develops and implements policies aimed at growing Singapore's economic relations with over 130 emerging markets in Africa, Russia, Central Asia, Latin America, Middle East and South Asia."
+      ],
+      "summary": "Emerging Markets Division"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The Energy Division is responsible for formulating Singapore’s energy policies and strategies to ensure a reliable, affordable and environmentally sustainable energy future. This includes working closely with the Energy Market Authority, other Government agencies, academics and private sector stakeholders to develop and maintain competitive energy markets, drive the development and deployment of solar and other alternative sources of energy, and promote international and regional cooperation. "
+      ],
+      "summary": "Energy Division"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The Enterprise Development Division oversees the development of strategies and programmes to support the growth of enterprises in Singapore. The division works closely with Enterprise Singapore, the Pro-Enterprise Panel and Trade Associations and Chambers to create a conducive and pro-enterprise environment for businesses to thrive. This includes supporting committed enterprises to develop deep capabilities, innovate and internationalise, and working with public agencies to review regulations in Singapore. The Enterprise Development Division also oversees the development of the GoBusiness portal with the Smart Nation Digital Government Office and GovTech, to support government-companies transactions including grant applications and licence applications. In addition, the division works with the Competition and Consumer Commission of Singapore to maintain and enhance overall market competitiveness, as well as to develop and enhance the consumer protection framework in Singapore."
+      ],
+      "summary": "Enterprise Development Division"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The Finance Division promotes proper stewardship of the Ministry's resources by implementing best practices in resource management in a professional and responsive manner. It ensures timely and accurate management reports, while maintaining system integrity and strong internal controls."
+      ],
+      "summary": "Finance Division"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The Futures, Strategy and Plans Division oversees strategic planning activities, from sensing and sense-making, to strategy development, work planning, strategic resourcing, and inter-agency coordination to transform Singapore’s economy."
+      ],
+      "summary": "Futures, Strategy and Plans Division"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The Human Resource Division ensures effective and efficient operations of the Ministry through organisation development and strategic manpower planning. It focuses on recruitment and retention of talent, performance management and career development of staff. It also looks after staff training and welfare."
+      ],
+      "summary": "Human Resource Division"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The Industry Division supports sector development efforts across various manufacturing and services sectors in Singapore, and seeks out new growth areas for the Singapore economy. The Division works closely with economic development agencies such as the Singapore Economic Development Board, Enterprise Singapore, Singapore Tourism Board and the Sentosa Development Corporation on industry development initiatives and policy issues."
+      ],
+      "summary": "Industry Division"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The Innovation, Research and Development Division maintains a conducive environment for startups and enterprises to innovate and invest in research and development, grow and compete globally. To this end, the division ensures that access to financing, conducive research environment, startup eco-system and policies are in place."
+      ],
+      "summary": "Innovation, Research and Development Division"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "Transformation remains a key priority for public agencies given the fast evolving economic and business landscapes. The Innovation and Transformation Office (ITO) was set up to spearhead transformation and innovation initiatives in MTI. ITO partners MTI divisions and Firefly agencies to develop and implement the roadmap and deliverables to achieve the MTI 4.0 vision including strategic workforce planning and capability development in terms of building up horizontal digital, data and soft skills. ITO also fosters a culture of innovation within the Ministry, and accelerates transformation projects and other priorities aligning the Ministry’s transformation plan with the desired Public Service Transformation outcomes."
+      ],
+      "summary": "Innovation and Transformation Office"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The mission of the Internal Audit Unit is to assist the Ministry’s Audit Committee and Management in the effective discharge of their responsibilities through independent reviews to evaluate and improve the effectiveness of risk management, control, and governance processes."
+      ],
+      "summary": "Internal Audit Unit"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The International Trade Cluster's portfolio includes: trade policy, advancing Singapore's interests at the World Trade Organization (WTO), overseeing the economic aspects of UN Climate Change Negotiations, as well as Goods, Services & Investment Policy and Negotiations."
+      ],
+      "summary": "International Trade Cluster'"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The Ministry Family CIO Office (MFCO) is a Trusted Advisor and Partner to the MTI Family (MF) agencies which provides executive information technology (IT) and digitalisation leadership ; sponsors and drives implementation of MF digital plans.  It supports the secure delivery of business/IT transformation, and capability development of our workforce."
+      ],
+      "summary": "Ministry Family CIO Office"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The MTI Trade Academy was set up to develop and coordinate training on topics relating to trade and foreign economic policy for government and public officers. To do this, it works closely with MTI's divisions and statutory boards to create value by focusing on areas such as (i) trade and economic policy and (ii) industry development where MTI is uniquely placed to offer training."
+      ],
+      "summary": "MTI Trade Academy"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The North America and Europe Division takes charge of Singapore's economic trade relations with the North America and Europe region, and draws up strategies that best engage with the individual countries."
+      ],
+      "summary": "North America and Europe Division"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The North East Asia Division manages Singapore’s trade relations with North East Asia, by developing and implementing strategies to engage the markets in North East Asia, including China."
+      ],
+      "summary": "North East Asia Division"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The Resource Division develops policies to ensure that our industrial land resource is cost-competitive and usage-flexible. As human capital is an equally important resource in our economic strategies, the division works closely with our statutory boards in developing this resource."
+      ],
+      "summary": "Resource Division"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "Effective 1 Feb 2020, the Amaravati Partnership Office (APO) was renamed the Singapore-India Partnership Office (SIPO). SIPO will augment the ongoing efforts of the Emerging Markets division, Enterprise Singapore and other agencies. "
+      ],
+      "summary": "Singapore-India Partnership Office"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "The Southeast Asia and Oceania Division looks at expanding Singapore's economic space in the Southeast Asia and Oceania regions."
+      ],
+      "summary": "Southeast Asia and Oceania Division"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "Supply Chain Resilience Division oversees the supply chain risk and resilience of essential supplies, as well as supply chain competitiveness.  The division tracks shifts in global supply chains and works with other agencies to strengthen Singapore’s trade connectivity."
+      ],
+      "summary": "Supply Chain Resilience Division"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        "Trade Strategy and Security Division is responsible for the geo-economic portfolio and also the counterparty to other government agencies and key committees covering the range of geo- political and security spheres. The division also coordinates Singapore’s trade engagement strategy."
+      ],
+      "summary": "Trade Strategy and Security Division"
     }
   ],
   "layout": "content"
