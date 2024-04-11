@@ -4,6 +4,6 @@
     "title": "Search",
     "description": "Search results"
   },
-  content: [],
-  layout: "search"
+  "content": [],
+  "layout": "search"
 }
