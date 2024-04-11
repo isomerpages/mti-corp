@@ -1,0 +1,9 @@
+{
+  "version": "0.1.0",
+  "page": {
+    "title": "Search",
+    "description": "Search results"
+  },
+  content: [],
+  layout: "search"
+}
