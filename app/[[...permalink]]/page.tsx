@@ -1,30 +1,41 @@
-import { IsomerPageSchema, RenderEngine } from "@isomerpages/isomer-components";
+import {
+  type IsomerPageSchema,
+  type IsomerSitemap,
+  RenderEngine,
+  getMetadata,
+} from "@isomerpages/isomer-components";
 import config from "@/data/config.json";
 import navbar from "@/data/navbar.json";
 import footer from "@/data/footer.json";
-import sitemap from "@/public/sitemap.json";
-import Head from "next/head";
+import sitemap from "@/sitemap.json";
 import Link from "next/link";
+import type { Metadata, ResolvingMetadata } from "next";
 
-import type {
-  GetStaticProps,
-  GetStaticPaths,
-  InferGetStaticPropsType,
-} from "next";
+interface DynamicPageProps {
+  params: {
+    permalink: string[];
+  };
+}
 
-function extractPermalinks(sitemap: any) {
-  let result: any = [];
+const timeNow = new Date();
+const lastUpdated =
+  timeNow.getDate().toString().padStart(2, "0") +
+  " " +
+  timeNow.toLocaleString("default", { month: "short" }) +
+  " " +
+  timeNow.getFullYear();
 
-  function traverse(node: any, path = []) {
+const extractPermalinks = (sitemap: IsomerSitemap) => {
+  let result: Array<DynamicPageProps["params"]> = [];
+
+  const traverse = (node: IsomerSitemap, path: string[] = []) => {
     if (node.permalink) {
       // Adding the current node's permalink to the path array
       const newPath = path.concat(node.permalink.replace(/^\//, "").split("/"));
       // Only add to the result if there are actual path segments
       if (newPath.length > 0) {
         result.push({
-          params: {
-            permalink: newPath,
-          },
+          permalink: newPath,
         });
       }
     }
@@ -32,23 +43,16 @@ function extractPermalinks(sitemap: any) {
     if (node.children && node.children.length > 0) {
       node.children.forEach((child: any) => traverse(child, path));
     }
-  }
+  };
 
   // Start traversing from the root
   traverse(sitemap);
   return result;
-}
+};
 
-export const getStaticPaths = (async () => {
-  return {
-    paths: extractPermalinks(sitemap),
-    fallback: false, // false or "blocking"
-  };
-}) satisfies GetStaticPaths;
-
-export const getStaticProps = (async (context) => {
-  const permalink = context.params?.permalink;
-
+const getSchema = async (
+  permalink: DynamicPageProps["params"]["permalink"]
+) => {
   if (permalink && permalink.length > 0 && typeof permalink !== "string") {
     const joinedPermalink = permalink.join("/");
 
@@ -58,7 +62,7 @@ export const getStaticProps = (async (context) => {
 
     schema.page.permalink = "/" + joinedPermalink;
 
-    return { props: { schema } };
+    return schema;
   }
 
   const schema = (await import(`@/schema/index.json`).then(
@@ -67,26 +71,39 @@ export const getStaticProps = (async (context) => {
 
   schema.page.permalink = "/";
 
-  return { props: { schema } };
-}) satisfies GetStaticProps<{
-  schema: IsomerPageSchema;
-}>;
+  return schema;
+};
 
-export default function Page({
-  schema,
-}: InferGetStaticPropsType<typeof getStaticProps>) {
-  const renderSchema = schema;
-  const timeNow = new Date();
-  const lastUpdated =
-    timeNow.getDate().toString().padStart(2, "0") +
-    " " +
-    timeNow.toLocaleString("default", { month: "short" }) +
-    " " +
-    timeNow.getFullYear();
+export const generateStaticParams = () => {
+  return extractPermalinks(sitemap);
+};
+
+export const generateMetadata = async (
+  { params }: DynamicPageProps,
+  parent: ResolvingMetadata
+): Promise<Metadata> => {
+  const { permalink } = params;
+  const schema = await getSchema(permalink);
+  schema.site = {
+    ...config.site,
+    environment: process.env.NEXT_PUBLIC_ISOMER_NEXT_ENVIRONMENT,
+    siteMap: sitemap,
+    navBarItems: navbar,
+    // @ts-expect-error blah
+    footerItems: footer,
+    lastUpdated,
+  };
+  return getMetadata(schema);
+};
+
+const Page = async ({ params }: DynamicPageProps) => {
+  const { permalink } = params;
+  const renderSchema = await getSchema(permalink);
 
   return (
     <>
       <RenderEngine
+        version={renderSchema.version}
         site={{
           ...config.site,
           environment: process.env.NEXT_PUBLIC_ISOMER_NEXT_ENVIRONMENT,
@@ -100,8 +117,9 @@ export default function Page({
         page={renderSchema.page}
         content={renderSchema.content}
         LinkComponent={Link}
-        HeadComponent={Head}
       />
     </>
   );
-}
+};
+
+export default Page;

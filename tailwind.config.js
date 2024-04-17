@@ -4,7 +4,7 @@ import { NextPreset } from "@isomerpages/isomer-components";
 
 const config = {
   content: [
-    "./pages/**/*.{js,ts,jsx,tsx,mdx}",
+    "./app/**/*.{js,ts,jsx,tsx,mdx}",
     "./node_modules/@isomerpages/isomer-components/**/*.{js,ts,jsx,tsx}",
   ],
   presets: [NextPreset],
