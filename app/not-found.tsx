@@ -1,14 +1,14 @@
+import config from "@/data/config.json";
+import footer from "@/data/footer.json";
+import navbar from "@/data/navbar.json";
+import sitemap from "@/sitemap.json";
 import {
-  type IsomerPageSchema,
   RenderEngine,
   getMetadata,
+  type IsomerPageSchema,
 } from "@isomerpages/isomer-components";
-import config from "@/data/config.json";
-import navbar from "@/data/navbar.json";
-import footer from "@/data/footer.json";
-import sitemap from "@/sitemap.json";
-import Link from "next/link";
 import type { Metadata, ResolvingMetadata } from "next";
+import Link from "next/link";
 
 const PAGE_TITLE = "404: Page not found";
 const PAGE_DESCRIPTION = "The page that you are accessing does not exist";
