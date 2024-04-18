@@ -50,6 +50,7 @@ const getSchema = async (
 };
 
 export const generateStaticParams = () => {
+  // @ts-expect-error blah
   return getSitemapXml(sitemap).map(({ url }) => ({
     permalink: url.replace(/^\//, "").split("/"),
   }));
@@ -64,6 +65,7 @@ export const generateMetadata = async (
   schema.site = {
     ...config.site,
     environment: process.env.NEXT_PUBLIC_ISOMER_NEXT_ENVIRONMENT,
+    // @ts-expect-error blah
     siteMap: sitemap,
     navBarItems: navbar,
     // @ts-expect-error blah
@@ -84,6 +86,7 @@ const Page = async ({ params }: DynamicPageProps) => {
         site={{
           ...config.site,
           environment: process.env.NEXT_PUBLIC_ISOMER_NEXT_ENVIRONMENT,
+          // @ts-expect-error blah
           siteMap: sitemap,
           navBarItems: navbar,
           // @ts-expect-error blah
