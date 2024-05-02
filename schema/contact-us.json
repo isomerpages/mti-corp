@@ -1,5 +1,6 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
     "contentPageHeader": {
       "summary": "Contact Us"
@@ -9,71 +10,269 @@
   "content": [
     {
       "type": "heading",
-      "content": "Locate Us",
-      "level": 5
+      "level": 5,
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Locate Us"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "Ministry of Trade and Industry 100 High Street #09-01 The Treasury Singapore 179434"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Ministry of Trade and Industry 100 High Street #09-01 The Treasury Singapore 179434"
+        }
+      ]
     },
     {
       "type": "heading",
-      "content": "Operating Hours",
-      "level": 5
+      "level": 5,
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Operating Hours"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "Mondays to Fridays: 9:00am to 6:00pm Saturdays, Sundays and Public Holidays: Closed"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Mondays to Fridays: 9:00am to 6:00pm Saturdays, Sundays and Public Holidays: Closed"
+        }
+      ]
     },
     {
       "type": "accordion",
+      "summary": "General",
       "details": [
-        "Telephone: MTI-QSM (1800-2213005)",
-        "Fax: (+65) 63327260",
-        "For companies that have received emails from <a href='mailto:haze@mti.gov.sg'>haze@mti.gov.sg</a> requesting your company's updated contact information, you may reach us at <a href='mailto:haze@mti.gov.sg'>haze@mti.gov.sg</a> for further enquiries. Thank you.",
-        "For a comprehensive listing of contact details, please visit MTI's directory at the Singapore Government Directory Interactive.",
-        "Please contact <a href='mailto:mti_email@mti.gov.sg'>mti_email@mti.gov.sg</a> or Quality Service Line: 1800-2213005.",
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Telephone: MTI-QSM (1800-2213005)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Fax: (+65) 63327260"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "For companies that have received emails from <a href='mailto:haze@mti.gov.sg'>haze@mti.gov.sg</a> requesting your company's updated contact information, you may reach us at <a href='mailto:haze@mti.gov.sg'>haze@mti.gov.sg</a> for further enquiries. Thank you."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "For a comprehensive listing of contact details, please visit MTI's directory at the Singapore Government Directory Interactive."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Please contact <a href='mailto:mti_email@mti.gov.sg'>mti_email@mti.gov.sg</a> or Quality Service Line: 1800-2213005."
+            }
+          ]
+        },
         {
           "type": "unorderedlist",
-          "items": [
-            "For any enquiries or feedback on our data protection policies and procedures,",
-            "If you require more information on or access to the data which you have earlier provided to us."
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "For any enquiries or feedback on our data protection policies and procedures,"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "If you require more information on or access to the data which you have earlier provided to us."
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         }
-      ],
-      "summary": "General"
+      ]
     },
     {
       "type": "accordion",
+      "summary": "Careers",
       "details": [
-        "Explore <a href='https://www.mti.gov.sg/Careers'>career opportunities</a> with MTI.",
-        "For other career related inquiries, contact: <a href='mailto:mti_hr@mti.gov.sg'>mti_hr@mti.gov.sg</a>."
-      ],
-      "summary": "Careers"
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Explore <a href='https://www.mti.gov.sg/Careers'>career opportunities</a> with MTI."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "For other career related inquiries, contact: <a href='mailto:mti_hr@mti.gov.sg'>mti_hr@mti.gov.sg</a>."
+            }
+          ]
+        }
+      ]
     },
     {
       "type": "accordion",
+      "summary": "Divisions",
       "details": [
-        "Trade Division Fax: (+65) 6334-8135 / (+65) 6334-7113 / (+65) 6334-5848",
-        "Energy Division Fax: (+65) 6334-2967",
-        "Resource Division Fax: (+65) 6334-2367",
-        "Research and Enterprise Division Fax: (+65) 6334-0306",
-        "Industry Division Fax: (+65) 6334-2367",
-        "Economics & Strategy Division Fax: (+65) 6334-4189",
-        "Corporate Communications Division Fax: (+65) 6334-0306",
-        "Corporate Services Division Fax: (+65) 6334-2371 / (+65) 6332-7260"
-      ],
-      "summary": "Divisions"
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Trade Division Fax: (+65) 6334-8135 / (+65) 6334-7113 / (+65) 6334-5848"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Energy Division Fax: (+65) 6334-2967"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Resource Division Fax: (+65) 6334-2367"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Research and Enterprise Division Fax: (+65) 6334-0306"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Industry Division Fax: (+65) 6334-2367"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Economics & Strategy Division Fax: (+65) 6334-4189"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Corporate Communications Division Fax: (+65) 6334-0306"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Corporate Services Division Fax: (+65) 6334-2371 / (+65) 6332-7260"
+            }
+          ]
+        }
+      ]
     },
     {
       "type": "heading",
-      "content": "Require Further Assistance?",
-      "level": 5
+      "level": 5,
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Require Further Assistance?"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "<a href='mailto:mti_email@mti.gov.sg?subject=Contact MTI'>Get in touch</a> and we will walk you through the rest."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<a href='mailto:mti_email@mti.gov.sg?subject=Contact MTI'>Get in touch</a> and we will walk you through the rest."
+        }
+      ]
     }
-  ],
-  "layout": "content"
+  ]
 }

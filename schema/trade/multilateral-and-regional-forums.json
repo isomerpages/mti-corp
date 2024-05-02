@@ -1,5 +1,6 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
     "contentPageHeader": {
       "summary": "Singapore supports multilateral and region forums that promote free and open trade. Find out more here."
@@ -9,8 +10,13 @@
   "content": [
     {
       "type": "paragraph",
-      "content": "As a free trader with a small and open economy that is highly dependent on trade, Singapore fully supports global trade that is based on a strong rules-based multilateral trading system. This will ensure the free flow of goods and services with little or no barriers. Singapore also supports regional forums such as APEC, ASEAN and ASEM which are complementary to multilateral forums such as the WTO process. Singapore also took on the chairmanship of ASEAN in 2018, working with ASEAN and our external partners to forge a Resilient and Innovative ASEAN."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "As a free trader with a small and open economy that is highly dependent on trade, Singapore fully supports global trade that is based on a strong rules-based multilateral trading system. This will ensure the free flow of goods and services with little or no barriers. Singapore also supports regional forums such as APEC, ASEAN and ASEM which are complementary to multilateral forums such as the WTO process. Singapore also took on the chairmanship of ASEAN in 2018, working with ASEAN and our external partners to forge a Resilient and Innovative ASEAN."
+        }
+      ]
     }
-  ],
-  "layout": "content"
+  ]
 }

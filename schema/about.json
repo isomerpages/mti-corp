@@ -1,5 +1,6 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
     "contentPageHeader": {
       "summary": "Our organisation's vision, mission, structure and values"
@@ -10,23 +11,45 @@
   "content": [
     {
       "type": "heading",
-      "content": "Our Vision",
       "level": 2,
-      "id": "our-vision"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Our Vision"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "Our vision is for Singapore to be a leading global city with a dynamic economy, world-class and innovative enterprises, a conducive environment for entrepreneurs and enterprises to tap its diverse opportunities and good jobs for all Singaporeans."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Our vision is for Singapore to be a leading global city with a dynamic economy, world-class and innovative enterprises, a conducive environment for entrepreneurs and enterprises to tap its diverse opportunities and good jobs for all Singaporeans."
+        }
+      ]
     },
     {
       "type": "heading",
-      "content": "Our Mission",
       "level": 2,
-      "id": "our-mission"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Our Mission"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "To promote economic growth and create good jobs, to enable Singaporeans to improve their lives. Together with our statutory boards, we will ensure that Singapore’s economy continues to be competitive, is able to attract investments, and nurture a deeper base of global Singapore enterprises."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "To promote economic growth and create good jobs, to enable Singaporeans to improve their lives. Together with our statutory boards, we will ensure that Singapore’s economy continues to be competitive, is able to attract investments, and nurture a deeper base of global Singapore enterprises."
+        }
+      ]
     },
     {
       "type": "infocols",
@@ -70,6 +93,5 @@
       "alt": "SQC",
       "width": 20
     }
-  ],
-  "layout": "content"
+  ]
 }

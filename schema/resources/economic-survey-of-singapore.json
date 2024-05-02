@@ -1,5 +1,6 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
     "contentPageHeader": {
       "summary": "Read the Economic Survey of Singapore, which we produce on a quarterly basis, here. Each report contains analyses of the overall Singapore economy and its various economic sectors."
@@ -60,6 +61,5 @@
       "variant": "top",
       "title": "Other Resources"
     }
-  ],
-  "layout": "content"
+  ]
 }

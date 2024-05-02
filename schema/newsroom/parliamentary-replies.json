@@ -1,5 +1,6 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
     "contentPageHeader": {
       "summary": "Read our responses to questions raised in the Singapore Parliament here."
@@ -9,8 +10,13 @@
   "content": [
     {
       "type": "paragraph",
-      "content": "Placeholder"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Placeholder"
+        }
+      ]
     }
-  ],
-  "layout": "content"
+  ]
 }

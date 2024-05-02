@@ -1,5 +1,6 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
     "contentPageHeader": {
       "summary": "Frequently Asked Questions"
@@ -9,40 +10,93 @@
   "content": [
     {
       "type": "accordion",
+      "summary": "How do I submit a business idea to the PEP?",
       "details": [
-        "The fastest way to submit your business idea is through the form at this <a href='https://www.mti.gov.sg/PEP/First-Mover-Framework/Submit-First-Mover-Idea'>link</a>."
-      ],
-      "summary": "How do I submit a business idea to the PEP?"
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "The fastest way to submit your business idea is through the form at this <a href='https://www.mti.gov.sg/PEP/First-Mover-Framework/Submit-First-Mover-Idea'>link</a>."
+            }
+          ]
+        }
+      ]
     },
     {
       "type": "accordion",
+      "summary": "What are the possible outcomes of my suggestion?",
       "details": [
-        "Suggestions can be accepted, rejected or dropped if it does not relate to government red tape that hinder businesses. The suggestor will be informed of the decision. If appropriate, you may be invited to discussions with the relevant agencies."
-      ],
-      "summary": "What are the possible outcomes of my suggestion?"
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Suggestions can be accepted, rejected or dropped if it does not relate to government red tape that hinder businesses. The suggestor will be informed of the decision. If appropriate, you may be invited to discussions with the relevant agencies."
+            }
+          ]
+        }
+      ]
     },
     {
       "type": "accordion",
+      "summary": "What are considered government assets?",
       "details": [
-        "The most common examples of government assets would include fixed assets such as land, buildings, floor space etc."
-      ],
-      "summary": "What are considered government assets?"
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "The most common examples of government assets would include fixed assets such as land, buildings, floor space etc."
+            }
+          ]
+        }
+      ]
     },
     {
       "type": "accordion",
+      "summary": "What happens after I have submitted my business idea?",
       "details": [
-        "Upon submission, the business idea will be assessed by the relevant government agency. For straightforward cases, you can expect a response on the assessment within two weeks. For more complex proposals, it may take up to a month or more.",
-        "If the application is incomplete, unclear or further details are required, the PEP Secretariat will contact you for clarification. It is therefore advisable to be clear and specific when you submit your business idea."
-      ],
-      "summary": "What happens after I have submitted my business idea?"
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Upon submission, the business idea will be assessed by the relevant government agency. For straightforward cases, you can expect a response on the assessment within two weeks. For more complex proposals, it may take up to a month or more."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "If the application is incomplete, unclear or further details are required, the PEP Secretariat will contact you for clarification. It is therefore advisable to be clear and specific when you submit your business idea."
+            }
+          ]
+        }
+      ]
     },
     {
       "type": "accordion",
+      "summary": "What happens if my suggestion requires a few agencies to act?",
       "details": [
-        "We invite you to pen down your issues and suggestions. We will identify an agency to lead in the review, and work with the other relevant agencies and be your key point of contact."
-      ],
-      "summary": "What happens if my suggestion requires a few agencies to act?"
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "We invite you to pen down your issues and suggestions. We will identify an agency to lead in the review, and work with the other relevant agencies and be your key point of contact."
+            }
+          ]
+        }
+      ]
     }
-  ],
-  "layout": "content"
+  ]
 }

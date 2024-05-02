@@ -1,5 +1,6 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
     "contentPageHeader": {
       "summary": "Free Trade Agreements are treaties which make trade and investment between two or more economies easier. Find out more here."
@@ -9,17 +10,34 @@
   "content": [
     {
       "type": "heading",
-      "content": "Free Trade Agreements",
       "level": 2,
-      "id": "free-trade-agreements"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Free Trade Agreements"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "Free Trade Agreements (FTAs) are treaties which make trade and investment between 2 or more economies easier. Singapore has an open economy which is driven by trade in goods and services. Over the years, it has forged an extensive network of 27 implemented agreements."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Free Trade Agreements (FTAs) are treaties which make trade and investment between 2 or more economies easier. Singapore has an open economy which is driven by trade in goods and services. Over the years, it has forged an extensive network of 27 implemented agreements."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "With FTAs, Singapore-based exporters and investors stand to enjoy a myriad of benefits like tariff concessions, preferential access to certain sectors, faster entry into markets and Intellectual Property protection."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "With FTAs, Singapore-based exporters and investors stand to enjoy a myriad of benefits like tariff concessions, preferential access to certain sectors, faster entry into markets and Intellectual Property protection."
+        }
+      ]
     },
     {
       "type": "image",
@@ -28,7 +46,13 @@
     },
     {
       "type": "paragraph",
-      "content": "Click <a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/FTAs/All-you-need-to-know-about-SG-FTAs-and-DEAs-15022023.pdf'>here</a> for more information on Free Trade Agreements and Digital Economy Agreements."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Click <a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/FTAs/All-you-need-to-know-about-SG-FTAs-and-DEAs-15022023.pdf'>here</a> for more information on Free Trade Agreements and Digital Economy Agreements."
+        }
+      ]
     },
     {
       "type": "infocards",
@@ -76,6 +100,5 @@
       ],
       "variant": "side"
     }
-  ],
-  "layout": "content"
+  ]
 }

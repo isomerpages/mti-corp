@@ -11,21 +11,44 @@
   "content": [
     {
       "type": "heading",
-      "content": "Joint Development of Principles to Guide Development of Cross-Border Electricity Trade",
       "level": 2,
-      "id": "section-1"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Joint Development of Principles to Guide Development of Cross-Border Electricity Trade"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "Singapore and Australia have jointly developed “Ten Principles to Guide the Development of Cross-Border Electricity Trade” to deepen energy connectivity and support Cross-Border Electricity Trading (CBET). This was announced at the 9th Singapore-Australia Annual Leaders’ Meeting in Melbourne, Australia on 5 March 2024, in the opening remarks by Singapore Prime Minister Lee Hsien Loong and Australia Prime Minister Anthony Albanese."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Singapore and Australia have jointly developed “Ten Principles to Guide the Development of Cross-Border Electricity Trade” to deepen energy connectivity and support Cross-Border Electricity Trading (CBET). This was announced at the 9th Singapore-Australia Annual Leaders’ Meeting in Melbourne, Australia on 5 March 2024, in the opening remarks by Singapore Prime Minister Lee Hsien Loong and Australia Prime Minister Anthony Albanese."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "<a href='https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2024/03/MTI-Factsheet-on-CBET-VF3.pdf'>Please click here for the full factsheet.</a>"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2024/03/MTI-Factsheet-on-CBET-VF3.pdf'>Please click here for the full factsheet.</a>"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "MINISTRY OF TRADE AND INDUSTRY 5 MARCH 2024"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "MINISTRY OF TRADE AND INDUSTRY 5 MARCH 2024"
+        }
+      ]
     }
   ]
 }

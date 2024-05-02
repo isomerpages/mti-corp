@@ -11,17 +11,34 @@
   "content": [
     {
       "type": "heading",
-      "content": "20 Conversations Publication",
       "level": 2,
-      "id": "20-conversations-publication"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "20 Conversations Publication"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "Published on 11 November 2022"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Published on 11 November 2022"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "In celebration of Singapore Business Federation (SBF)’s 20th anniversary, the Future Economy Council (FEC) collaborated with SBF to launch the 20 Conversations, a publication to help instil confidence, inspire transformation, and incite the pursuit of new opportunities as businesses forge ahead with renewed vigour. The book chronicles insights from 20 outstanding Singapore business leaders across different industries, and highlights their unique journeys in leadership, business resilience, innovation and transformation, and partnerships for growth. "
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "In celebration of Singapore Business Federation (SBF)’s 20th anniversary, the Future Economy Council (FEC) collaborated with SBF to launch the 20 Conversations, a publication to help instil confidence, inspire transformation, and incite the pursuit of new opportunities as businesses forge ahead with renewed vigour. The book chronicles insights from 20 outstanding Singapore business leaders across different industries, and highlights their unique journeys in leadership, business resilience, innovation and transformation, and partnerships for growth. "
+        }
+      ]
     }
   ]
 }

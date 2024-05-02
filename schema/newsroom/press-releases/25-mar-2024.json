@@ -11,17 +11,34 @@
   "content": [
     {
       "type": "heading",
-      "content": "Consumer Price Developments in February 2024",
       "level": 2,
-      "id": "consumer-price-developments-in-february-2024"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Consumer Price Developments in February 2024"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "<a href='https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2024/03/Consumer-Price-Developments-in-February-2024.pdf'>Please click here for the full press release.</a>"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2024/03/Consumer-Price-Developments-in-February-2024.pdf'>Please click here for the full press release.</a>"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "MONETARY AUTHORITY OF SINGAPORE MINISTRY OF TRADE AND INDUSTRY 25 MARCH 2024"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "MONETARY AUTHORITY OF SINGAPORE MINISTRY OF TRADE AND INDUSTRY 25 MARCH 2024"
+        }
+      ]
     }
   ]
 }

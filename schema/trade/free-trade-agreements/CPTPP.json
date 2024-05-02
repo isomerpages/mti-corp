@@ -1,5 +1,6 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
     "contentPageHeader": {
       "summary": "The CPTPP is a FTA between 11 countries: Australia, Brunei Darussalam, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam."
@@ -10,323 +11,1339 @@
   "content": [
     {
       "type": "paragraph",
-      "content": "The Comprehensive and Progressive Agreement for Trans-Pacific Partnership (\"CPTPP\") is a Free Trade Agreement (\"FTA\") between 11 countries: Australia, Brunei Darussalam, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The Comprehensive and Progressive Agreement for Trans-Pacific Partnership (\"CPTPP\") is a Free Trade Agreement (\"FTA\") between 11 countries: Australia, Brunei Darussalam, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "All 11 countries are members of the Asia-Pacific Economic Cooperation (APEC). The CPTPP was concluded on 23 January 2018 in Tokyo, Japan and signed on 8 March 2018 in Santiago, Chile. Singapore ratified the CPTPP on 19 July 2018, becoming the third nation to do so after Mexico and Japan."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "All 11 countries are members of the Asia-Pacific Economic Cooperation (APEC). The CPTPP was concluded on 23 January 2018 in Tokyo, Japan and signed on 8 March 2018 in Santiago, Chile. Singapore ratified the CPTPP on 19 July 2018, becoming the third nation to do so after Mexico and Japan."
+        }
+      ]
     },
     {
       "type": "callout",
-      "content": "\"The CPTPP is an important agreement that will complement Singapore's existing network of bilateral free trade agreements. It will strengthen trade among countries in the Asia-Pacific, resulting in a more seamless flow of goods, services and investment. Against the current backdrop of trade tensions and anti-globalisation sentiments, the CPTPP sends a strong signal of our commitment to trade liberalisation and a rules-based trading system. The CPTPP is an open and inclusive Agreement and we welcome like-minded parties to join the CPTPP after it has entered into force.\"  - Minister Chan Chun Sing, Minister for Trade and Industry",
-      "variant": "info"
-    },
-    {
-      "type": "heading",
-      "content": "CPTPP 7th Commission Meeting, 16 July 2023",
-      "level": 5
-    },
-    {
-      "type": "paragraph",
-      "content": "Press Release:"
-    },
-    {
-      "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/MTI-Press-Release---The-UK-Becomes-First-Economy-to-Accede-to-the-CPTPP.pdf'>The UK Becomes First Economy to Accede to the CPTPP</a>"
-      ]
-    },
-    {
-      "type": "heading",
-      "content": "CPTPP 6th Commission Meeting, 8 October 2022",
-      "level": 5
-    },
-    {
-      "type": "paragraph",
-      "content": "Speeches:"
-    },
-    {
-      "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/Newsroom/Speeches/2022/10/Speech-by-Minister-Gan-Kim-Yong-at-the-Start-of-the-Sixth-Meeting-of-the-Comprehensive'>Speech by Minister Gan Kim Yong at the Start of the Sixth Meeting of the Comprehensive and Progressive Agreement for the Trans-Pacific Partnership (CPTPP) Commission</a>",
-        "<a href='https://www.mti.gov.sg/Newsroom/Speeches/2022/10/Opening-Remarks-by-Minister-Gan-Kim-Yong-at-the-Media-Conference-of-the-Sixth-Meeting'>Opening Remarks by Minister Gan Kim Yong at the Media Conference of the Sixth Meeting of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Commission</a>"
-      ]
-    },
-    {
-      "type": "paragraph",
-      "content": "Press Releases:"
-    },
-    {
-      "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/Newsroom/Press-Releases/2022/10/Comprehensive-and-Progressive-Agreement-for-Trans-Pacific-Partnership'>Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) Joint Ministerial Statement on the Occasion of the Sixth Commission Meeting</a>",
-        "<a href='https://www.mti.gov.sg/Newsroom/Press-Releases/2022/10/Singapore-chairs-Sixth-Meeting-of-the-Comprehensive-and-Progressive-Agreement'>Singapore chairs Sixth Meeting of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Commission</a>"
-      ]
-    },
-    {
-      "type": "paragraph",
-      "content": "Reports:"
-    },
-    {
-      "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/FTAs/Report-of-the-6th-CPTPP-Commission-Meeting.pdf'>Report for CPTPP 6th Commission Meeting</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/General-Report-for-CPTPP-Subsidiary-Bodies-Meetings-in-2022.pdf'>General Report for CPTPP Subsidiary Bodies Meetings in 2022</a>"
-      ]
-    },
-    {
-      "type": "paragraph",
-      "content": "Consolidated Subsidiary Body Reports:"
-    },
-    {
-      "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/Competitiveness-and-Business-Facilitation-and-Small-and-Medium-Sized-Enterprises-Joint-Committee.pdf'>Competitiveness and Business Facilitation and Small and Medium-Sized Enterprises Joint Committee</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/E-Commerce-Committee.pdf'>E-Commerce Committee</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/Environment-Committee.pdf'>Environment Committee</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/Financial-Services-Committee.pdf'>Financial Services Committee</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/Professional-Services-Working-Group.pdf'>Professional Services Working GroupProfessional Services Working Group</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/Rules-of-Origin-and-Origin-Procedures-Committee.pdf'>Rules of Origin and Origin Procedures Committee</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/Sanitary-and-Phytosanitary-Measures-Committee.pdf'>Sanitary and Phytosanitary Measures Committee</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/State-Owned-Enterprises-and-Designated-Monopolies-Committee.pdf'>State-Owned Enterprises and Designated Monopolies Committee</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/Technical-Barriers-to-Trade-Committee.pdf'>Technical Barriers to Trade Committee</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/Trade-in-Goods-and-Agricultural-Trade-Committees.pdf'>Trade in Goods and Agricultural Trade Committees</a>"
-      ]
-    },
-    {
-      "type": "paragraph",
-      "content": "Endorsed:"
-    },
-    {
-      "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/-/media/MRA-Guidelines-8-Oct-2022.pdf'>Guidelines for Mutual Recognition Agreements or Arrangements for Professional Service</a>"
-      ]
-    },
-    {
-      "type": "heading",
-      "content": "CPTPP 1st Senior Officials Meeting, 18 February 2022",
-      "level": 5
-    },
-    {
-      "type": "paragraph",
-      "content": "Readout:"
-    },
-    {
-      "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2022/02/Readout-on-CPTPP-SOM1-18-Feb-updated.pdf'>First Senior Officials Meeting of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership</a>"
-      ]
-    },
-    {
-      "type": "heading",
-      "content": "CPTPP 5th Commission Meeting, 1 September 2021",
-      "level": 5
-    },
-    {
-      "type": "paragraph",
-      "content": "Press Release:"
-    },
-    {
-      "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/Press-Release---Min-Gan-Kim-Yong-Participates-in-Fifth-Meeting-of-the-CPTPP-Commission.pdf'>Minister Gan Kim Yong Participates in Fifth Meeting of the CPTPP Commission</a>"
-      ]
-    },
-    {
-      "type": "heading",
-      "content": "CPTPP 4th Commission Meeting, 2 June 2021",
-      "level": 5
-    },
-    {
-      "type": "paragraph",
-      "content": "Press Release:"
-    },
-    {
-      "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/Newsroom/Press-Releases/2021/06/Minister-Gan-Kim-Yong-participates-in-Fourth-Meeting-of-the-CPTPP-Commission'>Minister Gan Kim Yong participates in Fourth Meeting of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership</a>"
-      ]
-    },
-    {
-      "type": "paragraph",
-      "content": "Joint Statement:"
-    },
-    {
-      "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/Joint-Statement---The-4th--Commission-Meeting.pdf'>Joint Ministerial Statement on the occasion of the Fourth Commission Meeting</a>"
-      ]
-    },
-    {
-      "type": "paragraph",
-      "content": "Decision Endorsed:"
-    },
-    {
-      "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/Commission-Decision---Regarding-the-United-Kingdoms-Formal-Request-to-Commence-the-Accession-Process.pdf'>Decision by the Commission of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership regarding the United Kingdom’s Formal Request to Commence the Accession Process</a>"
-      ]
-    },
-    {
-      "type": "heading",
-      "content": "CPTPP 3rd Commission Meeting, 6 August 2020",
-      "level": 5
-    },
-    {
-      "type": "paragraph",
-      "content": "Joint Statement:"
-    },
-    {
-      "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-Joint-Statement_3rd-Commission-Meeting.PDF'>CPTPP statement on the occasion of the Third Commission Meeting</a>"
-      ]
-    },
-    {
-      "type": "heading",
-      "content": "CPTPP 2nd Commission Meeting, 9 October 2019, Auckland, New Zealand",
-      "level": 5
-    },
-    {
-      "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/2nd-Commission-Meeting-2019/CPTPP-Joint-Statement.pdf'>Concluding Joint Statement</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/2nd-Commission-Meeting-2019/CPTPP-2nd-Commission-Report.pdf'>2nd Commission Report</a>"
-      ]
-    },
-    {
-      "type": "paragraph",
-      "content": "Decisions Endorsed:"
-    },
-    {
-      "type": "orderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/2nd-Commission-Meeting-2019/Rules-of-Procedure-for-the-CPTPP-Commission-FINAL.PDF'>Commission Rules of Procedure</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/2nd-Commission-Meeting-2019/CPTPP-Roster-of-Panel-Chairs-Final-Decision.pdf'>Roster of Panel Chairs</a>"
-      ],
-      "start": 1
-    },
-    {
-      "type": "heading",
-      "content": "CPTPP Commission Meeting, 19 January 2019, Tokyo, Japan",
-      "level": 5
-    },
-    {
-      "type": "paragraph",
-      "content": "Press Release:"
-    },
-    {
-      "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2019/01/MTI-press-release-on-CPTPP-Commission-Meeting_FINAL.pdf'>Minister Chan Chun Sing attends inaugural Commission Meeting of the CPTPP</a>"
-      ]
-    },
-    {
-      "type": "paragraph",
-      "content": "Decisions Endorsed:"
-    },
-    {
-      "type": "orderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/01-Administration-for-Implementation-of-the-CPTPP.pdf'>Administration for Implementation of the CPTPP</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/02-Decision-to-Accession-Process-of-the-CPTPP.pdf'>Accession Process of the CPTPP</a>",
+      "variant": "info",
+      "content": [
         {
-          "type": "unorderedlist",
-          "items": [
-            "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/03-Annex-to-Accession-Process-of-the-CPTPP.pdf'>Annex</a>"
-          ]
-        },
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/04-Decision-to-StateState-Dispute-Settlement-SSDS-Rules-of-Procedure.pdf'>State-State Dispute Settlement (SSDS) Rules of Procedures</a>",
-        {
-          "type": "unorderedlist",
-          "items": [
-            "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/05-Annex-to-Rules-of-Procedure-under-Chapter-28-Dispute-Settlement-of-the-CPTPP.pdf'>Annex – Rules of Procedures under Chapter 28 (Dispute Settlement) of the CPTPP</a>",
-            "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/05-Annex-to-Rules-of-Procedure-under-Chapter-28-Dispute-Settlement-of-the-CPTPP.pdf'>Annex – Code of Conduct for SSDS under Chapter 28 (Dispute Settlement) of the CPTPP</a>"
-          ]
-        },
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/07-Decision-to-InvestorState-Dispute-Settlement-ISDS-Code-of-Conduct.pdf'>Investor-State Dispute Settlement (ISDS) Code of Conduct</a>",
-        {
-          "type": "unorderedlist",
-          "items": [
-            "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/08-Annex-to-Code-of-Conduct-for-ISDS-under-Chapter-9-Section-B-ISDS-of-the-CPTPP.pdf'>Annex – Code of Conduct for ISDS under Chapter 9 Section B (ISDS) of the CPTPP</a>"
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "\"The CPTPP is an important agreement that will complement Singapore's existing network of bilateral free trade agreements. It will strengthen trade among countries in the Asia-Pacific, resulting in a more seamless flow of goods, services and investment. Against the current backdrop of trade tensions and anti-globalisation sentiments, the CPTPP sends a strong signal of our commitment to trade liberalisation and a rules-based trading system. The CPTPP is an open and inclusive Agreement and we welcome like-minded parties to join the CPTPP after it has entered into force.\"  - Minister Chan Chun Sing, Minister for Trade and Industry"
+            }
           ]
         }
-      ],
-      "start": 1
-    },
-    {
-      "type": "heading",
-      "content": "Press Releases",
-      "level": 5
-    },
-    {
-      "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-Joint-Ministerial-Statement-November-2023.pdf'>Joint Ministerial Statement, 15 November 2023</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/Terms-of-Reference-for-the-CPTPP-General-Review-November-2023.pdf'>Terms of Reference for the CPTPP General Review, 15 November 2023</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/Joint-Ministerial-Statement-on-the-UK-accession-process-to-the-CPTPP.pdf'>Joint Ministerial Statement on the UK's accession process to the CPTPP, 31 March 2023</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2022/02/Joint-Statement-from-Minister-Gan-Kim-Yong-and-UK-Secretary-of-State-Anne-Marie-Trevelyan.pdf'>Joint Statement on the CPTPP and the World Trade Organisation, 25 February 2022</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2018/11/Press-release---The-CPTPP-Enters-Into-Force-in-December.pdf'>CPTPP enters into force in December, 20 November 2018</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/cptpp-ratification---19-july-2018.pdf?la=en&hash=4A056B2C29524FBD66038273C9BC15AC'>Singapore ratifies CPTPP, 19 July 2018</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/media-release---cptpp-signed.pdf?la=en&hash=D2B1724BDC7579CA8CA748F0B7539803'>CPTPP Signing, 9 March 2018</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/press-release-on-conclusion-of-cptpp---final.pdf?la=en&hash=E153B0C44DF695AE6734ACA414715B70'>Conclusion of Negotiations on the CPTPP, 23 January 2018</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/tpp-ministerial-statement_11-nov-2017.pdf?la=en&hash=5C6D916D59B9C398AD003D3089576333'>Ministerial Statement on TPP, 11 November 2017</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/statement-on-the-trans-pacific-partnership-21-may-2017.pdf?la=en&hash=70EBAF216D7D041205218AC26E38F5B1'>MTI Statement on TPP, 21 May 2017</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/mos-koh-poh-koon-at-high-level-dialogue-in-chile.pdf?la=en&hash=2EDDD51DCC96D7B4EAD19EDF6A610810'>Minister of State Koh Poh Koon's statement on Integration Initiatives, 16 March 2017</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2017/01/Statement-On-The-Trans-Pacific-Partnership-/mti-statement-on-tpp-24-jan-2017.pdf?la=en&hash=AEA13AA7425616D0C8BFE4CB05490344'>MTI Statement on TPP, 24 January 2017</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/mti-press-release-on-tpp-signing-final.pdf?la=en&hash=EC78DB6568FF073F70FDFC1CAF95204D'>MTI Press Release on TPP Signing, 4 February 2016</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/joint-statement-by-ministers-on-tpp-signing_final.pdf?la=en&hash=308F17D591868CEB072B25E25A7D6BB4'>Joint Statement by Ministers on TPP Signing, 4 February 2016</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/press-release-on-conclusion-of-tpp-negotiations-final.pdf?la=en&hash=D43845F17A9C9D52FA78186468F6D524'>Conclusion of TPP negotiations, 5 October 2015</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/tpp-ministers-statement-5-oct-15.pdf?la=en&hash=82E789C55B471A612C2571FC82FBF0D2'>TPP Ministers' Statement, 5 October 2015</a>"
       ]
     },
     {
       "type": "heading",
-      "content": "Infographic",
-      "level": 5
+      "level": 5,
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "CPTPP 7th Commission Meeting, 16 July 2023"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Press Release:"
+        }
+      ]
     },
     {
       "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP_Infographic.pdf'>The Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)</a>"
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/MTI-Press-Release---The-UK-Becomes-First-Economy-to-Accede-to-the-CPTPP.pdf'>The UK Becomes First Economy to Accede to the CPTPP</a>"
+                }
+              ]
+            }
+          ]
+        }
       ]
     },
     {
       "type": "heading",
-      "content": "Text of the CPTPP",
-      "level": 5
+      "level": 5,
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "CPTPP 6th Commission Meeting, 8 October 2022"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Speeches:"
+        }
+      ]
     },
     {
       "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/CPTPP-7-things-you-need-to-know-070119.pdf'>Seven Things You Need to Know about the CPTPP</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/cptpp_legal_text_21022018.pdf?la=en&hash=386E7ED14D456CB6D8B3E555166C0BD1'>CPTPP Legal Text, 21 February 2018</a>"
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Newsroom/Speeches/2022/10/Speech-by-Minister-Gan-Kim-Yong-at-the-Start-of-the-Sixth-Meeting-of-the-Comprehensive'>Speech by Minister Gan Kim Yong at the Start of the Sixth Meeting of the Comprehensive and Progressive Agreement for the Trans-Pacific Partnership (CPTPP) Commission</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Newsroom/Speeches/2022/10/Opening-Remarks-by-Minister-Gan-Kim-Yong-at-the-Media-Conference-of-the-Sixth-Meeting'>Opening Remarks by Minister Gan Kim Yong at the Media Conference of the Sixth Meeting of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Commission</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Press Releases:"
+        }
+      ]
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Newsroom/Press-Releases/2022/10/Comprehensive-and-Progressive-Agreement-for-Trans-Pacific-Partnership'>Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) Joint Ministerial Statement on the Occasion of the Sixth Commission Meeting</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Newsroom/Press-Releases/2022/10/Singapore-chairs-Sixth-Meeting-of-the-Comprehensive-and-Progressive-Agreement'>Singapore chairs Sixth Meeting of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Commission</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Reports:"
+        }
+      ]
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/FTAs/Report-of-the-6th-CPTPP-Commission-Meeting.pdf'>Report for CPTPP 6th Commission Meeting</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/General-Report-for-CPTPP-Subsidiary-Bodies-Meetings-in-2022.pdf'>General Report for CPTPP Subsidiary Bodies Meetings in 2022</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Consolidated Subsidiary Body Reports:"
+        }
+      ]
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/Competitiveness-and-Business-Facilitation-and-Small-and-Medium-Sized-Enterprises-Joint-Committee.pdf'>Competitiveness and Business Facilitation and Small and Medium-Sized Enterprises Joint Committee</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/E-Commerce-Committee.pdf'>E-Commerce Committee</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/Environment-Committee.pdf'>Environment Committee</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/Financial-Services-Committee.pdf'>Financial Services Committee</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/Professional-Services-Working-Group.pdf'>Professional Services Working GroupProfessional Services Working Group</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/Rules-of-Origin-and-Origin-Procedures-Committee.pdf'>Rules of Origin and Origin Procedures Committee</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/Sanitary-and-Phytosanitary-Measures-Committee.pdf'>Sanitary and Phytosanitary Measures Committee</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/State-Owned-Enterprises-and-Designated-Monopolies-Committee.pdf'>State-Owned Enterprises and Designated Monopolies Committee</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/Technical-Barriers-to-Trade-Committee.pdf'>Technical Barriers to Trade Committee</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-2022-Consolidated-Subsidiary-Bodies-Meeting-Reports/Trade-in-Goods-and-Agricultural-Trade-Committees.pdf'>Trade in Goods and Agricultural Trade Committees</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Endorsed:"
+        }
+      ]
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MRA-Guidelines-8-Oct-2022.pdf'>Guidelines for Mutual Recognition Agreements or Arrangements for Professional Service</a>"
+                }
+              ]
+            }
+          ]
+        }
       ]
     },
     {
       "type": "heading",
-      "content": "Text of the TPP",
-      "level": 5
+      "level": 5,
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "CPTPP 1st Senior Officials Meeting, 18 February 2022"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Readout:"
+        }
+      ]
     },
     {
       "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/sitecore/service/notfound.aspx?item=web%3a%7bB24712C5-C9BA-4F4F-8E33-F4FB5CB07062%7d%40en'>Text of the TPP signed on 4 February 2016</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/summary-of-tpp-agreement.pdf?la=en&hash=5F6FACC9C5B7589DE2D1BD729BE14FC1'>Summary of TPP Agreement</a>"
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2022/02/Readout-on-CPTPP-SOM1-18-Feb-updated.pdf'>First Senior Officials Meeting of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership</a>"
+                }
+              ]
+            }
+          ]
+        }
       ]
     },
     {
       "type": "heading",
-      "content": "Singapore's FTA Network",
-      "level": 5
+      "level": 5,
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "CPTPP 5th Commission Meeting, 1 September 2021"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Press Release:"
+        }
+      ]
     },
     {
       "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.sgpc.gov.sg/sgpcmedia/media_releases/mti/press_release/P-20210901-1/attachment/010921%20-%20Press%20Release%20-%20Min%20Gan%20Kim%20Yong%20Participates%20in%20Fifth%20Meeting%20of%20the%20CPTPP%20Commission.pdf'>CPTPP 5th Commission Meeting, 1 September 2021</a>"
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/Press-Release---Min-Gan-Kim-Yong-Participates-in-Fifth-Meeting-of-the-CPTPP-Commission.pdf'>Minister Gan Kim Yong Participates in Fifth Meeting of the CPTPP Commission</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "CPTPP 4th Commission Meeting, 2 June 2021"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Press Release:"
+        }
+      ]
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Newsroom/Press-Releases/2021/06/Minister-Gan-Kim-Yong-participates-in-Fourth-Meeting-of-the-CPTPP-Commission'>Minister Gan Kim Yong participates in Fourth Meeting of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Joint Statement:"
+        }
+      ]
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/Joint-Statement---The-4th--Commission-Meeting.pdf'>Joint Ministerial Statement on the occasion of the Fourth Commission Meeting</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Decision Endorsed:"
+        }
+      ]
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/Commission-Decision---Regarding-the-United-Kingdoms-Formal-Request-to-Commence-the-Accession-Process.pdf'>Decision by the Commission of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership regarding the United Kingdom’s Formal Request to Commence the Accession Process</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "CPTPP 3rd Commission Meeting, 6 August 2020"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Joint Statement:"
+        }
+      ]
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-Joint-Statement_3rd-Commission-Meeting.PDF'>CPTPP statement on the occasion of the Third Commission Meeting</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "CPTPP 2nd Commission Meeting, 9 October 2019, Auckland, New Zealand"
+        }
+      ]
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/2nd-Commission-Meeting-2019/CPTPP-Joint-Statement.pdf'>Concluding Joint Statement</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/2nd-Commission-Meeting-2019/CPTPP-2nd-Commission-Report.pdf'>2nd Commission Report</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Decisions Endorsed:"
+        }
+      ]
+    },
+    {
+      "type": "orderedlist",
+      "start": 1,
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/2nd-Commission-Meeting-2019/Rules-of-Procedure-for-the-CPTPP-Commission-FINAL.PDF'>Commission Rules of Procedure</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/2nd-Commission-Meeting-2019/CPTPP-Roster-of-Panel-Chairs-Final-Decision.pdf'>Roster of Panel Chairs</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "CPTPP Commission Meeting, 19 January 2019, Tokyo, Japan"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Press Release:"
+        }
+      ]
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2019/01/MTI-press-release-on-CPTPP-Commission-Meeting_FINAL.pdf'>Minister Chan Chun Sing attends inaugural Commission Meeting of the CPTPP</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Decisions Endorsed:"
+        }
+      ]
+    },
+    {
+      "type": "orderedlist",
+      "start": 1,
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/01-Administration-for-Implementation-of-the-CPTPP.pdf'>Administration for Implementation of the CPTPP</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/02-Decision-to-Accession-Process-of-the-CPTPP.pdf'>Accession Process of the CPTPP</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/03-Annex-to-Accession-Process-of-the-CPTPP.pdf'>Annex</a>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/04-Decision-to-StateState-Dispute-Settlement-SSDS-Rules-of-Procedure.pdf'>State-State Dispute Settlement (SSDS) Rules of Procedures</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/05-Annex-to-Rules-of-Procedure-under-Chapter-28-Dispute-Settlement-of-the-CPTPP.pdf'>Annex – Rules of Procedures under Chapter 28 (Dispute Settlement) of the CPTPP</a>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/05-Annex-to-Rules-of-Procedure-under-Chapter-28-Dispute-Settlement-of-the-CPTPP.pdf'>Annex – Code of Conduct for SSDS under Chapter 28 (Dispute Settlement) of the CPTPP</a>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/07-Decision-to-InvestorState-Dispute-Settlement-ISDS-Code-of-Conduct.pdf'>Investor-State Dispute Settlement (ISDS) Code of Conduct</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/08-Annex-to-Code-of-Conduct-for-ISDS-under-Chapter-9-Section-B-ISDS-of-the-CPTPP.pdf'>Annex – Code of Conduct for ISDS under Chapter 9 Section B (ISDS) of the CPTPP</a>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Press Releases"
+        }
+      ]
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP-Joint-Ministerial-Statement-November-2023.pdf'>Joint Ministerial Statement, 15 November 2023</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/Terms-of-Reference-for-the-CPTPP-General-Review-November-2023.pdf'>Terms of Reference for the CPTPP General Review, 15 November 2023</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/Joint-Ministerial-Statement-on-the-UK-accession-process-to-the-CPTPP.pdf'>Joint Ministerial Statement on the UK's accession process to the CPTPP, 31 March 2023</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2022/02/Joint-Statement-from-Minister-Gan-Kim-Yong-and-UK-Secretary-of-State-Anne-Marie-Trevelyan.pdf'>Joint Statement on the CPTPP and the World Trade Organisation, 25 February 2022</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2018/11/Press-release---The-CPTPP-Enters-Into-Force-in-December.pdf'>CPTPP enters into force in December, 20 November 2018</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/cptpp-ratification---19-july-2018.pdf?la=en&hash=4A056B2C29524FBD66038273C9BC15AC'>Singapore ratifies CPTPP, 19 July 2018</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/media-release---cptpp-signed.pdf?la=en&hash=D2B1724BDC7579CA8CA748F0B7539803'>CPTPP Signing, 9 March 2018</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/press-release-on-conclusion-of-cptpp---final.pdf?la=en&hash=E153B0C44DF695AE6734ACA414715B70'>Conclusion of Negotiations on the CPTPP, 23 January 2018</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/tpp-ministerial-statement_11-nov-2017.pdf?la=en&hash=5C6D916D59B9C398AD003D3089576333'>Ministerial Statement on TPP, 11 November 2017</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/statement-on-the-trans-pacific-partnership-21-may-2017.pdf?la=en&hash=70EBAF216D7D041205218AC26E38F5B1'>MTI Statement on TPP, 21 May 2017</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/mos-koh-poh-koon-at-high-level-dialogue-in-chile.pdf?la=en&hash=2EDDD51DCC96D7B4EAD19EDF6A610810'>Minister of State Koh Poh Koon's statement on Integration Initiatives, 16 March 2017</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2017/01/Statement-On-The-Trans-Pacific-Partnership-/mti-statement-on-tpp-24-jan-2017.pdf?la=en&hash=AEA13AA7425616D0C8BFE4CB05490344'>MTI Statement on TPP, 24 January 2017</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/mti-press-release-on-tpp-signing-final.pdf?la=en&hash=EC78DB6568FF073F70FDFC1CAF95204D'>MTI Press Release on TPP Signing, 4 February 2016</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/joint-statement-by-ministers-on-tpp-signing_final.pdf?la=en&hash=308F17D591868CEB072B25E25A7D6BB4'>Joint Statement by Ministers on TPP Signing, 4 February 2016</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/press-release-on-conclusion-of-tpp-negotiations-final.pdf?la=en&hash=D43845F17A9C9D52FA78186468F6D524'>Conclusion of TPP negotiations, 5 October 2015</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/tpp-ministers-statement-5-oct-15.pdf?la=en&hash=82E789C55B471A612C2571FC82FBF0D2'>TPP Ministers' Statement, 5 October 2015</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Infographic"
+        }
+      ]
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/CPTPP_Infographic.pdf'>The Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Text of the CPTPP"
+        }
+      ]
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/CPTPP-7-things-you-need-to-know-070119.pdf'>Seven Things You Need to Know about the CPTPP</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/cptpp_legal_text_21022018.pdf?la=en&hash=386E7ED14D456CB6D8B3E555166C0BD1'>CPTPP Legal Text, 21 February 2018</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Text of the TPP"
+        }
+      ]
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/sitecore/service/notfound.aspx?item=web%3a%7bB24712C5-C9BA-4F4F-8E33-F4FB5CB07062%7d%40en'>Text of the TPP signed on 4 February 2016</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/CPTPP/summary-of-tpp-agreement.pdf?la=en&hash=5F6FACC9C5B7589DE2D1BD729BE14FC1'>Summary of TPP Agreement</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Singapore's FTA Network"
+        }
+      ]
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.sgpc.gov.sg/sgpcmedia/media_releases/mti/press_release/P-20210901-1/attachment/010921%20-%20Press%20Release%20-%20Min%20Gan%20Kim%20Yong%20Participates%20in%20Fifth%20Meeting%20of%20the%20CPTPP%20Commission.pdf'>CPTPP 5th Commission Meeting, 1 September 2021</a>"
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
-  ],
-  "layout": "content"
+  ]
 }

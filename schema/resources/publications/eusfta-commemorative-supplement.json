@@ -11,29 +11,64 @@
   "content": [
     {
       "type": "heading",
-      "content": "EUSFTA Commemorative Supplement - Deepening Trade and Business Links",
       "level": 2,
-      "id": "eusfta-commemorative-supplement---deepening-trade-and-business-links"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "EUSFTA Commemorative Supplement - Deepening Trade and Business Links"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "The Business Times Supplement"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The Business Times Supplement"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "Deepening trade and business links: the European Union-Singapore Free Trade Agreement celebrates its first year of entering into force."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Deepening trade and business links: the European Union-Singapore Free Trade Agreement celebrates its first year of entering into force."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "Published in November 2020"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Published in November 2020"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "To mark the first anniversary of the entry-into-force of the European Union-Singapore Free Trade Agreement (EUSFTA), a special Supplement was commissioned and published in The Business Times. The Supplement features interviews with Government officials who have been instrumental in the conclusion of the EUSFTA, as well as European and Singapore business leaders and companies who are tapping on the EUSFTA to expand their reach and seek new opportunities. There are also market insights on the European Union."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "To mark the first anniversary of the entry-into-force of the European Union-Singapore Free Trade Agreement (EUSFTA), a special Supplement was commissioned and published in The Business Times. The Supplement features interviews with Government officials who have been instrumental in the conclusion of the EUSFTA, as well as European and Singapore business leaders and companies who are tapping on the EUSFTA to expand their reach and seek new opportunities. There are also market insights on the European Union."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "For full report, click <a href='https://www.businesstimes.com.sg/hub-projects/eu-singapore-fta'>here.</a>"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "For full report, click <a href='https://www.businesstimes.com.sg/hub-projects/eu-singapore-fta'>here.</a>"
+        }
+      ]
     }
   ]
 }

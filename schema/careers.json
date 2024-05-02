@@ -1,5 +1,6 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
     "contentPageHeader": {
       "summary": "At MTI, you will be at the forefront of shaping Singapore’s vibrant economy!"
@@ -9,14 +10,24 @@
   "content": [
     {
       "type": "heading",
-      "content": "Why MTI",
       "level": 2,
-      "id": "why-mti"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Why MTI"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "Join us to create exciting opportunities and good jobs for all. Together with our Statutory Boards, we create a thriving business environment. Come steer the growth of our companies and industries, spur innovation and R&D, and manage our land and energy resources effectively. Come travel the world to unlock new markets for our companies to venture into and discover new trade potential for Singapore."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Join us to create exciting opportunities and good jobs for all. Together with our Statutory Boards, we create a thriving business environment. Come steer the growth of our companies and industries, spur innovation and R&D, and manage our land and energy resources effectively. Come travel the world to unlock new markets for our companies to venture into and discover new trade potential for Singapore."
+        }
+      ]
     }
-  ],
-  "layout": "content"
+  ]
 }

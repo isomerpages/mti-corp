@@ -1,5 +1,6 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
     "contentPageHeader": {
       "summary": "The US-Singapore Partnership for Growth and Innovation (PGI) aims to increase collaboration between US and Singapore companies by strengthening trade and investment collaboration in new and forward-looking areas, starting with (i) digital economy and smart cities; (ii) advanced manufacturing and supply chains; (iii) clean energy and environmental technologies; and (iv) healthcare."
@@ -9,8 +10,13 @@
   "content": [
     {
       "type": "paragraph",
-      "content": "About US-Singapore Partnership for Growth and Innovation (PGI)"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "About US-Singapore Partnership for Growth and Innovation (PGI)"
+        }
+      ]
     }
-  ],
-  "layout": "content"
+  ]
 }

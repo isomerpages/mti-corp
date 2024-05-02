@@ -1,5 +1,6 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
     "contentPageHeader": {
       "summary": "Understanding the comprehensive economic partnership between Singapore and India and why it matters to us."
@@ -10,13 +11,24 @@
   "content": [
     {
       "type": "heading",
-      "content": "What is CECA?",
       "level": 2,
-      "id": "what-is-ceca"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "What is CECA?"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "CECA is a part of Singapore’s extensive network of 26 Free Trade Agreements (FTAs)."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "CECA is a part of Singapore’s extensive network of 26 Free Trade Agreements (FTAs)."
+        }
+      ]
     },
     {
       "type": "image",
@@ -26,27 +38,78 @@
     },
     {
       "type": "paragraph",
-      "content": "CECA entered into force in 2005. It was the first comprehensive economic agreement between Singapore and a South Asian country."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "CECA entered into force in 2005. It was the first comprehensive economic agreement between Singapore and a South Asian country."
+        }
+      ]
     },
     {
       "type": "heading",
-      "content": "Why does CECA matter? ",
       "level": 2,
-      "id": "why-does-ceca-matter"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Why does CECA matter? "
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "Our FTAs widen and facilitate our businesses' access to overseas markets when exporting their goods and services, provide protection for their investments abroad and provide certainty on foreign regulations."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Our FTAs widen and facilitate our businesses' access to overseas markets when exporting their goods and services, provide protection for their investments abroad and provide certainty on foreign regulations."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "Specifically under CECA:"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Specifically under CECA:"
+        }
+      ]
     },
     {
       "type": "unorderedlist",
-      "items": [
-        "With tariff reduced under CECA, Singapore companies’ products are more competitively priced in India's large consumer market.",
-        "More than 3,000 tariffs have been zeroed under CECA, and another 2,000-plus tariffs reduced. Products that benefit include the following:"
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "With tariff reduced under CECA, Singapore companies’ products are more competitively priced in India's large consumer market."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "More than 3,000 tariffs have been zeroed under CECA, and another 2,000-plus tariffs reduced. Products that benefit include the following:"
+                }
+              ]
+            }
+          ]
+        }
       ]
     },
     {
@@ -57,33 +120,95 @@
     },
     {
       "type": "unorderedlist",
-      "items": [
-        "CECA gives preferential access for Singapore service providers and investors in sectors of interest: including engineering, banking, telecommunications and real estate development. Such access gives them more opportunities to expand beyond Singapore.",
-        "Clear provisions, such as those spelling out dispute resolution processes, give Singapore investors greater confidence and protect their investments in India."
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "CECA gives preferential access for Singapore service providers and investors in sectors of interest: including engineering, banking, telecommunications and real estate development. Such access gives them more opportunities to expand beyond Singapore."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Clear provisions, such as those spelling out dispute resolution processes, give Singapore investors greater confidence and protect their investments in India."
+                }
+              ]
+            }
+          ]
+        }
       ]
     },
     {
       "type": "callout",
-      "content": "Have an export question? Please refer to the <a href='https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/tariff-finder'>Tariff Finder site</a>. Read more on the <a href='https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/Singapore-ftas/CECA'>benefits of CECA for businesses.</a>\t",
-      "variant": "info"
+      "variant": "info",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Have an export question? Please refer to the <a href='https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/tariff-finder'>Tariff Finder site</a>. Read more on the <a href='https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/Singapore-ftas/CECA'>benefits of CECA for businesses.</a>\t"
+            }
+          ]
+        }
+      ]
     },
     {
       "type": "heading",
-      "content": "How does CECA benefit us?",
       "level": 2,
-      "id": "how-does-ceca-benefit-us"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "How does CECA benefit us?"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "Since CECA was signed, bilateral trade and investment between Singapore and India have increased significantly."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Since CECA was signed, bilateral trade and investment between Singapore and India have increased significantly."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "Singapore companies can better access investment opportunities and increase trade with India. As a part of our network of FTAs, CECA also makes Singapore a more attractive base for global companies, encouraging them to base themselves in Singapore and enter the Indian market from here."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Singapore companies can better access investment opportunities and increase trade with India. As a part of our network of FTAs, CECA also makes Singapore a more attractive base for global companies, encouraging them to base themselves in Singapore and enter the Indian market from here."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "These have resulted in the creation of good jobs for Singaporeans."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "These have resulted in the creation of good jobs for Singaporeans."
+        }
+      ]
     },
     {
       "type": "image",
@@ -93,169 +218,551 @@
     },
     {
       "type": "heading",
-      "content": "Truths about CECA – addressing misunderstandings and inaccuracies",
       "level": 2,
-      "id": "truths-about-ceca"
-    },
-    {
-      "type": "accordion",
-      "details": [
+      "content": [
         {
-          "type": "unorderedlist",
-          "items": [
-            "No. CECA does not give Indian nationals unfettered access to our labour market. All Indian nationals still have to apply for the relevant passes to work in Singapore. In particular, applicants for Employment Passes (EPs), including professionals and overseas Intra-Corporate Transferees (ICTs) seeking to enter Singapore using CECA, have to meet the relevant work pass or entry criteria before they are allowed to work in Singapore. This includes having to satisfy the Ministry of Manpower (MOM)’s salary and qualifications criteria for an EP, which is no different from that required of EP applicants from other countries. Although ICTs are exempted from the Fair Consideration Framework (FCF) job advertisement requirement, they are subject to checks on their seniority, employment history, work experience and other conditions that are consistent with our international obligations. Visit <a href='www.mom.gov.sg/passes-and-permits'>www.mom.gov.sg/passes-and-permits</a> for more information on Work Pass eligibility and applications."
-          ]
+          "type": "text",
+          "marks": [],
+          "text": "Truths about CECA – addressing misunderstandings and inaccuracies"
         }
-      ],
-      "summary": "Does CECA oblige Singapore to give Indian nationals unfettered access to Singapore's labour market?"
+      ]
     },
     {
       "type": "accordion",
+      "summary": "Does CECA oblige Singapore to give Indian nationals unfettered access to Singapore's labour market?",
       "details": [
         {
           "type": "unorderedlist",
-          "items": [
-            "No. The nationality composition of our workforce is the outcome of the sectors we have chosen to focus on, as well as the global demand and supply of workers with the relevant skillsets. Whether someone is hired to work in Singapore depends on industry demand for talent, and not on CECA. Foreign nationals are eligible to apply to work in Singapore, subject to prevailing work pass criteria, with or without FTAs like CECA."
-          ]
-        },
-        {
-          "type": "unorderedlist",
-          "items": [
-            "Singapore has one of the best local talent pools in the world, but it is insufficient to meet all the needs of the investments that generate the quality and range of jobs we have today. As our digital economy and needs for tech talent grow, our locals have benefited from the exciting job opportunities. At the same time, we will need foreign workers to complement our local workforce to support the continued growth of these industries. In the past decade, India has developed a large pool of tech talent. As such, many of the foreign workers in Singapore’s tech-related sectors are Indian nationals who have come to Singapore through the work pass framework to complement our local tech talent."
-          ]
-        },
-        {
-          "type": "unorderedlist",
-          "items": [
-            "Nevertheless, we recognise the real challenges that some of our Singaporeans face, including competition from foreign Professionals, Managers and Executives (PMEs), nationality concentration and workplace discrimination. The Government constantly monitors and manages this, while ensuring that we have the right talent and skills to keep our economy growing."
-          ]
-        }
-      ],
-      "summary": "Is the number of Indian nationals working in Singapore a result of CAECA?"
-    },
-    {
-      "type": "accordion",
-      "details": [
-        {
-          "type": "unorderedlist",
-          "items": [
-            "Our FTAs, including CECA, do not give foreign nationals a “free pass” to work in Singapore."
-          ]
-        },
-        {
-          "type": "unorderedlist",
-          "items": [
-            "In Chapter 9 of CECA, Singapore agreed to:",
+          "content": [
             {
-              "type": "unorderedlist",
-              "items": [
-                "Process applications for temporary entry with some expedition, and a certain level of transparency, for example, by informing applicants of the outcomes and not leaving them in suspense.",
-                "Grant temporary entry to certain Indian ICTs and professionals for specific periods, provided they meet all of the relevant eligibility and other requirements contained within CECA, and also subject to, amongst others, our prevailing work pass salary and qualifications criteria.",
-                "Not impose labour market or economic needs tests. This is a common clause in our FTAs with other countries, such as Australia, China and the US. It means we do not insist that companies go through onerous processes and documentation to prove that no suitable locals will take a job, before they are allowed to hire a foreigner. Companies in Singapore do not hire in this way. Instead, we have in place the FCF to ensure that companies consider all qualified and available persons in Singapore fairly for job opportunities."
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "No. CECA does not give Indian nationals unfettered access to our labour market. All Indian nationals still have to apply for the relevant passes to work in Singapore. In particular, applicants for Employment Passes (EPs), including professionals and overseas Intra-Corporate Transferees (ICTs) seeking to enter Singapore using CECA, have to meet the relevant work pass or entry criteria before they are allowed to work in Singapore. This includes having to satisfy the Ministry of Manpower (MOM)’s salary and qualifications criteria for an EP, which is no different from that required of EP applicants from other countries. Although ICTs are exempted from the Fair Consideration Framework (FCF) job advertisement requirement, they are subject to checks on their seniority, employment history, work experience and other conditions that are consistent with our international obligations. Visit <a href='www.mom.gov.sg/passes-and-permits'>www.mom.gov.sg/passes-and-permits</a> for more information on Work Pass eligibility and applications."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "accordion",
+      "summary": "Is the number of Indian nationals working in Singapore a result of CAECA?",
+      "details": [
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "No. The nationality composition of our workforce is the outcome of the sectors we have chosen to focus on, as well as the global demand and supply of workers with the relevant skillsets. Whether someone is hired to work in Singapore depends on industry demand for talent, and not on CECA. Foreign nationals are eligible to apply to work in Singapore, subject to prevailing work pass criteria, with or without FTAs like CECA."
+                    }
+                  ]
+                }
               ]
             }
           ]
         },
         {
           "type": "unorderedlist",
-          "items": [
-            "For example, in relation to Professionals, Article 9.5.2 of CECA states that “Each Party shall grant temporary entry and stay for up to one year or the duration of contract, whichever is less, to a natural person seeking to engage in a business activity as a professional …\"."
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Singapore has one of the best local talent pools in the world, but it is insufficient to meet all the needs of the investments that generate the quality and range of jobs we have today. As our digital economy and needs for tech talent grow, our locals have benefited from the exciting job opportunities. At the same time, we will need foreign workers to complement our local workforce to support the continued growth of these industries. In the past decade, India has developed a large pool of tech talent. As such, many of the foreign workers in Singapore’s tech-related sectors are Indian nationals who have come to Singapore through the work pass framework to complement our local tech talent."
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
           "type": "unorderedlist",
-          "items": [
-            "The “shall” in this Article refers to Singapore’s commitment to grant temporary entry and stay for one year or the duration of the contract, whichever is shorter, for professionals defined under CECA, conditional on the applicant meeting the relevant work pass and entry criteria, and other requirements contained in the Article."
-          ]
-        },
-        {
-          "type": "unorderedlist",
-          "items": [
-            "Individuals may write to the <a href='https://www.tal.sg/tafep/Contact-Us'>Tripartite Alliance for Fair and Progressive Employment Practices</a> (TAFEP) to report any discriminatory practices. We take a strong stance against such companies."
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Nevertheless, we recognise the real challenges that some of our Singaporeans face, including competition from foreign Professionals, Managers and Executives (PMEs), nationality concentration and workplace discrimination. The Government constantly monitors and manages this, while ensuring that we have the right talent and skills to keep our economy growing."
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         }
-      ],
-      "summary": "If CECA does not allow for the free entry of Indian professionals and ICTs, then what are our obligations under Chapter 9 of CECA?"
+      ]
     },
     {
       "type": "accordion",
+      "summary": "If CECA does not allow for the free entry of Indian professionals and ICTs, then what are our obligations under Chapter 9 of CECA?",
       "details": [
         {
           "type": "unorderedlist",
-          "items": [
-            "No. Unfair hiring practices are not the result of FTAs or CECA. They stem from poor practices by a minority of errant employers. The Government safeguards against such behaviour through the <a href='https://www.mom.gov.sg/employment-practices/fair-consideration-framework'>FCF</a> which requires all employers to adhere to fair employment practices that are open, merit-based and non-discriminatory."
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Our FTAs, including CECA, do not give foreign nationals a “free pass” to work in Singapore."
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
           "type": "unorderedlist",
-          "items": [
-            "MOM proactively identifies employers who are suspected to have discriminatory hiring practices, including, among other things, discriminating on the basis of nationality. They are then placed on the FCF Watchlist, during which their work pass applications are subject to closer scrutiny. These firms are also engaged by the TAFEP to help them improve their hiring practices. If firms are not cooperative, their work pass privileges may be suspended."
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "In Chapter 9 of CECA, Singapore agreed to:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "unorderedlist",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "Process applications for temporary entry with some expedition, and a certain level of transparency, for example, by informing applicants of the outcomes and not leaving them in suspense."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "Grant temporary entry to certain Indian ICTs and professionals for specific periods, provided they meet all of the relevant eligibility and other requirements contained within CECA, and also subject to, amongst others, our prevailing work pass salary and qualifications criteria."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "Not impose labour market or economic needs tests. This is a common clause in our FTAs with other countries, such as Australia, China and the US. It means we do not insist that companies go through onerous processes and documentation to prove that no suitable locals will take a job, before they are allowed to hire a foreigner. Companies in Singapore do not hire in this way. Instead, we have in place the FCF to ensure that companies consider all qualified and available persons in Singapore fairly for job opportunities."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
-        "MOM also uses data analytics to identify firms which may have failed to consider the workforce in Singapore fairly in their hiring practices or have used other discriminatory hiring practices (e.g. over gender or ethnicity), and carries out further inquiries as needed. "
-      ],
-      "summary": "Does CECA lead to unfair hiring practices in Singapore?"
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "For example, in relation to Professionals, Article 9.5.2 of CECA states that “Each Party shall grant temporary entry and stay for up to one year or the duration of contract, whichever is less, to a natural person seeking to engage in a business activity as a professional …\"."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "The “shall” in this Article refers to Singapore’s commitment to grant temporary entry and stay for one year or the duration of the contract, whichever is shorter, for professionals defined under CECA, conditional on the applicant meeting the relevant work pass and entry criteria, and other requirements contained in the Article."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Individuals may write to the <a href='https://www.tal.sg/tafep/Contact-Us'>Tripartite Alliance for Fair and Progressive Employment Practices</a> (TAFEP) to report any discriminatory practices. We take a strong stance against such companies."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "type": "accordion",
+      "summary": "Does CECA lead to unfair hiring practices in Singapore?",
       "details": [
         {
           "type": "unorderedlist",
-          "items": [
-            "No. The Singapore Government’s ability to regulate immigration is completely unaffected by the Agreement. "
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "No. Unfair hiring practices are not the result of FTAs or CECA. They stem from poor practices by a minority of errant employers. The Government safeguards against such behaviour through the <a href='https://www.mom.gov.sg/employment-practices/fair-consideration-framework'>FCF</a> which requires all employers to adhere to fair employment practices that are open, merit-based and non-discriminatory."
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
           "type": "unorderedlist",
-          "items": [
-            "Article 9.1.2 of the Agreement explicitly states that CECA does not apply to measures pertaining to citizenship, permanent residence, or employment on a permanent basis. "
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "MOM proactively identifies employers who are suspected to have discriminatory hiring practices, including, among other things, discriminating on the basis of nationality. They are then placed on the FCF Watchlist, during which their work pass applications are subject to closer scrutiny. These firms are also engaged by the TAFEP to help them improve their hiring practices. If firms are not cooperative, their work pass privileges may be suspended."
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
-          "type": "unorderedlist",
-          "items": [
-            "None of our FTAs, including CECA, make any commitments relating to citizenship or permanent residency."
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "MOM also uses data analytics to identify firms which may have failed to consider the workforce in Singapore fairly in their hiring practices or have used other discriminatory hiring practices (e.g. over gender or ethnicity), and carries out further inquiries as needed. "
+            }
           ]
         }
-      ],
-      "summary": "Does CECA privilege Indian nationals for Singapore citizenship or permanent residency?"
+      ]
     },
     {
       "type": "accordion",
+      "summary": "Does CECA privilege Indian nationals for Singapore citizenship or permanent residency?",
       "details": [
         {
           "type": "unorderedlist",
-          "items": [
-            "No. CECA does not oblige us to allow the entry of all Indian dependants. All work pass holders need to meet MOM’s prevailing criteria to bring in dependants."
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "No. The Singapore Government’s ability to regulate immigration is completely unaffected by the Agreement. "
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
           "type": "unorderedlist",
-          "items": [
-            "Dependant’s Pass holders will need to apply for an applicable work pass if they wish to work in Singapore."
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Article 9.1.2 of the Agreement explicitly states that CECA does not apply to measures pertaining to citizenship, permanent residence, or employment on a permanent basis. "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "None of our FTAs, including CECA, make any commitments relating to citizenship or permanent residency."
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         }
-      ],
-      "summary": "Does CECA oblige us to allow the entry of Indian dependants and permit them to work in Singapore?"
+      ]
+    },
+    {
+      "type": "accordion",
+      "summary": "Does CECA oblige us to allow the entry of Indian dependants and permit them to work in Singapore?",
+      "details": [
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "No. CECA does not oblige us to allow the entry of all Indian dependants. All work pass holders need to meet MOM’s prevailing criteria to bring in dependants."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Dependant’s Pass holders will need to apply for an applicable work pass if they wish to work in Singapore."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "type": "heading",
-      "content": "More about CECA",
       "level": 2,
-      "id": "more-about-ceca"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "More about CECA"
+        }
+      ]
     },
     {
       "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/Newsroom/Speeches/2021/07/Ministerial-Statement-by-Minister-for-Health-Ong-Ye-Kung-for-Parliament-Sitting'>Ministerial Statement on FTAs/CECA by Minister for Health Ong Ye Kung</a>",
-        "<a href='https://www.mti.gov.sg/Newsroom/Speeches/2021/07/Ministerial-Statement-by-Dr-Tan-See-Leng-Minister-for-Manpower'>Ministerial Statement on foreign workforce policies by Minister for Manpower and Second Minister for Trade and Industry Dr Tan See Leng</a>",
-        "<a href='https://www.mti.gov.sg/Newsroom/Parliamentary-Replies/2021/08/Written-reply-to-PQ-on-review-of-the-CECA'>Written reply to PQ on review of CECA</a>",
-        "<a href='https://www.mti.gov.sg/Newsroom/Parliamentary-Replies/2021/02/Written-reply-to-PQ-on-CECA'>Written reply to PQ on CECA</a>",
-        "<a href='https://www.mti.gov.sg/Newsroom/Parliamentary-Replies/2017/09/Written-reply-to-PQ-on-update-on-review-of-economic-cooperation-Agreement-CECA-with-India-and-discus'>Written reply to PQ on update on review of CECA</a>",
-        "<a href='https://www.youtube.com/watch?v=4iAIQwmLzns'>CECA explained</a>",
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CECA/FTA-infographic.pdf'>Infographic on FTAs</a>"
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Newsroom/Speeches/2021/07/Ministerial-Statement-by-Minister-for-Health-Ong-Ye-Kung-for-Parliament-Sitting'>Ministerial Statement on FTAs/CECA by Minister for Health Ong Ye Kung</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Newsroom/Speeches/2021/07/Ministerial-Statement-by-Dr-Tan-See-Leng-Minister-for-Manpower'>Ministerial Statement on foreign workforce policies by Minister for Manpower and Second Minister for Trade and Industry Dr Tan See Leng</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Newsroom/Parliamentary-Replies/2021/08/Written-reply-to-PQ-on-review-of-the-CECA'>Written reply to PQ on review of CECA</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Newsroom/Parliamentary-Replies/2021/02/Written-reply-to-PQ-on-CECA'>Written reply to PQ on CECA</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Newsroom/Parliamentary-Replies/2017/09/Written-reply-to-PQ-on-update-on-review-of-economic-cooperation-Agreement-CECA-with-India-and-discus'>Written reply to PQ on update on review of CECA</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.youtube.com/watch?v=4iAIQwmLzns'>CECA explained</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CECA/FTA-infographic.pdf'>Infographic on FTAs</a>"
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
-  ],
-  "layout": "content"
+  ]
 }

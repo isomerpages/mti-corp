@@ -1,5 +1,6 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
     "contentPageHeader": {
       "summary": "Singapore's International Investment Agreements promote investment flows between the signatory countries. Find out more here."
@@ -9,14 +10,24 @@
   "content": [
     {
       "type": "heading",
-      "content": "What is an IIA?",
       "level": 2,
-      "id": "what-is-an-iia"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "What is an IIA?"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "An IIA (also commonly called \"bilateral investment treaty (\"BIT\") when used in a bilateral context, or \"investment guarantee agreement (\"IGA\")) promotes greater investment flows between two signatory countries and sets out standards of protection for investments made in one country by investors from the other country."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "An IIA (also commonly called \"bilateral investment treaty (\"BIT\") when used in a bilateral context, or \"investment guarantee agreement (\"IGA\")) promotes greater investment flows between two signatory countries and sets out standards of protection for investments made in one country by investors from the other country."
+        }
+      ]
     }
-  ],
-  "layout": "content"
+  ]
 }

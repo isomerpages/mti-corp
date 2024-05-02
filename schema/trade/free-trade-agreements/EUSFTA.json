@@ -1,5 +1,6 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
     "contentPageHeader": {
       "summary": "The EUSFTA is the first FTA concluded between the EU and an ASEAN country."
@@ -10,84 +11,352 @@
   "content": [
     {
       "type": "paragraph",
-      "content": "The European Union-Singapore Free Trade Agreement (EUSFTA) is the first FTA between the European Union (EU) and an ASEAN country. Singapore and the EU launched negotiations of the EUSFTA in 2009. The Good and Services negotiations were concluded in 2012, while the investment protection negotiations were concluded in 2014. The investment protection elements later became the EU-Singapore Investment Protection Agreement (EUSIPA)."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The European Union-Singapore Free Trade Agreement (EUSFTA) is the first FTA between the European Union (EU) and an ASEAN country. Singapore and the EU launched negotiations of the EUSFTA in 2009. The Good and Services negotiations were concluded in 2012, while the investment protection negotiations were concluded in 2014. The investment protection elements later became the EU-Singapore Investment Protection Agreement (EUSIPA)."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "The EUSFTA and EUSIPA were signed in October 2018, and approved by the European Parliament in February 2019. The EUSFTA was approved by the Council of the EU on 8 November 2019 and entered into force on 21 November 2019. The EUSIPA is undergoing ratification by the regional and national parliaments of the EU Member States. This is expected to take at least two years."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The EUSFTA and EUSIPA were signed in October 2018, and approved by the European Parliament in February 2019. The EUSFTA was approved by the Council of the EU on 8 November 2019 and entered into force on 21 November 2019. The EUSIPA is undergoing ratification by the regional and national parliaments of the EU Member States. This is expected to take at least two years."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "Singapore and the EU are important trade and investment partners to each other. In 2018, bilateral trade in goods exceeded S$114 billion. In the same year, the EU was Singapore’s third largest goods trading partner while Singapore was the EU’s largest goods trading partner in ASEAN. In 2017, the EU was Singapore’s largest services trading partner, while Singapore was the EU’s largest services trading partner in ASEAN. The EU was the largest foreign investor in Singapore in 2017, accounting for foreign direct investment (FDI) stock of over S$376 billion. In the same year, Singapore’s Direct Investment Abroad (DIA) in the EU stood at approximately S$122 billion, making Singapore the EU’s 7th largest foreign investor and largest ASEAN investor."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Singapore and the EU are important trade and investment partners to each other. In 2018, bilateral trade in goods exceeded S$114 billion. In the same year, the EU was Singapore’s third largest goods trading partner while Singapore was the EU’s largest goods trading partner in ASEAN. In 2017, the EU was Singapore’s largest services trading partner, while Singapore was the EU’s largest services trading partner in ASEAN. The EU was the largest foreign investor in Singapore in 2017, accounting for foreign direct investment (FDI) stock of over S$376 billion. In the same year, Singapore’s Direct Investment Abroad (DIA) in the EU stood at approximately S$122 billion, making Singapore the EU’s 7th largest foreign investor and largest ASEAN investor."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "The EUSFTA is an ambitious and forward-looking free trade agreement. Singapore businesses will benefit from improved market access, including the elimination of customs duties, greater access to services sectors, and the reduction of technical and non-tariff barriers. They will also have more opportunities to participate in government procurement projects in the EU, and benefit from enhanced Intellectual Property Rights protection, amongst others."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The EUSFTA is an ambitious and forward-looking free trade agreement. Singapore businesses will benefit from improved market access, including the elimination of customs duties, greater access to services sectors, and the reduction of technical and non-tariff barriers. They will also have more opportunities to participate in government procurement projects in the EU, and benefit from enhanced Intellectual Property Rights protection, amongst others."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "The EUSFTA signals the EU's commitment to step up its engagement with Southeast Asia. It is a strategic pathfinder for the EU’s FTAs with other ASEAN Member States and an important building block towards a potential EU-ASEAN FTA. The EUSFTA will enhance region-to-region connectivity between the EU – the world’s largest single market, and ASEAN, which is projected to be the fourth largest economic bloc by 2030."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The EUSFTA signals the EU's commitment to step up its engagement with Southeast Asia. It is a strategic pathfinder for the EU’s FTAs with other ASEAN Member States and an important building block towards a potential EU-ASEAN FTA. The EUSFTA will enhance region-to-region connectivity between the EU – the world’s largest single market, and ASEAN, which is projected to be the fourth largest economic bloc by 2030."
+        }
+      ]
     },
     {
       "type": "callout",
-      "content": "”The EUSFTA and EUSIPA are progressive agreements, with ambitious provisions to create more opportunities for businesses from both sides. This is the first free trade agreement between the EU and an ASEAN country, and reflects the EU’s continued interest in engaging ASEAN and anchoring its presence in the region. Both agreements serve as building blocks towards an eventual EU-ASEAN FTA, paving the way for future region-to-region cooperation.”  - S Iswaran, Minister-in-charge of Trade Relations and Minister for Communications and Information",
-      "variant": "info"
+      "variant": "info",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "”The EUSFTA and EUSIPA are progressive agreements, with ambitious provisions to create more opportunities for businesses from both sides. This is the first free trade agreement between the EU and an ASEAN country, and reflects the EU’s continued interest in engaging ASEAN and anchoring its presence in the region. Both agreements serve as building blocks towards an eventual EU-ASEAN FTA, paving the way for future region-to-region cooperation.”  - S Iswaran, Minister-in-charge of Trade Relations and Minister for Communications and Information"
+            }
+          ]
+        }
+      ]
     },
     {
       "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/EUSFTA/Benefits-of-the-EUSFTA-as-of-Apr-2021.pdf'>What you should know about the EUSFTA</a>",
-        "<a href='https://www.businesstimes.com.sg/hub-projects/eu-singapore-fta'>EUSFTA Commemorative Supplement</a>",
-        "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/-/media/MTI/Microsites/EUSFTA/SG-EU-Trade-and-Investment-7.pdf?la=en&hash=47258B3C83407CFBD412320D7E8BAA422F884057'>Guide on the EUSFTA and EUSIPA for Singapore and EU-based businesses</a>"
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/EUSFTA/Benefits-of-the-EUSFTA-as-of-Apr-2021.pdf'>What you should know about the EUSFTA</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.businesstimes.com.sg/hub-projects/eu-singapore-fta'>EUSFTA Commemorative Supplement</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/-/media/MTI/Microsites/EUSFTA/SG-EU-Trade-and-Investment-7.pdf?la=en&hash=47258B3C83407CFBD412320D7E8BAA422F884057'>Guide on the EUSFTA and EUSIPA for Singapore and EU-based businesses</a>"
+                }
+              ]
+            }
+          ]
+        }
       ]
     },
     {
       "type": "heading",
-      "content": "Text of the EU-Singapore FTA",
-      "level": 5
+      "level": 5,
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Text of the EU-Singapore FTA"
+        }
+      ]
     },
     {
       "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/-/media/MTI/Microsites/EUSFTA/EUSFTA-Full-Text_12Oct18.pdf?la=en&hash=6BB94D1BD72FB724369BC4E2431AD922E3DA269C'>EUSFTA Full Text, 12 October 2018</a>"
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/-/media/MTI/Microsites/EUSFTA/EUSFTA-Full-Text_12Oct18.pdf?la=en&hash=6BB94D1BD72FB724369BC4E2431AD922E3DA269C'>EUSFTA Full Text, 12 October 2018</a>"
+                }
+              ]
+            }
+          ]
+        }
       ]
     },
     {
       "type": "heading",
-      "content": "Press Releases",
-      "level": 5
+      "level": 5,
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Press Releases"
+        }
+      ]
     },
     {
       "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/-/media/MTI/Microsites/EUSFTA/21-Nov---Press-Release-on-the-EUSFTA-Entry-Into-Force.pdf?la=en&hash=4189BE0A8DA4EA407A083F667781768782B78446'>21 Nov 2019 – Press Release on the EUSFTA Entry Into Force</a>",
-        "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/-/media/MTI/Microsites/EUSFTA/8-Nov-2019---Council-of-the-European-Union-Approves-EU-Singapore-Free-Trade-Agreement.pdf?la=en&hash=372880DA957CB23E5B55DB25557AC13F7E598FA9'>8 Nov 2019 – Council of the European Union Approves EU-Singapore Free Trade Agreement</a>",
-        "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/-/media/MTI/Microsites/EUSFTA/Press-Release-on-Approval-by-European-Parliament-of-EUSFTA-and-EUSIPA-final.pdf?la=en&hash=C76105B3C0177DEF8163F4357B02401C9327B48D'>13 Feb 2019 - European Parliament Approves EU-Singapore Free Trade Agreement and EU-Singapore Investment Protection Agreement</a>",
-        "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/-/media/MTI/Microsites/EUSFTA/Press-Release-on-Signing-of-EUSFTA--EUSIPA-on-19-Oct-18--v2.pdf?la=en&hash=9365C34BE92B3C4780CDEC8ADA1F6989708790DA'>19 Oct 2018 - European Union and Singapore sign Free Trade and Investment Protection Agreements</a>",
-        "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/-/media/MTI/Microsites/EUSFTA/Joint-Press-Release-on-the-EUSFTA-8-Mar-2017--v2.pdf?la=en&hash=D256F1796B12BED0F9957E6AB1F0E072BAAED643'>08 Mar 2017 - Singapore And The European Union Affirm Commitment To Putting Free Trade Deal In Place</a>",
-        "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/-/media/MTI/Microsites/EUSFTA/22-May-2015--Initialling-of-the-EUSFTA-Investment-Protection-Chapter--v2.pdf?la=en&hash=DA72F6BAB8B581FCD44268AFE91253FD3D1E782B'>22 May 2015 – Initialling of the EUSFTA Investment Protection Chapter</a>",
-        "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/-/media/MTI/Microsites/EUSFTA/17-Oct-2014--Conclusion-of-the-EUSFTA-Investment-Discussions--v2.pdf?la=en&hash=86B31BB70236B1C55083725832C7064CF2390F65'>17 Oct 2014 – Conclusion of the EUSFTA Investment Discussions</a>",
-        "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/-/media/MTI/Microsites/EUSFTA/20-Sep-2013--Initialling-of-the-EUSFTA-Goods-and-Services-Agreement--v2.pdf?la=en&hash=0DD540222DEACA2CAA77C3CC6191A025A633C643'>20 Sep 2013 – Initialling of the EUSFTA Goods and Services Agreement</a>"
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/-/media/MTI/Microsites/EUSFTA/21-Nov---Press-Release-on-the-EUSFTA-Entry-Into-Force.pdf?la=en&hash=4189BE0A8DA4EA407A083F667781768782B78446'>21 Nov 2019 – Press Release on the EUSFTA Entry Into Force</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/-/media/MTI/Microsites/EUSFTA/8-Nov-2019---Council-of-the-European-Union-Approves-EU-Singapore-Free-Trade-Agreement.pdf?la=en&hash=372880DA957CB23E5B55DB25557AC13F7E598FA9'>8 Nov 2019 – Council of the European Union Approves EU-Singapore Free Trade Agreement</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/-/media/MTI/Microsites/EUSFTA/Press-Release-on-Approval-by-European-Parliament-of-EUSFTA-and-EUSIPA-final.pdf?la=en&hash=C76105B3C0177DEF8163F4357B02401C9327B48D'>13 Feb 2019 - European Parliament Approves EU-Singapore Free Trade Agreement and EU-Singapore Investment Protection Agreement</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/-/media/MTI/Microsites/EUSFTA/Press-Release-on-Signing-of-EUSFTA--EUSIPA-on-19-Oct-18--v2.pdf?la=en&hash=9365C34BE92B3C4780CDEC8ADA1F6989708790DA'>19 Oct 2018 - European Union and Singapore sign Free Trade and Investment Protection Agreements</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/-/media/MTI/Microsites/EUSFTA/Joint-Press-Release-on-the-EUSFTA-8-Mar-2017--v2.pdf?la=en&hash=D256F1796B12BED0F9957E6AB1F0E072BAAED643'>08 Mar 2017 - Singapore And The European Union Affirm Commitment To Putting Free Trade Deal In Place</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/-/media/MTI/Microsites/EUSFTA/22-May-2015--Initialling-of-the-EUSFTA-Investment-Protection-Chapter--v2.pdf?la=en&hash=DA72F6BAB8B581FCD44268AFE91253FD3D1E782B'>22 May 2015 – Initialling of the EUSFTA Investment Protection Chapter</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/-/media/MTI/Microsites/EUSFTA/17-Oct-2014--Conclusion-of-the-EUSFTA-Investment-Discussions--v2.pdf?la=en&hash=86B31BB70236B1C55083725832C7064CF2390F65'>17 Oct 2014 – Conclusion of the EUSFTA Investment Discussions</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/-/media/MTI/Microsites/EUSFTA/20-Sep-2013--Initialling-of-the-EUSFTA-Goods-and-Services-Agreement--v2.pdf?la=en&hash=0DD540222DEACA2CAA77C3CC6191A025A633C643'>20 Sep 2013 – Initialling of the EUSFTA Goods and Services Agreement</a>"
+                }
+              ]
+            }
+          ]
+        }
       ]
     },
     {
       "type": "heading",
-      "content": "Economic Data",
-      "level": 5
-    },
-    {
-      "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.eeas.europa.eu/delegations/singapore_en'>EU-Singapore Economic and Trade Relations</a>",
-        "<a href='https://eeas.europa.eu/sites/eeas/files/eu_singapore_trade_investment_2018_edition.pdf'>EU-Singapore Trade and Investment Publication 2018</a>"
+      "level": 5,
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Economic Data"
+        }
       ]
     },
     {
       "type": "unorderedlist",
-      "items": [
-        "<a href='https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview'>Singapore's FTA Network</a>"
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.eeas.europa.eu/delegations/singapore_en'>EU-Singapore Economic and Trade Relations</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://eeas.europa.eu/sites/eeas/files/eu_singapore_trade_investment_2018_edition.pdf'>EU-Singapore Trade and Investment Publication 2018</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview'>Singapore's FTA Network</a>"
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
-  ],
-  "layout": "content"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "version": "0.1.0",
+  "layout": "content",
   "page": {
     "contentPageHeader": {
       "summary": "The Ministry of Trade and Industry works to create opportunities for our enterprises and good jobs for our people. We are committed to investing in the capabilities of our industries, enterprises, and people."
@@ -9,14 +10,24 @@
   "content": [
     {
       "type": "heading",
-      "content": "Vibrant Industries",
       "level": 2,
-      "id": "vibrant-industries"
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Vibrant Industries"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "content": "Singapore has enjoyed sustained economic growth since independence, underpinned by an increasingly diversified economy. Singaporeans today enjoy a quality of life comparable to advanced economies. The Ministry of Trade and Industry works to create opportunities for our enterprises and good jobs for our people. We are committed to investing in the capabilities of our industries, enterprises, and people."
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Singapore has enjoyed sustained economic growth since independence, underpinned by an increasingly diversified economy. Singaporeans today enjoy a quality of life comparable to advanced economies. The Ministry of Trade and Industry works to create opportunities for our enterprises and good jobs for our people. We are committed to investing in the capabilities of our industries, enterprises, and people."
+        }
+      ]
     }
-  ],
-  "layout": "content"
+  ]
 }
