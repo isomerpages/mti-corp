@@ -110,7 +110,7 @@
         {
           "type": "text",
           "marks": [],
-          "text": "Click <a href='https://www.mti.gov.sg/-/media/MTI/Images/MTI-Org-Chart-April-2024.jpg'>here</a> to view our organisation chart."
+          "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Images/MTI-Org-Chart-April-2024.jpg'>View our organisation chart</a> [JPEG, 221KB]."
         }
       ]
     },
