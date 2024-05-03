@@ -4,8 +4,8 @@
     "url": "https://www.mti.gov.sg",
     "agencyName": "Ministry of Trade and Industry",
     "theme": "isomer-next",
-    "logoUrl": "/images/isomer-logo.svg",
-    "favicon": "/images/favicon-isomer.ico",
+    "logoUrl": "/images/mti_logo.png",
+    "favicon": "/images/mti_favicon.jpg",
     "isGovernment": true,
     "search": {
       "type": "searchSG",
