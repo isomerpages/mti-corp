@@ -1,12 +1,13 @@
 {
-  "version": "0.1.0",
   "layout": "homepage",
-  "page": {
-    "title": "Home"
-  },
   "content": [
     {
       "type": "hero",
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
       "variant": "gradient",
       "title": "Ministry of Trade & Industry",
       "subtitle": " A leading global city of enterprise and talent, a vibrant nation of innovation and opportunity",
@@ -18,13 +19,31 @@
       "keyHighlights": []
     },
     {
-      "type": "infopic",
-      "title": "Committee of Supply (COS) 2024",
-      "imageSrc": "https://www.mti.gov.sg/-/media/MTI/COS-2024/Web-Banners/COS_banner.png?h=450&hash=BE7566290A34E0145E0D5AE7A4A83427",
-      "buttonLabel": "Read More",
-      "buttonUrl": "https://www.mti.gov.sg/COS-2024/Committee-of-Supply-2024",
-      "isTextOnRight": true,
-      "variant": "side-by-side"
+      "type": "infocards",
+      "variant": "top",
+      "cards": [
+        {
+          "title": "Committee of Supply (COS) 2024",
+          "url": "https://www.mti.gov.sg/COS-2024/Committee-of-Supply-2024",
+          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/COS-2024/Web-Banners/COS_banner.png?h=450&hash=BE7566290A34E0145E0D5AE7A4A83427",
+          "imageAlt": "A banner worded \"Singapore Economy 2030\"",
+          "buttonLabel": "More on COS 2024"
+        },
+        {
+          "title": "Singapore economy expanded by 1.1% in 2023",
+          "url": "https://www.mti.gov.sg/Resources/Economic-Survey-of-Singapore/2023/Economic-Survey-of-Singapore-2023",
+          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2023/ESS-2023.jpg?h=450&hash=E43961F44F2FE87661774B09E9CB5820",
+          "imageAlt": "A banner worded \"Economic Survey of Singapore 2023\"",
+          "buttonLabel": "View all files"
+        },
+        {
+          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Home/Public-Consultation-on-the-Energy_Carousel-01.jpg?h=450&hash=7D451825317B5BAD1DA22533A297E848",
+          "url": "https://www.ema.gov.sg/consumer-information/electricity/buying-electricity/consumer-safeguards",
+          "title": "Safeguards for Electricity Consumers",
+          "imageAlt": "A banner saying \"Safeguards for Electricity Consumers\"",
+          "buttonLabel": "Read about consumer safeguards"
+        }
+      ]
     },
     {
       "type": "keystatistics",
@@ -54,7 +73,7 @@
       "infoBoxes": [
         {
           "title": "Committee of Supply (COS) 2024",
-          "buttonLabel": "Learn more",
+          "buttonLabel": "More on COS 2024",
           "description": "Singapore Economy 2030",
           "buttonUrl": "https://www.mti.gov.sg/COS-2024/Committee-of-Supply-2024",
           "icon": "bar-chart"
@@ -62,35 +81,35 @@
         {
           "title": "Launch of the Manpower for Strategic Economic Priorities (M-SEP) scheme to support firms’ expansion plans",
           "buttonUrl": "https://www.mti.gov.sg/Newsroom/Press-Releases/2022/12/Launch-of-the-M-SEP-scheme-to-support-firms-expansion-plans",
-          "buttonLabel": "Learn more",
+          "buttonLabel": "Read press release",
           "description": "Supporting businesses that contribute to Singapore's strategic economic priorities.",
           "icon": "bar-chart"
         },
         {
           "title": "Partnerships",
           "description": "Multilateral collaborations to strengthen regional cooperation and build capabilities.",
-          "buttonLabel": "Learn more",
+          "buttonLabel": "View overview",
           "buttonUrl": "https://www.mti.gov.sg/Partnerships/Overview",
           "icon": "bar-chart"
         },
         {
           "title": "Digital Economy Agreements",
           "description": "Digital trade rules and digital economy collaborations between two or more economies.",
-          "buttonLabel": "Learn more",
+          "buttonLabel": "Learn about DEAs",
           "buttonUrl": "https://www.mti.gov.sg/Trade/Digital-Economy-Agreements",
           "icon": "bar-chart"
         },
         {
           "title": "Industry Transformation Maps",
           "description": "23 roadmaps to drive industry transformation",
-          "buttonLabel": "Learn more",
+          "buttonLabel": "Overview on ITMs",
           "buttonUrl": "https://www.mti.gov.sg/ITMs/Overview",
           "icon": "bar-chart"
         },
         {
           "title": "Pro-Enterprise Panel (PEP)",
           "description": "A pro-enterprise environment that facilitates the growth of businesses",
-          "buttonLabel": "Learn more",
+          "buttonLabel": "About PEP",
           "buttonUrl": "https://www.mti.gov.sg/PEP/About-the-PEP",
           "icon": "bar-chart"
         }
@@ -102,9 +121,13 @@
       "title": "Budget 2024",
       "description": "Building our Shared Future Together",
       "imageSrc": "https://www.mti.gov.sg/-/media/MTI/Images/Home/Budget-banner-2024.png?h=312&mh=312&w=533&hash=197E898658D82343A1FD208F1EEA9459",
-      "buttonLabel": "Learn more",
+      "buttonLabel": "Singapore Budget",
       "buttonUrl": "https://www.mof.gov.sg/singaporebudget",
       "variant": "side-by-side"
     }
-  ]
+  ],
+  "version": "0.1.0",
+  "page": {
+    "title": "Home"
+  }
 }
