@@ -34,39 +34,45 @@
       "type": "infocards",
       "cards": [
         {
-          "title": "Mr Gan Kim Yong Minister for Trade and Industry",
+          "title": "Mr Gan Kim Yong",
           "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Ministers-and-MOS-Profile-Images/gan-kim-yong.jpg?h=747&w=804&hash=F6A46235DAB4B7756424EAD7D336DFC2",
           "buttonLabel": "Read bio",
           "url": "https://www.mti.gov.sg/About-Us/People-at-MTI/Gan-Kim-Yong",
-          "imageAlt": "Mr Gan Kim Yong Minister for Trade and Industry"
+          "imageAlt": "Mr Gan Kim Yong",
+          "text": "Minister for Trade and Industry"
+          
         },
         {
-          "title": "Ms Grace Fu Minister-in-charge of Trade Relations",
+          "title": "Ms Grace Fu",
           "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Ministers-and-MOS-Profile-Images/grace-fu.jpg?h=747&w=804&hash=65DB84BCD001D37A519966DF4FF60EE1",
           "buttonLabel": "Read bio",
           "url": "https://www.mti.gov.sg/About-Us/People-at-MTI/Grace-Fu",
-          "imageAlt": "Ms Grace Fu Minister-in-charge of Trade Relations"
+          "imageAlt": "Ms Grace Fu",
+          "text": "Minister-in-charge of Trade Relations"
         },
         {
-          "title": "Dr Tan See Leng Second Minister for Trade and Industry",
+          "title": "Dr Tan See Leng",
           "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Ministers-and-MOS-Profile-Images/Dr-Tan-See-Leng.jpg?h=747&w=804&hash=FA00C94B0A1538A47869BEFBC59345FF",
           "buttonLabel": "Read bio",
           "url": "https://www.mti.gov.sg/About-Us/People-at-MTI/Dr-Tan-See-Leng",
-          "imageAlt": "Dr Tan See Leng Second Minister for Trade and Industry"
+          "imageAlt": "Dr Tan See Leng",
+          "text": "Second Minister for Trade and Industry"
         },
         {
           "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Ministers-and-MOS-Profile-Images/MOS-Low-Yen-Ling_v2.jpg?h=747&w=804&hash=806D5E59EA58AC229D0C51E65F11C477",
-          "title": "Ms Low Yen Ling Minister of State",
+          "title": "Ms Low Yen Ling",
           "buttonLabel": "Read bio",
           "url": "https://www.mti.gov.sg/About-Us/People-at-MTI/Low-Yen-Ling",
-          "imageAlt": "Ms Low Yen Ling Minister of State"
+          "imageAlt": "Ms Low Yen Ling",
+          "text": "Minister of State"
         },
         {
-          "title": "Mr Alvin Tan Minister of State",
+          "title": "Mr Alvin Tan",
           "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Ministers-and-MOS-Profile-Images/Photo---Alvin-Tan_v2.jpg?h=747&w=804&hash=36807AA01B49AA0F4718052640EB0A87",
           "buttonLabel": "Read bio",
           "url": "https://www.mti.gov.sg/About-Us/People-at-MTI/Alvin-Tan",
-          "imageAlt": "Mr Alvin Tan Minister of State"
+          "imageAlt": "Mr Alvin Tan",
+          "text": "Minister of State"
         }
       ],
       "variant": "top",
@@ -76,18 +82,20 @@
       "type": "infocards",
       "cards": [
         {
-          "title": "Mr Gabriel Lim P​ermanent Secretary (Policy)",
+          "title": "Mr Gabriel Lim",
           "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Key-Appointment-Holders-Images/PS_Gabriel.jpg?h=747&w=804&hash=B12E06D4B158E1853176BEAF963B5B57",
           "buttonLabel": "Read bio",
           "url": "https://www.mti.gov.sg/About-Us/People-at-MTI/Gabriel-Lim",
-          "imageAlt": "Mr Gabriel Lim P​ermanent Secretary (Policy)"
+          "imageAlt": "Mr Gabriel Lim",
+          "text": "P​ermanent Secretary (Policy)"
         },
         {
-          "title": "Dr Beh Swan Gin P​ermanent Secretary (Development)",
+          "title": "Dr Beh Swan Gin",
           "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/PS-SwanGin.jpg?h=747&w=804&hash=E4E5BE3DDFEBD71485534DFF9E9C72EE",
           "buttonLabel": "Read bio",
           "url": "https://www.mti.gov.sg/About-Us/People-at-MTI/Beh-Swan-Gin",
-          "imageAlt": "Dr Beh Swan Gin P​ermanent Secretary (Development)"
+          "imageAlt": "Dr Beh Swan Gin",
+          "text": "P​ermanent Secretary (Development)"
         }
       ],
       "variant": "top",
