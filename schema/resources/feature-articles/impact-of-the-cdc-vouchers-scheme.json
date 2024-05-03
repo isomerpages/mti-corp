@@ -1,16 +1,13 @@
 {
-  "version": "0.1.0",
   "layout": "content",
-  "page": {
-    "contentPageHeader": {
-      "summary": "15 FEB 2024"
-    },
-    "title": "Impact of the CDC Vouchers Scheme",
-    "description": "15 FEB 2024"
-  },
   "content": [
     {
       "type": "heading",
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
       "level": 2,
       "content": [
         {
@@ -31,14 +28,15 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "content": [
         {
           "type": "text",
           "marks": [],
-          "text": "<u>Households.</u> Over 96 per cent of the 1.22 million eligible Singaporean households claimed their CDC Vouchers from both the 2021 and 2022 tranches, with 96 per cent of the claimed vouchers eventually spent. The high utilisation rate of the CDC Vouchers shows that the CDC Vouchers have helped to alleviate the inflationary pressures faced by households as part of a broader suite of measures that address Singaporeans’ cost-of-living concerns."
+          "text": "Households"
         }
-      ]
+      ],
+      "level": 4
     },
     {
       "type": "paragraph",
@@ -46,9 +44,20 @@
         {
           "type": "text",
           "marks": [],
-          "text": "<u>Local Businesses.</u> As at December 2022, around 20,000 heartland merchants and hawkers had been onboarded onto the CDC Vouchers Scheme, representing a sizeable proportion of all heartland merchants and hawkers in Singapore. The vast majority (around 90 per cent) of participating merchants and hawkers received some disbursements from the 2021 and 2022 tranches of CDC Vouchers. Around 80 per cent of the participating merchants and hawkers received a total disbursement of more than $1,000 from both tranches, while around 30 per cent received a total disbursement of more than $10,000."
+          "text": "Over 96 per cent of the 1.22 million eligible Singaporean households claimed their CDC Vouchers from both the 2021 and 2022 tranches, with 96 per cent of the claimed vouchers eventually spent. The high utilisation rate of the CDC Vouchers shows that the CDC Vouchers have helped to alleviate the inflationary pressures faced by households as part of a broader suite of measures that address Singaporeans’ cost-of-living concerns."
         }
       ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Local Businesses"
+        }
+      ],
+      "level": 4
     },
     {
       "type": "paragraph",
@@ -56,7 +65,28 @@
         {
           "type": "text",
           "marks": [],
-          "text": "<u>Overall Economy.</u> On aggregate, we estimate that the 2021 and 2022 tranches of CDC Vouchers could generate up to $312.8 million for the Singapore economy over time. This amount is equivalent to 0.05 per cent of Singapore’s 2022 nominal GDP."
+          "text": "As at December 2022, around 20,000 heartland merchants and hawkers had been onboarded onto the CDC Vouchers Scheme, representing a sizeable proportion of all heartland merchants and hawkers in Singapore. The vast majority (around 90 per cent) of participating merchants and hawkers received some disbursements from the 2021 and 2022 tranches of CDC Vouchers. Around 80 per cent of the participating merchants and hawkers received a total disbursement of more than $1,000 from both tranches, while around 30 per cent received a total disbursement of more than $10,000."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Overall Economy"
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "On aggregate, we estimate that the 2021 and 2022 tranches of CDC Vouchers could generate up to $312.8 million for the Singapore economy over time. This amount is equivalent to 0.05 per cent of Singapore’s 2022 nominal GDP."
         }
       ]
     },
@@ -80,5 +110,13 @@
         }
       ]
     }
-  ]
+  ],
+  "version": "0.1.0",
+  "page": {
+    "contentPageHeader": {
+      "summary": "15 FEB 2024"
+    },
+    "title": "Impact of the CDC Vouchers Scheme",
+    "description": "15 FEB 2024"
+  }
 }
