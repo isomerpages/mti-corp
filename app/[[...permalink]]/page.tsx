@@ -28,6 +28,12 @@ const lastUpdated =
 const getSchema = async (
   permalink: DynamicPageProps["params"]["permalink"]
 ) => {
+  const lastModified =
+    // @ts-expect-error blah
+    getSitemapXml(sitemap).find(
+      ({ url }) => permalink.join("/") === url.replace(/^\//, "")
+    )?.lastModified || new Date().toISOString();
+
   if (permalink && permalink.length > 0 && typeof permalink !== "string") {
     const joinedPermalink = permalink.join("/");
 
@@ -36,6 +42,7 @@ const getSchema = async (
     )) as IsomerPageSchema;
 
     schema.page.permalink = "/" + joinedPermalink;
+    schema.page.lastModified = lastModified;
 
     return schema;
   }
@@ -45,6 +52,7 @@ const getSchema = async (
   )) as IsomerPageSchema;
 
   schema.page.permalink = "/";
+  schema.page.lastModified = lastModified;
 
   return schema;
 };
