@@ -64,6 +64,7 @@ const NotFound = () => {
           title: PAGE_TITLE,
           description: PAGE_DESCRIPTION,
           permalink: "/404.html",
+          lastModified: new Date().toISOString(),
         }}
         content={[]}
         LinkComponent={Link}
