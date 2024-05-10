@@ -1,33 +1,11 @@
 {
-  "version": "0.1.0",
-  "layout": "content",
+  "layout": "collection",
+  "content": [],
   "page": {
-    "contentPageHeader": {
-      "summary": "Share your views and play a part in shaping our policies. More information can be found in this section."
-    },
-    "title": "Public Consultations"
+    "title": "Public Consultations",
+    "defaultSortBy": "date",
+    "defaultSortDirection": "asc",
+    "subtitle": "Share your views and play a part in shaping our policies. More information can be found in this section."
   },
-  "content": [
-    {
-      "type": "heading",
-      "level": 2,
-      "content": [
-        {
-          "type": "text",
-          "marks": [],
-          "text": "Your Opinion Matters"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "content": [
-        {
-          "type": "text",
-          "marks": [],
-          "text": "Share your views and play a part in shaping our policies. More information can be found in this section."
-        }
-      ]
-    }
-  ]
+  "version": "0.1.0"
 }
