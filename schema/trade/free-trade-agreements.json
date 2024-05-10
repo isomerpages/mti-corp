@@ -1,26 +1,13 @@
 {
-  "version": "0.1.0",
   "layout": "content",
-  "page": {
-    "contentPageHeader": {
-      "summary": "Free Trade Agreements are treaties which make trade and investment between two or more economies easier. Find out more here."
-    },
-    "title": "Free Trade Agreements"
-  },
   "content": [
     {
-      "type": "heading",
-      "level": 2,
-      "content": [
-        {
-          "type": "text",
-          "marks": [],
-          "text": "Free Trade Agreements"
-        }
-      ]
-    },
-    {
       "type": "paragraph",
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -42,7 +29,8 @@
     {
       "type": "image",
       "src": "https://www.mti.gov.sg/-/media/MTI/improving-trade/FTAs/FTAs_and_DEAs_bookletcover.png",
-      "alt": "FTAs and DEAs booklet cover"
+      "alt": "FTAs and DEAs booklet cover",
+      "width": 100
     },
     {
       "type": "paragraph",
@@ -100,5 +88,12 @@
       ],
       "variant": "side"
     }
-  ]
+  ],
+  "version": "0.1.0",
+  "page": {
+    "contentPageHeader": {
+      "summary": "Free Trade Agreements are treaties which make trade and investment between two or more economies easier. Find out more here."
+    },
+    "title": "Free Trade Agreements"
+  }
 }
