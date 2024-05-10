@@ -1,23 +1,11 @@
 {
-  "version": "0.1.0",
-  "layout": "content",
+  "layout": "collection",
+  "content": [],
   "page": {
-    "contentPageHeader": {
-      "summary": "Find out more about the legislation administered by MTI here."
-    },
-    "title": "Legislation"
+    "title": "Legislation",
+    "defaultSortBy": "date",
+    "defaultSortDirection": "asc",
+    "subtitle": "Find out more about the legislation administered by MTI here."
   },
-  "content": [
-    {
-      "type": "heading",
-      "level": 2,
-      "content": [
-        {
-          "type": "text",
-          "marks": [],
-          "text": "Find out more about the legislation administered by MTI here."
-        }
-      ]
-    }
-  ]
+  "version": "0.1.0"
 }
