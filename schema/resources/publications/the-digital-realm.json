@@ -1,42 +1,18 @@
 {
-  "version": "0.1.0",
-  "layout": "content",
-  "page": {
-    "contentPageHeader": {
-      "summary": "7 JAN 2022"
-    },
-    "title": "The digital realm – next step in EU-S’pore partnership",
-    "description": "7 JAN 2022"
-  },
+  "layout": "article",
   "content": [
     {
-      "type": "heading",
-      "level": 2,
-      "content": [
-        {
-          "type": "text",
-          "marks": [],
-          "text": "The digital realm – next step in EU-S’pore partnership"
-        }
-      ]
-    },
-    {
       "type": "paragraph",
-      "content": [
+      "details": [
         {
-          "type": "text",
-          "marks": [],
-          "text": "Published on 7 January 2022"
+          "type": "divider"
         }
-      ]
-    },
-    {
-      "type": "paragraph",
+      ],
       "content": [
         {
           "type": "text",
           "marks": [],
-          "text": "Just two years after the EU-Singapore Free Trade Agreement (EUSFTA) entered into force, the EU and Singapore are ready to take our economic cooperation to the next level by pursuing a comprehensive digital partnership. Digitalisation has changed the way we transact goods and services and it is imperative that we advance into the digital space. Read the commentary by Minister-in-charge for Trade Relations S. Iswaran and European Commission Executive Vice-President and Trade Commissioner Valdis Dombrovskis to find out more."
+          "text": "Read the commentary by Minister-in-charge for Trade Relations S. Iswaran and European Commission Executive Vice-President and Trade Commissioner Valdis Dombrovskis to find out more."
         }
       ]
     },
@@ -49,6 +25,31 @@
           "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Resources/Publications/EU-Singapore-Op-Ed/EU-Singapore-Op-Ed_7.pdf'>Download the full commentary</a> [PDF, 156KB]."
         }
       ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Published on 7 January 2022"
+        }
+      ],
+      "level": 6
     }
-  ]
+  ],
+  "page": {
+    "contentPageHeader": {
+      "summary": "7 JAN 2022"
+    },
+    "title": "The digital realm – next step in EU-S’pore partnership",
+    "date": "7 Jan 2022",
+    "category": "Publications",
+    "articlePageHeader": {
+      "summary": [
+        "Just two years after the EU-Singapore Free Trade Agreement (EUSFTA) entered into force, the EU and Singapore are ready to take our economic cooperation to the next level by pursuing a comprehensive digital partnership. Digitalisation has changed the way we transact goods and services and it is imperative that we advance into the digital space."
+      ]
+    }
+  },
+  "version": "0.1.0"
 }
