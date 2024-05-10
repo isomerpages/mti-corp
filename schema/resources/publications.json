@@ -1,41 +1,11 @@
 {
-  "version": "0.1.0",
-  "layout": "content",
+  "layout": "collection",
+  "content": [],
   "page": {
-    "contentPageHeader": {
-      "summary": "The list of publications available are posted here. They include an information booklet on Singapore's Free Trade Agreements and Digital Economy Agreements, Future Tense - which covers emerging issues that could transform Singapore's economy, as well as economic plans or reports such as the Report of the Committee on the Future Economy."
-    },
     "title": "Publications",
-    "description": "The list of publications available are posted here. They include an information booklet on Singapore's Free Trade Agreements and Digital Economy Agreements, Future Tense - which covers emerging issues that could transform Singapore's economy, as well as economic plans or reports such as the Report of the Committee on the Future Economy."
+    "defaultSortBy": "date",
+    "defaultSortDirection": "asc",
+    "subtitle": "The list of publications available are posted here. They include an information booklet on Singapore's Free Trade Agreements and Digital Economy Agreements, Future Tense - which covers emerging issues that could transform Singapore's economy, as well as economic plans or reports such as the Report of the Committee on the Future Economy."
   },
-  "content": [
-    {
-      "type": "infocards",
-      "cards": [
-        {
-          "title": "Singstat Statistics",
-          "imageUrl": "https://www.singstat.gov.sg/assets/singstat/images/design/Singstat-New-Logo_v7.png",
-          "imageAlt": "Singstat Statistics",
-          "buttonLabel": "View Singstat site",
-          "url": "https://www.singstat.gov.sg/"
-        },
-        {
-          "title": "Ministry of Manpower (MOM) Statistics",
-          "imageUrl": "https://stats.mom.gov.sg/Style%20Library/imas/img/main-logo.png",
-          "imageAlt": "Ministry of Manpower (MOM) Statistics",
-          "buttonLabel": "View MOM statistics",
-          "url": "http://stats.mom.gov.sg/Pages/Home.aspx"
-        },
-        {
-          "url": "https://www.mas.gov.sg/Statistics.aspx",
-          "buttonLabel": "View MAS statistics",
-          "title": "Monetary Authority of Singapore (MAS) Statistics",
-          "imageAlt": "Monetary Authority of Singapore (MAS) Statistics",
-          "imageUrl": "https://www.mas.gov.sg/-/media/mas/mas-logo.svg"
-        }
-      ],
-      "variant": "top",
-      "title": "Other Resources"
-    }
-  ]
+  "version": "0.1.0"
 }
