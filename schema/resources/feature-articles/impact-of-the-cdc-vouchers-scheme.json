@@ -75,9 +75,12 @@
         {
           "type": "text",
           "marks": [],
-          "text": "<i>The views expressed in this paper are solely those of the authors and do not necessarily reflect those of the Ministry of Trade and Industry (MTI) or the Government of Singapore.</i>"
+          "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2023/Economic-Survey-of-Singapore-2023/FA_AES2023.pdf'> Download the full article</a> [PDF, 323KB]."
         }
       ]
+    },
+    {
+      "type": "divider"
     },
     {
       "type": "paragraph",
@@ -85,7 +88,7 @@
         {
           "type": "text",
           "marks": [],
-          "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2023/Economic-Survey-of-Singapore-2023/FA_AES2023.pdf'> Download the full article</a> [PDF, 323KB]."
+          "text": "<i>The views expressed in this paper are solely those of the authors and do not necessarily reflect those of the Ministry of Trade and Industry (MTI) or the Government of Singapore.</i>"
         }
       ]
     }
