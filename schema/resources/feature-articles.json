@@ -1,41 +1,15 @@
 {
-  "version": "0.1.0",
-  "layout": "content",
+  "layout": "collection",
+  "content": [],
   "page": {
     "contentPageHeader": {
       "summary": "Additional articles on economics and trade issues, published on an ad-hoc basis, are posted here."
     },
     "title": "Feature Articles",
-    "description": "Additional articles on economics and trade issues, published on an ad-hoc basis, are posted here."
+    "date": "Additional articles on economics and trade issues, published on an ad-hoc basis, are posted here.",
+    "subtitle": "Additional articles on economics and trade issues, published on an ad-hoc basis, are posted here.",
+    "defaultSortBy": "date",
+    "defaultSortDirection": "asc"
   },
-  "content": [
-    {
-      "type": "infocards",
-      "cards": [
-        {
-          "title": "Singstat Statistics",
-          "imageUrl": "https://www.singstat.gov.sg/assets/singstat/images/design/Singstat-New-Logo_v7.png",
-          "imageAlt": "Singstat Statistics",
-          "buttonLabel": "View Singstat site",
-          "url": "https://www.singstat.gov.sg/"
-        },
-        {
-          "title": "Ministry of Manpower (MOM) Statistics",
-          "imageUrl": "https://stats.mom.gov.sg/Style%20Library/imas/img/main-logo.png",
-          "imageAlt": "Ministry of Manpower (MOM) Statistics",
-          "buttonLabel": "View MOM statistics",
-          "url": "http://stats.mom.gov.sg/Pages/Home.aspx"
-        },
-        {
-          "url": "https://www.mas.gov.sg/Statistics.aspx",
-          "buttonLabel": "View MAS statistics",
-          "title": "Monetary Authority of Singapore (MAS) Statistics",
-          "imageAlt": "Monetary Authority of Singapore (MAS) Statistics",
-          "imageUrl": "https://www.mas.gov.sg/-/media/mas/mas-logo.svg"
-        }
-      ],
-      "variant": "top",
-      "title": "Other Resources"
-    }
-  ]
+  "version": "0.1.0"
 }
