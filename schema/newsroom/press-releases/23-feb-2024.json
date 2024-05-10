@@ -1,37 +1,13 @@
 {
-  "version": "0.1.0",
-  "layout": "content",
-  "page": {
-    "contentPageHeader": {
-      "summary": "23 FEB 2024"
-    },
-    "title": "Minister for Trade and Industry Gan Kim Yong to visit Abu Dhabi for the 13th World Trade Organization Ministerial Conference and related meetings",
-    "description": "23 FEB 2024"
-  },
+  "layout": "article",
   "content": [
     {
-      "type": "heading",
-      "level": 2,
-      "content": [
-        {
-          "type": "text",
-          "marks": [],
-          "text": "Minister for Trade and Industry Gan Kim Yong to visit Abu Dhabi for the 13th World Trade Organization Ministerial Conference and related meetings"
-        }
-      ]
-    },
-    {
       "type": "paragraph",
-      "content": [
+      "details": [
         {
-          "type": "text",
-          "marks": [],
-          "text": "Minister for Trade and Industry Gan Kim Yong will be visiting Abu Dhabi, United Arab Emirates, from 25 to 27 February 2024."
+          "type": "divider"
         }
-      ]
-    },
-    {
-      "type": "paragraph",
+      ],
       "content": [
         {
           "type": "text",
@@ -41,14 +17,29 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "content": [
         {
           "type": "text",
           "marks": [],
           "text": "MINISTRY OF TRADE AND INDUSTRY 23 FEBRUARY 2024"
         }
+      ],
+      "level": 6
+    }
+  ],
+  "page": {
+    "contentPageHeader": {
+      "summary": "23 FEB 2024"
+    },
+    "title": "Minister for Trade and Industry Gan Kim Yong to visit Abu Dhabi for the 13th World Trade Organization Ministerial Conference and related meetings",
+    "category": "Press Releases",
+    "date": "23 Feb 2024",
+    "articlePageHeader": {
+      "summary": [
+        "Minister for Trade and Industry Gan Kim Yong will be visiting Abu Dhabi, United Arab Emirates, from 25 to 27 February 2024."
       ]
     }
-  ]
+  },
+  "version": "0.1.0"
 }
