@@ -1,0 +1,14 @@
+{
+  "layout": "collection",
+  "content": [],
+  "page": {
+    "contentPageHeader": {
+      "summary": "Read the Economic Survey of Singapore for 2023."
+    },
+    "title": "Economic Survey of Singapore 2023",
+    "defaultSortBy": "date",
+    "defaultSortDirection": "asc",
+    "subtitle": "Read the Economic Survey of Singapore for 2023."
+  },
+  "version": "0.1.0"
+}
