@@ -1,65 +1,14 @@
 {
-  "version": "0.1.0",
-  "layout": "content",
+  "layout": "collection",
+  "content": [],
   "page": {
     "contentPageHeader": {
       "summary": "Read the Economic Survey of Singapore, which we produce on a quarterly basis, here. Each report contains analyses of the overall Singapore economy and its various economic sectors."
     },
     "title": "Economic Survey of Singapore",
-    "description": "Read the Economic Survey of Singapore, which we produce on a quarterly basis, here. Each report contains analyses of the overall Singapore economy and its various economic sectors."
+    "defaultSortBy": "date",
+    "defaultSortDirection": "asc",
+    "subtitle": "Read the Economic Survey of Singapore, which we produce on a quarterly basis, here. Each report contains analyses of the overall Singapore economy and its various economic sectors."
   },
-  "content": [
-    {
-      "type": "infocols",
-      "infoBoxes": [
-        {
-          "title": "Economic Survey of Singapore",
-          "description": "Key statistical data such as on the labour market, productivity, industrial production, investments, retail activity, tourism and trade are available here.",
-          "buttonLabel": "More on Key Statistical Data",
-          "buttonUrl": "/resources/key-economic-indicators"
-        },
-        {
-          "title": "Feature Articles",
-          "description": "Additional articles on economics and trade issues, published on an ad-hoc basis, are posted here.",
-          "buttonLabel": "Read articles",
-          "buttonUrl": "/resources/feature-articles"
-        },
-        {
-          "title": "Publications",
-          "description": "The list of publications available are posted here.",
-          "buttonLabel": "List of publications",
-          "buttonUrl": "/resources/publications"
-        }
-      ],
-      "title": "Our Resources"
-    },
-    {
-      "type": "infocards",
-      "cards": [
-        {
-          "title": "Singstat Statistics",
-          "imageAlt": "Singstat Statistics",
-          "imageUrl": "https://www.singstat.gov.sg/assets/singstat/images/design/Singstat-New-Logo_v7.png",
-          "buttonLabel": "View Singstat site",
-          "url": "https://www.singstat.gov.sg/"
-        },
-        {
-          "title": "Ministry of Manpower (MOM) Statistics",
-          "imageAlt": "Ministry of Manpower (MOM) Statistics",
-          "imageUrl": "https://stats.mom.gov.sg/Style%20Library/imas/img/main-logo.png",
-          "buttonLabel": "View MOM statistics",
-          "url": "http://stats.mom.gov.sg/Pages/Home.aspx"
-        },
-        {
-          "url": "https://www.mas.gov.sg/Statistics.aspx",
-          "buttonLabel": "View MAS statistics",
-          "title": "Monetary Authority of Singapore (MAS) Statistics",
-          "imageAlt": "Monetary Authority of Singapore (MAS) Statistics",
-          "imageUrl": "https://www.mas.gov.sg/-/media/mas/mas-logo.svg"
-        }
-      ],
-      "variant": "top",
-      "title": "Other Resources"
-    }
-  ]
+  "version": "0.1.0"
 }
