@@ -1,57 +1,13 @@
 {
-  "version": "0.1.0",
-  "layout": "content",
-  "page": {
-    "contentPageHeader": {
-      "summary": "7 APR 2021"
-    },
-    "title": "EUSFTA Commemorative Supplement - Deepening Trade and Business Links",
-    "description": "7 APR 2021"
-  },
+  "layout": "article",
   "content": [
     {
-      "type": "heading",
-      "level": 2,
-      "content": [
-        {
-          "type": "text",
-          "marks": [],
-          "text": "EUSFTA Commemorative Supplement - Deepening Trade and Business Links"
-        }
-      ]
-    },
-    {
       "type": "paragraph",
-      "content": [
+      "details": [
         {
-          "type": "text",
-          "marks": [],
-          "text": "The Business Times Supplement"
+          "type": "divider"
         }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "content": [
-        {
-          "type": "text",
-          "marks": [],
-          "text": "Deepening trade and business links: the European Union-Singapore Free Trade Agreement celebrates its first year of entering into force."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "content": [
-        {
-          "type": "text",
-          "marks": [],
-          "text": "Published in November 2020"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
+      ],
       "content": [
         {
           "type": "text",
@@ -69,6 +25,36 @@
           "text": "<a href='https://www.businesstimes.com.sg/hub-projects/eu-singapore-fta'>View the full report here.</a>"
         }
       ]
+    },
+    {
+      "type": "heading",
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Published in November 2020"
+        }
+      ],
+      "level": 6
     }
-  ]
+  ],
+  "page": {
+    "contentPageHeader": {
+      "summary": "7 APR 2021"
+    },
+    "title": "EUSFTA Commemorative Supplement - Deepening Trade and Business Links",
+    "date": "7 Apr 2021",
+    "category": "Publications",
+    "articlePageHeader": {
+      "summary": [
+        "The Business Times Supplement: Deepening trade and business links: the European Union-Singapore Free Trade Agreement celebrates its first year of entering into force."
+      ]
+    }
+  },
+  "version": "0.1.0"
 }
