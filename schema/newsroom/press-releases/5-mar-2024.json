@@ -1,37 +1,13 @@
 {
-  "version": "0.1.0",
-  "layout": "content",
-  "page": {
-    "contentPageHeader": {
-      "summary": "5 MAR 2024"
-    },
-    "title": "Joint Development of Principles to Guide Development of Cross-Border Electricity Trade",
-    "description": "5 MAR 2024"
-  },
+  "layout": "article",
   "content": [
     {
-      "type": "heading",
-      "level": 2,
-      "content": [
-        {
-          "type": "text",
-          "marks": [],
-          "text": "Joint Development of Principles to Guide Development of Cross-Border Electricity Trade"
-        }
-      ]
-    },
-    {
       "type": "paragraph",
-      "content": [
+      "details": [
         {
-          "type": "text",
-          "marks": [],
-          "text": "Singapore and Australia have jointly developed “Ten Principles to Guide the Development of Cross-Border Electricity Trade” to deepen energy connectivity and support Cross-Border Electricity Trading (CBET). This was announced at the 9th Singapore-Australia Annual Leaders’ Meeting in Melbourne, Australia on 5 March 2024, in the opening remarks by Singapore Prime Minister Lee Hsien Loong and Australia Prime Minister Anthony Albanese."
+          "type": "divider"
         }
-      ]
-    },
-    {
-      "type": "paragraph",
+      ],
       "content": [
         {
           "type": "text",
@@ -41,14 +17,29 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "content": [
         {
           "type": "text",
           "marks": [],
           "text": "MINISTRY OF TRADE AND INDUSTRY 5 MARCH 2024"
         }
+      ],
+      "level": 6
+    }
+  ],
+  "page": {
+    "contentPageHeader": {
+      "summary": "5 MAR 2024"
+    },
+    "title": "Joint Development of Principles to Guide Development of Cross-Border Electricity Trade",
+    "category": "Press Releases",
+    "date": "5 Mar 2024",
+    "articlePageHeader": {
+      "summary": [
+        "Singapore and Australia have jointly developed “Ten Principles to Guide the Development of Cross-Border Electricity Trade” to deepen energy connectivity and support Cross-Border Electricity Trading (CBET). This was announced at the 9th Singapore-Australia Annual Leaders’ Meeting in Melbourne, Australia on 5 March 2024, in the opening remarks by Singapore Prime Minister Lee Hsien Loong and Australia Prime Minister Anthony Albanese."
       ]
     }
-  ]
+  },
+  "version": "0.1.0"
 }
