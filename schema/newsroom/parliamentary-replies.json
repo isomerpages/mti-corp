@@ -1,22 +1,11 @@
 {
-  "version": "0.1.0",
-  "layout": "content",
+  "layout": "collection",
+  "content": [],
   "page": {
-    "contentPageHeader": {
-      "summary": "Read our responses to questions raised in the Singapore Parliament here."
-    },
-    "title": "Parliamentary Replies"
+    "title": "Parliamentary Replies",
+    "defaultSortBy": "date",
+    "defaultSortDirection": "asc",
+    "subtitle": "Read our responses to questions raised in the Singapore Parliament here."
   },
-  "content": [
-    {
-      "type": "paragraph",
-      "content": [
-        {
-          "type": "text",
-          "marks": [],
-          "text": "Placeholder"
-        }
-      ]
-    }
-  ]
+  "version": "0.1.0"
 }
