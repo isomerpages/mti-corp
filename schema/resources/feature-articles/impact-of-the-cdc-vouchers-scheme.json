@@ -1,5 +1,5 @@
 {
-  "layout": "content",
+  "layout": "article",
   "content": [
     {
       "type": "heading",
@@ -8,27 +8,6 @@
           "type": "divider"
         }
       ],
-      "level": 2,
-      "content": [
-        {
-          "type": "text",
-          "marks": [],
-          "text": "Impact of the CDC Vouchers Scheme"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "content": [
-        {
-          "type": "text",
-          "marks": [],
-          "text": "The CDC Vouchers Scheme 2021 was rolled out in December 2021 to thank Singaporeans for their solidarity during the COVID-19 pandemic, and also to support local businesses at HDB estates affected by the pandemic. The second tranche of CDC Vouchers was rolled out in May 2022 to help Singaporeans with their daily expenses amidst cost-of-living pressures. Through these two tranches, every Singaporean household received $200 in CDC Vouchers in total: $100 from CDC Voucher Scheme 2021 and another $100 from CDC Voucher Scheme 2022. This study examines the impact of the 2021 and 2022 tranches of CDC Vouchers on Singaporean households, local businesses and the overall economy."
-        }
-      ]
-    },
-    {
-      "type": "heading",
       "content": [
         {
           "type": "text",
@@ -111,12 +90,19 @@
       ]
     }
   ],
-  "version": "0.1.0",
   "page": {
     "contentPageHeader": {
       "summary": "15 FEB 2024"
     },
     "title": "Impact of the CDC Vouchers Scheme",
-    "description": "15 FEB 2024"
-  }
+    "date": "15 Feb 2024",
+    "category": "Feature Articles",
+    "articlePageHeader": {
+      "summary": [
+        "The CDC Vouchers Scheme 2021 was rolled out in December 2021 to thank Singaporeans for their solidarity during the COVID-19 pandemic, and also to support local businesses at HDB estates affected by the pandemic. The second tranche of CDC Vouchers was rolled out in May 2022 to help Singaporeans with their daily expenses amidst cost-of-living pressures.",
+        "Through these two tranches, every Singaporean household received $200 in CDC Vouchers in total: $100 from CDC Voucher Scheme 2021 and another $100 from CDC Voucher Scheme 2022. This study examines the impact of the 2021 and 2022 tranches of CDC Vouchers on Singaporean households, local businesses and the overall economy."
+      ]
+    }
+  },
+  "version": "0.1.0"
 }
