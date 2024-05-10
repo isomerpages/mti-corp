@@ -1,32 +1,18 @@
 {
-  "version": "0.1.0",
-  "layout": "content",
-  "page": {
-    "contentPageHeader": {
-      "summary": "14 MAR 2024"
-    },
-    "title": "Indo-Pacific Economic Framework for Prosperity (IPEF) Ministers Advance Clean Economy Agreement and Supply Chain Agreement at the First Ministerial Meeting of 2024",
-    "description": "14 MAR 2024"
-  },
+  "layout": "article",
   "content": [
     {
-      "type": "heading",
-      "level": 2,
-      "content": [
-        {
-          "type": "text",
-          "marks": [],
-          "text": "Indo-Pacific Economic Framework for Prosperity (IPEF) Ministers Advance Clean Economy Agreement and Supply Chain Agreement at the First Ministerial Meeting of 2024"
-        }
-      ]
-    },
-    {
       "type": "paragraph",
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
       "content": [
         {
           "type": "text",
           "marks": [],
-          "text": "Minister for Trade and Industry Gan Kim Yong participated in the first Indo-Pacific Economic Framework for Prosperity (IPEF) Ministerial meeting of 2024 today. During the virtual meeting, the IPEF Ministers<a href='file:///C:/Users/mti-izyan/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/SB8DE312/MTI%20Press%20release%20-%20IPEF%20Ministers%20Advance%20Clean%20Economy%20Agreement%20and%20Supply%20Chain%20Agreement%20at%20the%20First%20Ministerial%20Meeting%20of%202024.docx#_ftn1'>[1]</a> welcomed the conclusion of legal scrubbing and the publication of the three Agreements which were substantively concluded in November 2023, namely: (a) the Clean Economy Agreement; (b) Fair Economy Agreement; and (c) the Agreement on the IPEF. These texts are publicly available at <a href='www.ipef.gov.sg'>www.ipef.gov.sg</a>. IPEF Partners will now conduct their respective domestic processes to prepare for the signing of these Agreements."
+          "text": "Minister for Trade and Industry Gan Kim Yong participated in the first Indo-Pacific Economic Framework for Prosperity (IPEF) Ministerial meeting of 2024 today. During the virtual meeting, the IPEF Ministers<a href='file:///C:/Users/mti-izyan/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/SB8DE312/MTI%20Press%20release%20-%20IPEF%20Ministers%20Advance%20Clean%20Economy%20Agreement%20and%20Supply%20Chain%20Agreement%20at%20the%20First%20Ministerial%20Meeting%20of%202024.docx#_ftn1'>[¹]</a> welcomed the conclusion of legal scrubbing and the publication of the three Agreements which were substantively concluded in November 2023, namely: (a) the Clean Economy Agreement; (b) Fair Economy Agreement; and (c) the Agreement on the IPEF. These texts are publicly available at <a href='www.ipef.gov.sg'>www.ipef.gov.sg</a>. IPEF Partners will now conduct their respective domestic processes to prepare for the signing of these Agreements."
         }
       ]
     },
@@ -41,14 +27,18 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "content": [
         {
           "type": "text",
           "marks": [],
           "text": "MINISTRY OF TRADE AND INDUSTRY 14 MARCH 2024"
         }
-      ]
+      ],
+      "level": 6
+    },
+    {
+      "type": "divider"
     },
     {
       "type": "paragraph",
@@ -56,9 +46,23 @@
         {
           "type": "text",
           "marks": [],
-          "text": "<a href='file:///C:/Users/mti-izyan/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/SB8DE312/MTI%20Press%20release%20-%20IPEF%20Ministers%20Advance%20Clean%20Economy%20Agreement%20and%20Supply%20Chain%20Agreement%20at%20the%20First%20Ministerial%20Meeting%20of%202024.docx#_ftn1'>[1]</a> In addition to Singapore, the IPEF Partners are Australia, Brunei, Fiji, India, Indonesia, Japan, Korea, Malaysia, New Zealand, the Philippines, Thailand, the United States, and Vietnam."
+          "text": "<a href='file:///C:/Users/mti-izyan/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/SB8DE312/MTI%20Press%20release%20-%20IPEF%20Ministers%20Advance%20Clean%20Economy%20Agreement%20and%20Supply%20Chain%20Agreement%20at%20the%20First%20Ministerial%20Meeting%20of%202024.docx#_ftn1'>[¹]</a> In addition to Singapore, the IPEF Partners are Australia, Brunei, Fiji, India, Indonesia, Japan, Korea, Malaysia, New Zealand, the Philippines, Thailand, the United States, and Vietnam."
         }
       ]
     }
-  ]
+  ],
+  "page": {
+    "contentPageHeader": {
+      "summary": "14 MAR 2024"
+    },
+    "title": "Indo-Pacific Economic Framework for Prosperity (IPEF) Ministers Advance Clean Economy Agreement and Supply Chain Agreement at the First Ministerial Meeting of 2024",
+    "category": "Press Releases",
+    "date": "14 Mar 2024",
+    "articlePageHeader": {
+      "summary": [
+        "A virtual meeting where the IPEF ministers welcomed the conclusion of legal scrubbing and the publication of the three Agreements which were substantively concluded in November 2023."
+      ]
+    }
+  },
+  "version": "0.1.0"
 }
