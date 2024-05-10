@@ -217,6 +217,16 @@
       "width": 80
     },
     {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<i>An infographic depicting an 80% surge in Singapore's trade in goods and services with India from 2005 to 2019, a 50-fold rise in Singapore's direct investment stock during the same period, and the employment of 97,000 locals in 2019 by Singaporean companies investing in India.</i>"
+        }
+      ]
+    },
+    {
       "type": "heading",
       "level": 2,
       "content": [
