@@ -51,7 +51,7 @@
           "text": "Understanding the comprehensive economic partnership between Singapore and India and why it matters to us.",
           "buttonLabel": "More on CECA",
           "url": "/trade/free-trade-agreements/ceca",
-          "imageAlt": "A banner worded /"Singapore-India Comprehensive Economic Cooperation Agreement (CECA)"/"
+          "imageAlt": "A banner worded \"Singapore-India Comprehensive Economic Cooperation Agreement (CECA)"\"
         },
         {
           "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Improving-Trade/cta-cptpp.jpg?h=312&mh=312&w=534&hash=7491DDA69585C26FC46CE8D9AE0DC728",
@@ -59,7 +59,7 @@
           "text": "The CPTPP is a FTA between 11 countries: Australia, Brunei Darussalam, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam.",
           "buttonLabel": "More on CPTPP",
           "url": "/trade/free-trade-agreements/cptpp",
-          "imageAlt": "A banner worded /"Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)"/"
+          "imageAlt": "A banner worded \"Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)"\"
         },
         {
           "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Improving-Trade/cta-trade-in-goods.jpg?h=312&mh=312&w=534&hash=4DAF3AB6DE838750BFFC8ADA323CCA7C",
@@ -75,7 +75,7 @@
           "text": "The Regional Comprehensive Economic Partnership (“RCEP\") Agreement is a Free Trade Agreement (“FTA”) between 15 countries: Brunei Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand, Viet Nam, Australia, China, Japan, Republic of Korea, and New Zealand.",
           "buttonLabel": "More on RCEP",
           "url": "/trade/free-trade-agreements/rcep",
-          "imageAlt": "A banner worded /"RCEP"/ with several flags of other countries"
+          "imageAlt": "A banner worded \"RCEP"\ with several flags of other countries"
         },
         {
           "title": "European Union-Singapore Free Trade Agreement (EUSFTA)",
@@ -83,7 +83,7 @@
           "text": "The EUSFTA is the first FTA concluded between the EU and an ASEAN country.",
           "buttonLabel": "More on EUSFTA",
           "url": "/trade/free-trade-agreements/eusfta",
-          "imageAlt": "An image worded /"European Union"/ and /"Singapore"/, with a plane and container ship flying in and out of the countries"
+          "imageAlt": "An image worded \"European Union"\ and \"Singapore"\, with a plane and container ship flying in and out of the countries"
         }
       ],
       "variant": "side"
