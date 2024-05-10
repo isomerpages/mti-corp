@@ -1,0 +1,94 @@
+{
+  "layout": "article",
+  "content": [
+    {
+      "type": "accordion",
+      "details": [
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Press Release [0.17MB]"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "summary": "Economic Survey of Singapore 2022"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Statistical Appendix (All) [0.40MB]"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "summary": "Statistical Appendix"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Advance GDP Estimates for Fourth Quarter 2022, 3 January 2023 [0.14 MB]"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "summary": "Others"
+    }
+  ],
+  "page": {
+    "title": "Economic Survey of Singapore 2022",
+    "category": "Economic Survey of Singapore",
+    "date": "13 Feb 2023",
+    "articlePageHeader": {
+      "summary": [
+        "Economic Survey of Singapore 2022"
+      ]
+    }
+  },
+  "version": "0.1.0"
+}
