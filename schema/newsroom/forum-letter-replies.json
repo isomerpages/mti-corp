@@ -1,22 +1,11 @@
 {
-  "version": "0.1.0",
-  "layout": "content",
+  "layout": "collection",
+  "content": [],
   "page": {
-    "contentPageHeader": {
-      "summary": "Read our replies to letters to the Forum here."
-    },
-    "title": "Forum Letter Replies"
+    "title": "Forum Letter Replies",
+    "defaultSortBy": "date",
+    "defaultSortDirection": "asc",
+    "subtitle": "Read our replies to letters to the Forum here."
   },
-  "content": [
-    {
-      "type": "paragraph",
-      "content": [
-        {
-          "type": "text",
-          "marks": [],
-          "text": "Placeholder"
-        }
-      ]
-    }
-  ]
+  "version": "0.1.0"
 }
