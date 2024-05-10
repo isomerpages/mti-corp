@@ -1,37 +1,13 @@
 {
-  "version": "0.1.0",
-  "layout": "content",
-  "page": {
-    "contentPageHeader": {
-      "summary": "13 FEB 2023"
-    },
-    "title": "Business Cost Conditions in Singapore’s Manufacturing and Services Sectors",
-    "description": "13 FEB 2023"
-  },
+  "layout": "article",
   "content": [
     {
-      "type": "heading",
-      "level": 2,
-      "content": [
-        {
-          "type": "text",
-          "marks": [],
-          "text": "Business Cost Conditions in Singapore’s Manufacturing and Services Sectors"
-        }
-      ]
-    },
-    {
       "type": "paragraph",
-      "content": [
+      "details": [
         {
-          "type": "text",
-          "marks": [],
-          "text": "This box article highlights the latest trends in business costs for firms in Singapore’s manufacturing and services sectors, as well as the outlook for key components of business costs in 2023."
+          "type": "divider"
         }
-      ]
-    },
-    {
-      "type": "paragraph",
+      ],
       "content": [
         {
           "type": "text",
@@ -70,5 +46,19 @@
         }
       ]
     }
-  ]
+  ],
+  "page": {
+    "contentPageHeader": {
+      "summary": "13 FEB 2023"
+    },
+    "title": "Business Cost Conditions in Singapore’s Manufacturing and Services Sectors",
+    "date": "13 Feb 2023",
+    "category": "Feature Articles",
+    "articlePageHeader": {
+      "summary": [
+        "This box article highlights the latest trends in business costs for firms in Singapore’s manufacturing and services sectors, as well as the outlook for key components of business costs in 2023. "
+      ]
+    }
+  },
+  "version": "0.1.0"
 }
