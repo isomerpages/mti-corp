@@ -1,27 +1,13 @@
 {
-  "version": "0.1.0",
-  "layout": "content",
-  "page": {
-    "contentPageHeader": {
-      "summary": "25 MAR 2024"
-    },
-    "title": "Consumer Price Developments in February 2024",
-    "description": "25 MAR 2024"
-  },
+  "layout": "article",
   "content": [
     {
-      "type": "heading",
-      "level": 2,
-      "content": [
-        {
-          "type": "text",
-          "marks": [],
-          "text": "Consumer Price Developments in February 2024"
-        }
-      ]
-    },
-    {
       "type": "paragraph",
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -31,14 +17,41 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "content": [
         {
           "type": "text",
           "marks": [],
-          "text": "MONETARY AUTHORITY OF SINGAPORE MINISTRY OF TRADE AND INDUSTRY 25 MARCH 2024"
+          "text": "MONETARY AUTHORITY OF SINGAPORE"
         }
+      ],
+      "level": 6
+    },
+     {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "MINISTRY OF TRADE AND INDUSTRY 25 MARCH 2024"
+        }
+      ],
+      "level": 6
+    }
+  ],
+  "page": {
+    "contentPageHeader": {
+      "summary": "25 MAR 2024"
+    },
+    "title": "Consumer Price Developments in February 2024",
+    "category": "Press Releases",
+    "date": "25 Mar 2024",
+    "articlePageHeader": {
+      "summary": [
+        "MAS Core Inflation rose to 3.6% on a year-on-year (y-o-y) basis in February, from 3.1% in January. ",
+        "• CPI-All Items inflation increased to 3.4% y-o-y in February, from 2.9% in January."
       ]
     }
-  ]
+  },
+  "version": "0.1.0"
 }
