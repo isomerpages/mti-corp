@@ -1,16 +1,13 @@
 {
-  "version": "0.1.0",
   "layout": "content",
-  "page": {
-    "contentPageHeader": {
-      "summary": "There are altogether nine statutory boards and one government department under the Ministry’s purview."
-    },
-    "title": "MTI Family",
-    "description": "There are altogether nine statutory boards and one government department under the Ministry’s purview."
-  },
   "content": [
     {
       "type": "heading",
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
       "level": 2,
       "content": [
         {
@@ -51,74 +48,88 @@
       ]
     },
     {
-      "type": "image",
-      "src": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Agencies/New-Singstat-logo.jpg?h=63&w=251&hash=F1212178E848F9FC54000C9588F71C10",
-      "alt": "Singstat",
-      "width": 20,
-      "href": "https://www.singstat.gov.sg/"
-    },
-    {
-      "type": "image",
-      "src": "https://www.mti.gov.sg/-/media/Images/A_star_new_logo.png?h=313&w=823&hash=021FB4EFDB933333A635544D93483B41",
-      "alt": "A-STAR",
-      "width": 20,
-      "href": "http://www.a-star.edu.sg/"
-    },
-    {
-      "type": "image",
-      "src": "https://www.mti.gov.sg/-/media/MTI/Images/CCCS-logo---final.jpg?h=86&w=195&hash=0DE0AAC46357AC56A7EB539AD0FB999E",
-      "alt": "CCCS",
-      "width": 20,
-      "href": "http://www.cccs.gov.sg/"
-    },
-    {
-      "type": "image",
-      "src": "https://www.mti.gov.sg/-/media/MTI/Images/edb-logo-v3.png?h=88&w=144&hash=1236BB6E83E4FF3E78F34F083D97048F",
-      "alt": "EDB",
-      "width": 20,
-      "href": "https://www.edb.gov.sg/?cmpid=edb_en26"
-    },
-    {
-      "type": "image",
-      "src": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Agencies/EMA-logo.png?h=111&w=195&hash=646208AD8164AADF6C5738BED4B154D7",
-      "alt": "EMA",
-      "width": 20,
-      "href": "https://www.ema.gov.sg/index.aspx"
-    },
-    {
-      "type": "image",
-      "src": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Agencies/Enterprise-Singapore-logo.jpg?h=86&w=190&hash=ED11A0DC3D50D0A2A1ED13101D8243CB",
-      "alt": "Enterprise Singapore",
-      "width": 20,
-      "href": "https://www.enterprisesg.gov.sg/"
-    },
-    {
-      "type": "image",
-      "src": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Agencies/HLB-logo.png?h=55&w=242&hash=F44CE62418C097DD9DC97FA44DC63E62",
-      "alt": "Hotel Lincensing Board",
-      "width": 20,
-      "href": "https://www.hlb.gov.sg/"
-    },
-    {
-      "type": "image",
-      "src": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Agencies/JTC-logo-v2.png?h=90&w=145&hash=19F91910B7F4670750E7B8EB873C8D57",
-      "alt": "jtc",
-      "width": 20,
-      "href": "http://www.jtc.gov.sg/Pages/default.aspx"
-    },
-    {
-      "type": "image",
-      "src": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Agencies/Sentosa-logo.png?h=86&w=245&hash=15186D8D71423E4764A893597DC0C4B8",
-      "alt": "Sentosa",
-      "width": 20,
-      "href": "http://www.sentosa.gov.sg/"
-    },
-    {
-      "type": "image",
-      "src": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Agencies/STB-logo.png?h=121&w=200&hash=EC19729EF9E3184EA44D4CFEB34801AB",
-      "alt": "STB",
-      "width": 20,
-      "href": "https://www.stb.gov.sg/"
+      "type": "infocards",
+      "variant": "top",
+      "cards": [
+        {
+          "title": "StatSing",
+          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Agencies/New-Singstat-logo.jpg?h=63&w=251&hash=F1212178E848F9FC54000C9588F71C10",
+          "url": "https://www.singstat.gov.sg/",
+          "imageAlt": "Logo of StatSing",
+          "text": "Delivering insightful statistics and statistical services"
+        },
+        {
+          "url": "http://www.a-star.edu.sg/",
+          "imageUrl": "https://www.mti.gov.sg/-/media/Images/A_star_new_logo.png?h=313&w=823&hash=021FB4EFDB933333A635544D93483B41",
+          "imageAlt": "Logo of A*STAR",
+          "title": "A*STAR",
+          "text": "Advancing science and developing innovative technology to further economic growth and improve lives"
+        },
+        {
+          "title": "CCCS",
+          "url": "http://www.cccs.gov.sg/",
+          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/CCCS-logo---final.jpg?h=86&w=195&hash=0DE0AAC46357AC56A7EB539AD0FB999E",
+          "imageAlt": "Logo of CCCS",
+          "text": "Making markets work well to create opportunities and choices for businesses and consumers"
+        },
+        {
+          "title": "EDB Singapore",
+          "imageAlt": "Logo of EDB Singapore",
+          "url": "https://www.edb.gov.sg/?cmpid=edb_en26",
+          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/edb-logo-v3.png?h=88&w=144&hash=1236BB6E83E4FF3E78F34F083D97048F",
+          "text": "Enhancing Singapore’s position as a global centre for business, innovation, and talent"
+        },
+        {
+          "title": "EMA",
+          "url": "https://www.ema.gov.sg/",
+          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Agencies/EMA-logo.png?h=111&w=195&hash=646208AD8164AADF6C5738BED4B154D7",
+          "imageAlt": "Logo of EMA",
+          "text": "Building sustainable, resilient, dynamic and efficient energy markets and systems"
+        },
+        {
+          "title": "Enterprise Singapore",
+          "url": "https://www.enterprisesg.gov.sg/",
+          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Agencies/Enterprise-Singapore-logo.jpg?h=86&w=190&hash=ED11A0DC3D50D0A2A1ED13101D8243CB",
+          "imageAlt": "Logo of Enterprise Singapore",
+          "text": "Championing the development of Singapore businesses"
+        },
+        {
+          "title": "Hotels Licensing Board",
+          "imageAlt": "Logo of Hotels Licensing Board",
+          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Agencies/HLB-logo.png?h=55&w=242&hash=F44CE62418C097DD9DC97FA44DC63E62",
+          "url": "https://www.hlb.gov.sg/",
+          "text": "Administering the regulatory framework for the hotel industry"
+        },
+        {
+          "title": "JTC",
+          "url": "http://www.jtc.gov.sg/Pages/default.aspx",
+          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Agencies/JTC-logo-v2.png?h=90&w=145&hash=19F91910B7F4670750E7B8EB873C8D57",
+          "imageAlt": "Logo of JTC",
+          "text": "Developing a dynamic industrial landscape"
+        },
+        {
+          "title": "Sentosa",
+          "url": "http://www.sentosa.gov.sg/",
+          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Agencies/Sentosa-logo.png?h=86&w=245&hash=15186D8D71423E4764A893597DC0C4B8",
+          "imageAlt": "Logo of Sentosa",
+          "text": "Developing the island of Sentosa as a premier leisure getaway"
+        },
+        {
+          "title": "Singapore Tourism Board",
+          "url": "https://www.stb.gov.sg/",
+          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Logos/Agencies/STB-logo.png?h=121&w=200&hash=EC19729EF9E3184EA44D4CFEB34801AB",
+          "text": "Shaping a dynamic tourism landscape for Singapore",
+          "imageAlt": "Logo of Singapore Tourism Board"
+        }
+      ]
     }
-  ]
+  ],
+  "version": "0.1.0",
+  "page": {
+    "contentPageHeader": {
+      "summary": "There are altogether nine statutory boards and one government department under the Ministry’s purview."
+    },
+    "title": "MTI Family",
+    "description": "There are altogether nine statutory boards and one government department under the Ministry’s purview."
+  }
 }
