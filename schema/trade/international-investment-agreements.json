@@ -1,16 +1,14 @@
 {
-  "version": "0.1.0",
   "layout": "content",
-  "page": {
-    "contentPageHeader": {
-      "summary": "Singapore's International Investment Agreements promote investment flows between the signatory countries. Find out more here."
-    },
-    "title": "International Investment Agreements"
-  },
   "content": [
     {
       "type": "heading",
-      "level": 2,
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
+      "level": 3,
       "content": [
         {
           "type": "text",
@@ -28,6 +26,196 @@
           "text": "An IIA (also commonly called \"bilateral investment treaty (\"BIT\") when used in a bilateral context, or \"investment guarantee agreement (\"IGA\")) promotes greater investment flows between two signatory countries and sets out standards of protection for investments made in one country by investors from the other country."
         }
       ]
+    },
+    {
+      "type": "accordion",
+      "details": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "An IIA contains obligations on the host State, which may include:"
+            }
+          ]
+        },
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Treating foreign investors as favourably as domestic investors or foreign investors from other countries;"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Treating foreign investors as favourably as domestic investors or foreign investors from other countries;"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Establishing clear limits on the expropriation of investments and compensating foreign investors should expropriation occur;"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Allowing foreign investors to freely transfer their capital in and out of the host State; and"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Allowing foreign investors to submit investment disputes to international arbitration."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "IIAs are not the same as Investment Chapters in FTAs, which generally go beyond the scope of IIAs and include other elements such as investment liberalisation and investment facilitation."
+            }
+          ]
+        }
+      ],
+      "summary": "About IIAs"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        {
+          "type": "table",
+          "caption": "The table below provides details on Singapore's IIAs which are already in force.",
+          "content": [
+            {
+              "type": "tableRow",
+              "content": [
+                {
+                  "type": "tableHeader",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "Countries"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tableHeader",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "Date of Entry into Force"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tableHeader",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "IIA Text"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tableHeader",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "Remarks"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "summary": "Our IGAs/BITs"
     }
-  ]
+  ],
+  "version": "0.1.0",
+  "page": {
+    "contentPageHeader": {
+      "summary": "Singapore's International Investment Agreements promote investment flows between the signatory countries. Find out more here."
+    },
+    "title": "International Investment Agreements"
+  }
 }
