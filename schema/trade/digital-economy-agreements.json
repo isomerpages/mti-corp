@@ -1,23 +1,16 @@
 {
-  "version": "0.1.0",
   "layout": "content",
-  "page": {
-    "contentPageHeader": {
-      "summary": "A Digital Economy Agreement (DEA) is a treaty that establishes digital trade rules and digital economy collaborations between two or more economies."
-    },
-    "title": "Digital Economy Agreements"
-  },
   "content": [
     {
       "type": "heading",
-      "level": 2,
       "content": [
         {
           "type": "text",
           "marks": [],
           "text": "What are Digital Economy Agreements (DEAs)?"
         }
-      ]
+      ],
+      "level": 3
     },
     {
       "type": "paragraph",
@@ -28,6 +21,970 @@
           "text": "A Digital Economy Agreement (DEA) is a treaty that establishes digital trade rules and digital economy collaborations between two or more economies. Through DEAs with key partners, Singapore hopes to develop international frameworks to foster interoperability of standards and systems and support our businesses, especially SMEs, engaging in digital trade and electronic commerce."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The DEAs aim to build on Singapore’s extensive network of free trade agreements and other digital cooperation initiatives. They also complement Singapore’s leadership role at the World Trade Organisation (WTO) as the co-convener (together with Australia and Japan) of the Joint Statement Initiative on E-Commerce (JSI)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Singapore has concluded negotiations on four DEAs:"
+        }
+      ]
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Digital Economy Partnership Agreement (DEPA) – with Chile and New Zealand;"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Singapore-Australia Digital Economy Agreement (SADEA) (which has entered in force on 8 December 2020)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "United Kingdom-Singapore Digital Economy Agreement (UKSDEA) (which has entered in force on 14 June 2022); and "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Korea-Singapore Digital Partnership Agreement (KSDPA)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "We hope to conclude further agreements with other like-minded economies in the future."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Survey on the Digital Economy Agreements"
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "We are continually seeking to improve our DEAs and ensure that these agreements would provide concrete benefits for businesses. Thus, MTI, MCI and IMDA would like to invite companies to share with us your feedback on any challenges in other markets or restrictions on the digital economy you may face, as well as any ideas you may have on how to better facilitate digital trade at the <a href='https://form.gov.sg/#!/6073b54f78026f0011c459a3'>survey here.</a>"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Why are DEAs important for Singapore?"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The digital economy is the future. Digitalisation and technological disruption, accelerated by the impact of the COVID-19 pandemic, have transformed consumer behaviours and business models considerably and created new opportunities. For example, e-commerce has enabled manufacturers to reach consumers directly. The rise of platforms and apps with multiple integrated services from transport to finance and telemedicine have changed how services are consumed. Businesses are also increasingly reliant on electronic transactions and digital solutions, from sourcing to invoicing and payments. Secure and seamless cross-border data flows are essential to the growth of the digital economy and to ensure that consumer’s interests are safeguarded."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The digitalisation of trade has also brought greater attention to regulations which require the forced localisation of data or disclosure of source code. Fragmented rules on data protection has also led to varying restrictions for personal data transfer and increased compliance costs. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The DEAs aim to address these challenges to better enable our businesses, including SMEs to connect internationally with partners overseas."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The DEAs will:"
+        }
+      ]
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Align digital rules and standards, and facilitate interoperability between digital systems;"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Support cross border data flows and safeguard personal data and consumer rights; and"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Encourage cooperation between Singapore’s economic partners in nascent areas such as digital identities, Artificial Intelligence (AI) and data innovation. This gives organisations the scope to trial use-cases and technologies across different countries."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "How can businesses benefit from the DEAs?"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The DEAs establish common frameworks and rules for digital trade that will enable companies in Singapore to connect digitally with their overseas partners more seamlessly. The goals of the DEAs are ultimately to lower the cost of operations, increase business efficiency and create more seamless and easier access to overseas markets."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "As a start, businesses in Singapore can participate in the following digitalisation initiatives. These are aligned to modules in the DEAs, which will help extend their benefits to their cross-border businesses and transactions when the DEAs enter into force."
+        }
+      ]
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='http://www.imda.gov.sg/AI'>Artificial Intelligence</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.imda.gov.sg/programme-listing/cross-border-privacy-rules-certification'>APEC Cross Border Privacy Rules (CBPR) System</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.imda.gov.sg/how-we-can-help/data-innovation'>Data Innovation</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.imda.gov.sg/programme-listing/data-protection-trustmark-certification'>Data Protection Trustmark Certification</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.imda.gov.sg/programme-listing/nationwide-e-invoicing-framework'>Nationwide E-Invoicing Network</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.imda.gov.sg/SMEsGoDigital'>SMEs Go Digital</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Embed Youtube video"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "infocols",
+      "title": "Agreements / Collaborations",
+      "infoBoxes": [
+        {
+          "title": "Digital Economy Partnership Agreement [In-force]",
+          "description": "The Digital Economy Partnership Agreement (DEPA) between Singapore, Chile and New Zealand is the first DEA concluded by Singapore. The DEPA is a first of its kind agreement that establishes new approaches and collaborations in digital trade issues, promotes interoperability between different regimes and addresses the new issues brought about by digitalisation.",
+          "buttonLabel": "More on DEPA",
+          "buttonUrl": "https://www.mti.gov.sg/Trade/Digital-Economy-Agreements/The-Digital-Economy-Partnership-Agreement"
+        },
+        {
+          "title": "Singapore-Australia Digital Economy Agreement [In-force]",
+          "description": "The Singapore-Australia Digital Economy Agreement (SADEA) is Singapore’s second DEA. The SADEA enhances existing digital trade arrangements between Singapore and Australia under the Singapore-Australia Free Trade Agreement. It also includes seven Memoranda of Understanding (MOUs) to operationalise some of the modules in the DEA by identifying or mapping...",
+          "buttonLabel": "More on SADEA",
+          "buttonUrl": "https://www.mti.gov.sg/Trade/Digital-Economy-Agreements/The-Singapore-Australia-Digital-Economy-Agreement"
+        },
+        {
+          "title": "United Kingdom-Singapore Digital Economy Agreement [In-force]",
+          "description": "The UK-Singapore Digital Economy Agreement (UKSDEA) is Singapore’s third DEA and entered into force on 14 June 2022. The DEA will enable end-to-end digital trade, trusted data flows, greater online consumer protection and more opportunities for participation in the digital economy.",
+          "buttonLabel": "More on UKSDEA",
+          "buttonUrl": "https://www.mti.gov.sg/Trade/Digital-Economy-Agreements/UKSDEA"
+        },
+        {
+          "title": "Korea-Singapore Digital Partnership Agreement",
+          "description": "The Republic of Korea and Singapore announced the substantial conclusion of negotiations for a Korea-Singapore Digital Partnership Agreement on 15 December 2021. This is Singapore’s first DEA with an Asian country.",
+          "buttonLabel": "More on KSDPA",
+          "buttonUrl": "https://www.mti.gov.sg/Trade/Digital-Economy-Agreements/KSDPA"
+        },
+        {
+          "title": "ASEAN's Digital Integration",
+          "description": "The Association of Southeast Asian Nations (ASEAN) is making important strides in its digital integration journey, and digitalisation is fast becoming a key driver that is propelling economic development.",
+          "buttonLabel": "More on ASEAN",
+          "buttonUrl": "https://www.mti.gov.sg/ASEAN/Association-of-Southeast-Asian-Nations---ASEAN"
+        },
+        {
+          "title": "European Union-Singapore Digital Partnership",
+          "description": "The European Union (EU) – Singapore Digital Partnership is a framework agreement that will promote digital cooperation between the EU and Singapore, on a variety of areas. These include trade facilitation, trusted data flows and data innovation, digital trust, standards, digital skills for workers, and the digital transformation of businesses and public services.",
+          "buttonLabel": "More on EUSDP",
+          "buttonUrl": "https://www.mti.gov.sg/Trade/Digital-Economy-Agreements/EUSDP"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Modules"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Here are select modules, which can be found in some or all of our DEAs. "
+        }
+      ]
+    },
+    {
+      "type": "accordion",
+      "details": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "The DEAs promote the adoption of ethical AI governance frameworks, which set out principles to harness AI responsibly. This would help create consensus on governance and ethics principles and build trust in AI systems used across borders. Singapore organisations developing AI systems will find it easier to adopt and use AI technologies responsibly across the countries’ jurisdictions based on the common principles set out in the governance frameworks, and to align their governance practices with these frameworks."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "To find out more about Singapore’s Model AI Governance Framework and how other companies have successfully aligned their AI practices, <a href'http://www.imda.gov.sg/AI'>read more here.</a>"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "<i>Found in: DEPA, SADEA</i>"
+            }
+          ]
+        }
+      ],
+      "summary": "Artificial Intelligence"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Cross-border data flows are increasingly important to the growth of the digital economy as it supports electronic commerce and other digitally-enabled activities, such as data analytics and AI. Under the DEAs, parties agree to allow data to flow freely across borders and prohibit the localisation of data except for legitimate purposes such as personal data protection. This facilitates a conducive environment where businesses can:"
+            }
+          ]
+        },
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Serve their customers regardless of where they are located, with new business models (e.g. software-as-a-service) and digitally native products and services (e.g. online games and video streaming);"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Develop new products and services from data-driven innovation across borders; and"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Choose where they can store their data."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "<i>Found in DEPA, SADEA</i>"
+            }
+          ]
+        }
+      ],
+      "summary": "Cross-Border Data Flows"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "The protection of personal data is key to maintaining trust in the digital economy and the development of cross border trade. As businesses carry out electronic transactions across borders, personal data is being transferred as part of these transactions. They would also have to navigate the different policies and legislations on the handling and transfer of personal data across borders, depending on the countries’ data protection regimes."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Singapore will develop mechanisms with its DEA partners to promote compatibility and interoperability in their respective legal approaches, to facilitate cross border data flows and provide safeguards for such data."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "An example is the mutual recognition of certification frameworks and national trustmarks for organisations."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Obtaining a APEC CBPR certification"
+            }
+          ],
+          "level": 4
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "For organisations based in Singapore, obtaining the APEC CBPR certification helps to provide assurance and validation of their personal data protection standards. It also increases business competitiveness, as the APEC CBPR is a visible badge that recognises an organisation’s robust data protection policies and helps the organisation build trust with consumers and partners."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "The APEC CBPR System requires participating businesses to implement data privacy policies consistent with the APEC Privacy Framework. The APEC CBPR System benefits organisations as it can reduce cost and time with a single consistent set of privacy standards that facilitates international data flows. In addition, it helps to bridge differing national privacy laws of the DEA Parties who are also participants of the APEC CBPR System."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "This means that a CBPR-certified organisation will be able to seamlessly and securely transfer and exchange data with other similarly certified organisations, across Singapore’s DEA partners and jurisdictions that have adopted the APEC CBPR System."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "To find out more about the Data Protection Trustmark Certification, <a href='https://www.imda.gov.sg/programme-listing/data-protection-trustmark-certification'>read more here.</a></br> To find out more about APEC Cross Border Privacy Rules (CBPR) System, <a href='https://www.imda.gov.sg/programme-listing/cross-border-privacy-rules-certification'>read more here.</a>"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "<i>Found in DEPA, SADEA</i>"
+            }
+          ]
+        }
+      ],
+      "summary": "Personal Data Protection"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "With DEAs, organisations can receive better support to develop new products and services as Governments promote data-driven innovation across borders. For instance, data regulatory sandboxes can be established to create safe environments where companies can innovate in consultation with Governments; and resources such as the Trusted Data Sharing Framework, which helps organisations to collaborate with their overseas counterparts and share data."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Companies exploring the development and commercialisation of data-driven products and services with their overseas partners will be able to pilot their services, in consultation with government policy makers. This helps the companies address their cross-jurisdiction data flow issues and accelerates cross border data innovation."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Interested companies can approach IMDA on how they can participate.  For more details, <a href='https://www.imda.gov.sg/how-we-can-help/data-innovation'>read more here.</a>"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "<i>Found in DEPA, SADEA</i>"
+            }
+          ]
+        }
+      ],
+      "summary": "Data Innovation"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Digital IDs (e.g. Singapore’s CorpPass) provide data from government-verified sources to form a digital user profile. Among other benefits, digital IDs significantly streamline business processes, including company registrations and opening of corporate bank accounts. Cumbersome processes such as Know-Your-Client (KYC) checks and invoicing can also be performed swiftly. Through the DEAs, we hope to work with partners to facilitate initiatives that promote compatibility between different digital identity regimes."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Building Trusted Company Identities for the World"
+            }
+          ],
+          "level": 4
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Current Know-Your-Business (KYB) and KYC processes across countries typically require companies to manually submit organisational information and documents. This is a major pain point for banks and other services as it can take as long as three months to complete their due diligence in electronic KYB/KYC of overseas companies."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Through interoperability of digital identities and business information, a Singapore company could, in future, register the company overseas or open a new corporate bank account in a DEA partner country via its CorpPass."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "<i>Found in DEPA, SADEA</i>"
+            }
+          ]
+        }
+      ],
+      "summary": "Digital IDs"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "E-invoicing is the automated creation, exchange and processing of requests for payment between suppliers and buyers using a structured digital format. The DEAs enable interoperability of e-invoicing systems between countries, allowing an e-invoice generated in Singapore to be accepted directly by another country’s e-invoice system. Businesses can enjoy shorter invoice processing time and potentially faster payment, leading to significant cost savings from not having to generate and track physical invoices."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Companies can participate in the Nationwide E-Invoicing Network by adopting Peppol-ready e-invoicing solutions and will be able to transact with their overseas partners seamlessly. In addition, SMEs can come on board through the SMEs Go Digital programme, where they can adopt Peppol ready e-invoicing solutions and receive grant support."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "To find out more about the Nationwide E-Invoicing Network, <a href='https://www.imda.gov.sg/programme-listing/nationwide-e-invoicing-framework'>read more here.</a></br>To find out more about SMEs Go Digital Programme, <a href='https://www.imda.gov.sg/SMEsGoDigital'>read more here.</a>"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "<i>Found in DEPA, SADEA</i>"
+            }
+          ]
+        }
+      ],
+      "summary": "E-Invoicing"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "E-payments provide a convenient alternative to cash and cheques as payment modes. They offer consumers a swift and efficient way to pay, helping businesses to enhance productivity. The DEAs enable interoperability of payment systems and promote acceptance of e-payment solutions provided by non-bank players."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Businesses will benefit from the increased ease and acceptance of digital payments, which will lead to faster payments, reduced transaction costs and enhanced trade. Businesses will also find it easier to navigate the payment regulations of foreign markets if they are compatible with Singapore’s, which will generate opportunities for our e-payment start-ups and players."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "<i>Found in DEPA, SADEA</i>"
+            }
+          ]
+        }
+      ],
+      "summary": "Fintech and E-payments"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Businesses can also look forward to tapping on more publicly accessible government data as we explore ways to expand access to open government data to generate new opportunities for businesses. An example would be jointly identifying sectors where open data sets can be used to facilitate business innovation."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "<i>Found in DEPA, SADEA</i>"
+            }
+          ]
+        }
+      ],
+      "summary": "Open Government Data"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        {
+          "type": "heading",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Connecting National Single Windows"
+            }
+          ],
+          "level": 4
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "When established, a seamless, trusted and secure connection with our partners’ Single Window systems will enable businesses to digitally exchange trade data and reduce the time and cost of doing business. This allows data to be reused, improving the efficiency of business operations when preparing trade documentations for both commercial and regulatory purposes. The digital exchange of trade data also improves data accuracy as compared to the need for multiple data entries using manual documents."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Electronic Trade Documents"
+            }
+          ],
+          "level": 4
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Using electronic trade documents for customs clearances (e.g. e-Certificate of Origin, e-SPS certification, etc.) helps reduce the costs of handling paper documents. It also reduces the waiting time for trade documents that are required at the destination, and it would also be possible to use technology to assure document authenticity and provenance, which improves the efficiency of the trade process."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "TradeTrust"
+            }
+          ],
+          "level": 4
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "The DEAs provide a platform to collaborate on promoting and developing data exchange systems that facilitate paperless trading. Such data exchange systems will bring about benefits like a more efficient and secure trading environment for our businesses and trading partners. TradeTrust is a multi-lateral, standards-based framework that enables solutions to inter-operate with one another. Studies have shown that paper processing costs in international trade can be up to as much as 20% of the cost of moving the goods."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Speed up international trade by doing away with paper"
+            }
+          ],
+          "level": 4
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "According to Maersk and IBM’s Paper Trail Research, the costs of processing paper trade documents can add up to as much as 20% of the cost of moving the goods, with the shipment taking about 34 days from farm to retailers, including a 10-day waiting time for documents to be processed. Digitalised trade documentation flows will help to reduce the costs of handling paper and waiting time for trade documents that are required at the destination."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "A Singapore exporter can simply apply for an e-Certificate of Origin and e-SPS certificate for his shipment of products through TradeNet. These trade documents will be sent electronically through the National Single Window to the Customs and relevant authorities of the end-destination country. The exporter need not fill in physical forms or present hardcopies of the trade documents at the border."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "<i>Found in DEPA, SADEA</i>"
+            }
+          ]
+        }
+      ],
+      "summary": "Paperless Trade"
     }
-  ]
+  ],
+  "page": {
+    "title": "Digital Economy Agreements",
+    "contentPageHeader": {
+      "summary": "A Digital Economy Agreement (DEA) is a treaty that establishes digital trade rules and digital economy collaborations between two or more economies"
+    }
+  },
+  "version": "0.1.0"
 }
