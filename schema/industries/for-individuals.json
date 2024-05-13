@@ -1,15 +1,13 @@
 {
-  "version": "0.1.0",
   "layout": "content",
-  "page": {
-    "contentPageHeader": {
-      "summary": "As the industry transforms, the nature of work and the skills required will change quickly. Individuals will need to continuously deepen and refresh their skills to stay relevant and take advantage of new opportunities."
-    },
-    "title": "For Individuals"
-  },
   "content": [
     {
       "type": "paragraph",
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -17,6 +15,491 @@
           "text": "Industry Transformation Maps (ITMs) for 23 industries under 6 clusters were launched progressively between 2016 and 2018. Each ITM integrates productivity improvement, innovation, internationalisation and skills development to promote growth and competitiveness. They were developed and supported by strong partnerships between Government, small and large firms, Trade Associations and Chambers (TACs) and unions."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "As the industry transforms, the nature of work and the skills required will change quickly. Individuals will need to continuously deepen and refresh their skills to stay relevant and take advantage of new opportunities. To facilitate this process and ensure that the skills which individuals develop can be applied to their jobs, the Government has launched two nationwide schemes – SkillsFuture and Adapt and Grow."
+        }
+      ]
+    },
+    {
+      "type": "infocards",
+      "variant": "top",
+      "cards": [
+        {
+          "title": "SGUnited Jobs and Skills Package",
+          "text": "The SGUnited Jobs and Skills Package helps Singaporeans to develop their careers amidst changing economic conditions and ongoing restructuring. Workers who are seeking career advice, transitioning to a new job, or exploring new career opportunities will find these programmes useful.",
+          "url": "https://www.wsg.gov.sg/home/employers-industry-partners/workforce-development-job-redesign/sgunited-jobs-and-skills-placement-partners-initiative-employers",
+          "buttonLabel": "More on WSG",
+          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Transforming-Industries/cta-adaptandgrow.jpg?h=312&mh=312&w=534&hash=4FD6A8B38B1001F9111B485178EF13E4",
+          "imageAlt": "Image of a man walking into an office"
+        },
+        {
+          "title": "SkillsFuture",
+          "url": "https://www.skillsfuture.gov.sg/",
+          "text": "SkillsFuture is a national movement to provide Singaporeans with a wide range of opportunities to develop their fullest potential through life, regardless of their starting points. By investing in our people through education and training, we develop a highly-skilled and competitive workforce, which in turn leads to better jobs, higher incomes and higher standards of living for Singaporeans.",
+          "buttonLabel": "More on SkillsFuture",
+          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Transforming-Industries/cta-skillsfuture.jpg?h=312&mh=312&w=534&hash=08B434435632E0B25D0F5A7C774A0B64",
+          "imageAlt": "An image of the different job insdustries (eg: Digital media, Urban solutions, Tech-enabled services, etc)"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Highlights"
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "table",
+      "caption": "Here are some programmes that support individuals.",
+      "content": [
+        {
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableHeader",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Programme"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableHeader",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Description"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Career Conversion Programmes (CCPs)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Career Conversion Programmes (CCPs) are for mid-career individuals to undergo skills conversion and move into new occupations or sectors that have good prospects and opportunities for progression"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "MyCareersFuture"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "MyCareersFuture is the newest government initiative to help job-seekers identify jobs relevant to their skills"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "MySkillsFuture"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "MySkillsFuture enables Singaporeans of all ages to make informed learning and career choices for skills and career development throughout life"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "SkillsFuture Work-Study Degree Programmes"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "The SkillsFuture Work-Study Degree Programmes allow students to acquire deep technical and essential generic skills, which will facilitate the students’ transition from the universities to the workplace after graduation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Enhanced Internships"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "The Enhanced Internships are for second- or third-year students enrolled at the polytechnics and the ITE, with an aim to give participants exposure to the real work environment and enable them to make a better transition into the workplace"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "SkillsFuture Earn and Learn Programme"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "The SkillsFuture Earn and Learn Programme is a work-learn programme that gives fresh graduates from polytechnics and the ITE a head-start in careers related to their discipline of study"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "SkillsFuture Study Awards"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "The Awards encourage Singaporeans to develop and deepen specialist skills needed by future economic growth sectors or in areas of demand. It also supports Singaporeans who already have deep specialist skills to develop other competencies"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "SkillsFuture Series"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Curated set of short industry-relevant training programmes, focusing on priority and emerging skills for the future"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Skills Framework"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "The Skills Framework is an integral component of the ITMs and it provides up-to-date information on employment, career pathways, occupations, job roles, existing and emerging skills and competencies, as well as relevant education and training programmes"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "P-Max"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "A Place-and-Train programme for Professionals, Managers, Executives and Technicians to maximise their potential"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "SkillsFuture Leadership Development Initiative (LDI)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "The SkillsFuture LDI aims to develop the next generation of business leaders by helping aspiring Singaporeans to acquire leadership competencies and critical experiences"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "page": {
+    "title": "For Individuals",
+    "contentPageHeader": {
+      "summary": "As the industry transforms, the nature of work and the skills required will change quickly. Individuals will need to continuously deepen and refresh their skills to stay relevant and take advantage of new opportunities."
+    }
+  },
+  "version": "0.1.0"
 }
