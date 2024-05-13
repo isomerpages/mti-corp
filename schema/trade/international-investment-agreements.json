@@ -3533,16 +3533,6 @@
       "type": "accordion",
       "details": [
         {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "marks": [],
-              "text": "The table below lists Singapore's FTA Investment Chapters. You may also access the other chapters of these FTAs via Enterprise Singapore's FTA webpage."
-            }
-          ]
-        },
-        {
           "type": "table",
           "caption": "The table below lists Singapore's FTA Investment Chapters. You may also access the other chapters of these FTAs via Enterprise Singapore's FTA webpage.",
           "content": [
@@ -3757,7 +3747,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "ASEAN-Australia-New Zealand Free Trade Area (AANZFTA)"
                         }
                       ]
                     }
@@ -3772,7 +3762,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "1 Jan 2010"
                         }
                       ]
                     }
@@ -3824,7 +3814,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "ASEAN-China Free Trade Area (ACFTA)"
                         }
                       ]
                     }
@@ -3839,7 +3829,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "15 Feb 2010"
                         }
                       ]
                     }
@@ -3891,7 +3881,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "China-Singapore Free Trade Agreement (CSFTA)"
                         }
                       ]
                     }
@@ -3906,7 +3896,73 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "1 Jan 2009"
+                        }
+                      ]
+                    }
+                    
+                  ]
+                },
+                {
+                  "type": "tableCell",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "EN"
+                        }
+                      ]
+                    }
+                    
+                  ]
+                },
+                {
+                  "type": "tableCell",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "The CSFTA Upgrade Protocol entered into force on 16 Oct 2019."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },{
+              "type": "tableRow",
+              "content": [
+                {
+                  "type": "tableCell",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tableCell",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "30 Dec 2018"
                         }
                       ]
                     }
@@ -3957,7 +4013,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "ASEAN-India Free Trade Area (AIFTA)"
                         }
                       ]
                     }
@@ -3972,7 +4028,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "1 Jul 2015"
                         }
                       ]
                     }
@@ -4023,7 +4079,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "ASEAN-Korea Free Trade Area (AKFTA)"
                         }
                       ]
                     }
@@ -4038,7 +4094,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "2 Jun 2009"
                         }
                       ]
                     }
@@ -4089,7 +4145,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "Singapore-Costa Rica FTA (SCRFTA)"
                         }
                       ]
                     }
@@ -4104,7 +4160,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "1 Jul 2013"
                         }
                       ]
                     }
@@ -4155,7 +4211,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "India-Singapore Comprehensive Economic Cooperation Agreement (CECA)"
                         }
                       ]
                     }
@@ -4170,7 +4226,140 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "1 Aug 2005"
+                        }
+                      ]
+                    }
+                    
+                  ]
+                },
+                {
+                  "type": "tableCell",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "EN"
+                        }
+                      ]
+                    }
+                    
+                  ]
+                },
+                {
+                  "type": "tableCell",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "The 1st Review was concluded on 1 November 2007."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableRow",
+              "content": [
+                {
+                  "type": "tableCell",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "Japan-Singapore Economic Partnership Agreement (JSEPA)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tableCell",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "30 Nav 2002"
+                        }
+                      ]
+                    }
+                    
+                  ]
+                },
+                {
+                  "type": "tableCell",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "EN"
+                        }
+                      ]
+                    }
+                    
+                  ]
+                },
+                {
+                  "type": "tableCell",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "The 2nd Review was concluded on 19 March 2007."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },{
+              "type": "tableRow",
+              "content": [
+                {
+                  "type": "tableCell",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "Korea-Singapore FTA (KSFTA)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tableCell",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "2 Mar 2006"
                         }
                       ]
                     }
@@ -4221,7 +4410,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "New Zealand-Singapore Comprehensive Economic Partnership (ANZSCEP)"
                         }
                       ]
                     }
@@ -4236,7 +4425,73 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "1 Jan 2001"
+                        }
+                      ]
+                    }
+                    
+                  ]
+                },
+                {
+                  "type": "tableCell",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "EN"
+                        }
+                      ]
+                    }
+                    
+                  ]
+                },
+                {
+                  "type": "tableCell",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "The ANZSCEP Upgrade entered into force on 1 Jan 2020."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },{
+              "type": "tableRow",
+              "content": [
+                {
+                  "type": "tableCell",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "Panama-Singapore FTA (PSFTA)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tableCell",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "24 Jul 2006"
                         }
                       ]
                     }
@@ -4287,7 +4542,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "Peru-Singapore FTA (PeSFTA)"
                         }
                       ]
                     }
@@ -4302,7 +4557,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "1 Aug 2009"
                         }
                       ]
                     }
@@ -4353,7 +4608,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "EFTA-Singapore FTA (ESFTA)"
                         }
                       ]
                     }
@@ -4368,7 +4623,73 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "1 Jan 2003"
+                        }
+                      ]
+                    }
+                    
+                  ]
+                },
+                {
+                  "type": "tableCell",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "EN"
+                        }
+                      ]
+                    }
+                    
+                  ]
+                },
+                {
+                  "type": "tableCell",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "Countries from EFTA are Iceland, Liechtenstein, Norway and Switzerland."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },{
+              "type": "tableRow",
+              "content": [
+                {
+                  "type": "tableCell",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "Sri Lanka-Singapore FTA (SLSFTA)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tableCell",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "1 May 2018"
                         }
                       ]
                     }
@@ -4419,7 +4740,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "Turkey-Singapore FTA (TRSFTA)"
                         }
                       ]
                     }
@@ -4434,7 +4755,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "1 Oct 2017"
                         }
                       ]
                     }
@@ -4485,7 +4806,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "United States-Singapore FTA (USSFTA)"
                         }
                       ]
                     }
@@ -4500,7 +4821,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "1 Jan 2004"
                         }
                       ]
                     }
@@ -4551,7 +4872,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "ASEAN-Hong Kong Investment Agreement (AHKIA)"
                         }
                       ]
                     }
@@ -4566,7 +4887,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "17 Jun 2019"
                         }
                       ]
                     }
@@ -4598,7 +4919,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "AHKIA entered into force for Singapore, Hong Kong, Lao PDR, Myanmar, Thailand and Viet Nam on 17 June 2019; for Malaysia on 13 October 2019; Philippines on 12 May 2020; Indonesia on 4 July 2020; and Brunei on 20 Oct 2020."
                         }
                       ]
                     }
@@ -4617,7 +4938,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "ASEAN-Japan Comprehensive Economic Partnership (AJCEP)"
                         }
                       ]
                     }
@@ -4632,7 +4953,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
+                          "text": "1 Dec 2008"
                         }
                       ]
                     }
@@ -4664,337 +4985,7 @@
                         {
                           "type": "text",
                           "marks": [],
-                          "text": ""
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },{
-              "type": "tableRow",
-              "content": [
-                {
-                  "type": "tableCell",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "marks": [],
-                          "text": ""
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "tableCell",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "marks": [],
-                          "text": ""
-                        }
-                      ]
-                    }
-                    
-                  ]
-                },
-                {
-                  "type": "tableCell",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "marks": [],
-                          "text": "EN"
-                        }
-                      ]
-                    }
-                    
-                  ]
-                },
-                {
-                  "type": "tableCell",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "marks": [],
-                          "text": ""
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },{
-              "type": "tableRow",
-              "content": [
-                {
-                  "type": "tableCell",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "marks": [],
-                          "text": ""
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "tableCell",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "marks": [],
-                          "text": ""
-                        }
-                      ]
-                    }
-                    
-                  ]
-                },
-                {
-                  "type": "tableCell",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "marks": [],
-                          "text": "EN"
-                        }
-                      ]
-                    }
-                    
-                  ]
-                },
-                {
-                  "type": "tableCell",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "marks": [],
-                          "text": ""
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },{
-              "type": "tableRow",
-              "content": [
-                {
-                  "type": "tableCell",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "marks": [],
-                          "text": ""
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "tableCell",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "marks": [],
-                          "text": ""
-                        }
-                      ]
-                    }
-                    
-                  ]
-                },
-                {
-                  "type": "tableCell",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "marks": [],
-                          "text": "EN"
-                        }
-                      ]
-                    }
-                    
-                  ]
-                },
-                {
-                  "type": "tableCell",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "marks": [],
-                          "text": ""
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },{
-              "type": "tableRow",
-              "content": [
-                {
-                  "type": "tableCell",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "marks": [],
-                          "text": ""
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "tableCell",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "marks": [],
-                          "text": ""
-                        }
-                      ]
-                    }
-                    
-                  ]
-                },
-                {
-                  "type": "tableCell",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "marks": [],
-                          "text": "EN"
-                        }
-                      ]
-                    }
-                    
-                  ]
-                },
-                {
-                  "type": "tableCell",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "marks": [],
-                          "text": ""
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },{
-              "type": "tableRow",
-              "content": [
-                {
-                  "type": "tableCell",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "marks": [],
-                          "text": ""
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "tableCell",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "marks": [],
-                          "text": ""
-                        }
-                      ]
-                    }
-                    
-                  ]
-                },
-                {
-                  "type": "tableCell",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "marks": [],
-                          "text": "EN"
-                        }
-                      ]
-                    }
-                    
-                  ]
-                },
-                {
-                  "type": "tableCell",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "marks": [],
-                          "text": ""
+                          "text": "The amendments from the AJCEP First Protocol entered into force for Japan, Lao PDR, Myanmar, Singapore, Thailand and Viet Nam on 1 Aug 2020 and Brunei on 1 Oct 2020."
                         }
                       ]
                     }
