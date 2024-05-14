@@ -1,0 +1,322 @@
+{
+  "layout": "article",
+  "content": [
+    {
+      "type": "heading",
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Closing on 31 May 2024"
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Introduction"
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "orderedlist",
+      "start": 1,
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "The Ministry of Trade and Industry (MTI) is seeking feedback on the General Review of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP). The public consultation period is from 18 April 2024 to 31 May 2024."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Background"
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "orderedlist",
+      "start": 2,
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "The CPTPP is a high-standard and comprehensive Free Trade Agreement (FTA) between Australia, Brunei, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam. The United Kingdom (UK) is the latest member to join the CPTPP, with the signing of its Accession Protocol on 16 July 2023. With the UK’s entry, it is one of the world’s largest FTAs that will account for 15.4% of global gross domestic product¹."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": " The CPTPP complements Singapore’s extensive network of FTAs by strengthening trade among countries in the Asia-Pacific and beyond. It contains ambitious market access commitments in the areas of goods, services, and government procurement, strong and predictable investment rules, as well as rules in areas such as e-commerce and intellectual property. The full text of the CPTPP can be accessed <a href='https://www.enterprisesg.gov.sg/grow-your-business/go-global/international-agreements/free-trade-agreements/find-an-fta/cptpp'>here.</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The General Review of the CPTPP"
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "orderedlist",
+      "start": 4,
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "The General Review process ensures that the CPTPP remains of the highest possible standard, and its disciplines continue to be relevant to trade and investment issues confronting Members. Members have agreed for the General Review of the CPTPP to begin in 2024, based on the <i>Terms of Reference for Conducting the General Review of the CPTPP</i> (<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/Terms-of-Reference-for-the-CPTPP-General-Review-November-2023.pdf'>Annex A</a> [PDF, 569KB])."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Scope of the CPTPP General Review"
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "orderedlist",
+      "start": 5,
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "The General Review will consider how to enhance the Agreement, including by:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Identifying ways to facilitate maximum utilisation of the CPTPP by traders and investors and to improve the uptake of the Agreement;"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Identifying provisions in the Agreement that would benefit from revision or updating, and considering the potential for the development of new provisions or Chapters; and"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Identifying and strengthening cooperation in areas of mutual interest, to ensure the Agreement remains of the highest possible standard."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Any changes made to the Agreement through the General Review would require agreement among all CPTPP Member governments that these would collectively benefit all CPTPP Members, while ensuring that the Agreement remains the “gold standard” for trade agreements."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Invitation to Provide Feedback"
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "orderedlist",
+      "start": 7,
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "With that context in mind, MTI invites businesses and members of the public to provide feedback on the various aspects of the CPTPP that could be improved and other beneficial elements that could be incorporated into the CPTPP by <b>31 May 2024.</b> Feedback should be submitted via <a href='https://go.gov.sg/cptpp-general-review'>this form.</a> Alternatively, the form can be accessed via the QR code below."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://www.mti.gov.sg/-/media/MTI/Newsroom/Public-Consultations/Public_Consultation_CPTPP_General_Review.png",
+      "alt": "QR code to a feedback form for areas of improvement and other beneficial elements that can be incorporated into the CPTPP",
+      "width": 50
+    },
+    {
+      "type": "orderedlist",
+      "start": 8,
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Please note that all submissions received may be published and attributed to the respective respondents unless they expressly request MTI not to do so. As such, if respondents would like (i) their whole submission, or part of it, or (ii) their identity, or both, to be kept confidential, please state so in the submission. In addition, MTI reserves the right not to publish any submissions received where MTI considers it not in the public interest to do so, such as if the submission appears to be libellous or offensive."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "¹Source: World Bank, 2022"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/CPTPP/Terms-of-Reference-for-the-CPTPP-General-Review-November-2023.pdf'>Annex A</a> [PDF, 569KB] – Terms of Reference for Conducting the General Review of the CPTPP"
+        }
+      ]
+    }
+  ],
+  "page": {
+    "title": "Public Consultation on the General Review of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)",
+    "category": "Active Public Consultations",
+    "date": "18 APR 2024",
+    "articlePageHeader": {
+      "summary": [
+        "1          The Ministry of Trade and Industry (MTI) is seeking feedback on the General Review of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP). The public consultation period is from 18 April 2024 to 31 May 2024."
+      ]
+    }
+  },
+  "version": "0.1.0"
+}
