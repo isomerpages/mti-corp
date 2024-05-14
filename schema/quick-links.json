@@ -1,0 +1,58 @@
+{
+  "layout": "content",
+  "content": [
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Quick Links"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/PEP/PEP-Suggestions/Submit-PEP-Suggestion'>Pro-Enterprise Panel - Submit A Suggestion</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.reach.gov.sg/'>Share your views @ Reach</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "page": {
+    "title": "Quick Links",
+    "contentPageHeader": {
+      "summary": "MTI's Quick Links"
+    }
+  },
+  "version": "0.1.0"
+}
