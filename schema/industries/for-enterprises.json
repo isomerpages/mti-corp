@@ -1,23 +1,16 @@
 {
-  "version": "0.1.0",
   "layout": "content",
-  "page": {
-    "contentPageHeader": {
-      "summary": "The Government is committed to working with our enterprises throughout their transformation journeys."
-    },
-    "title": "For Enterprises"
-  },
   "content": [
     {
       "type": "heading",
-      "level": 2,
       "content": [
         {
           "type": "text",
           "marks": [],
           "text": "Empowering Businesses"
         }
-      ]
+      ],
+      "level": 3
     },
     {
       "type": "paragraph",
@@ -28,6 +21,344 @@
           "text": "With an accelerated pace of disruption and technological change, our enterprises must be prepared to capitalise on emerging trends and take Singapore – and our workforce – into the future. The Government is committed to working with our enterprises throughout their transformation journeys. We will continue to look out for ways to ease business processes for our enterprises, by setting good rules and regulations and fostering a pro-business and pro-worker environment. To accomplish this, we are proactively seeking feedback from businesses to continuously improve our rules and licensing framework, speed up processes and facilitate new business ideas. We will also cut red tape and simplify our licensing regime to reduce compliance costs for businesses where possible."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Our Trade Associations and Chambers (TACs) and unions also play a key role in galvanising firms of every size, and mobilise workers in every sector to be part of the transformation journey. Together, we can build a strong business ecosystem, one which will benefit enterprises and workers in Singapore, and allow us to remain relevant and competitive in the future economy."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "To find out how you can build your company's capabilities, innovate and internationalise, visit <a href='https://www.enterprisesg.gov.sg/'>Enterprise Singapore's website</a> for more information. Enterprise Singapore, formerly International Enterprise Singapore and SPRING Singapore, is the government agency championing enterprise development."
+        }
+      ]
+    },
+    {
+      "type": "infocards",
+      "variant": "top",
+      "cards": [
+        {
+          "title": "The Pro-Enterprise Panel",
+          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Transforming-Industries/cta-pro-enterprise-panel.jpg?h=351&mw=600&w=600&hash=3403C2EDD14C7F15103FA1B6481D8094",
+          "url": "https://www.mti.gov.sg/PEP/About-the-PEP",
+          "imageAlt": "An image of a lady having a chat with her colleague",
+          "text": "The Pro-Enterprise Panel (PEP) is a private-public panel chaired by the Head of Civil Service with mainly business leaders as members, and supported by a network of senior public officers.",
+          "buttonLabel": "About PEP"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Highlights"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "table",
+      "caption": "Here are some highlights for enterprises.",
+      "content": [
+        {
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableHeader",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Highlights"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableHeader",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Description"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "<a href='https://www.mti.gov.sg/COS-2024/Committee-of-Supply-2024'>Committee of Supply (COS) 2024</a>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Singapore Economy 2030."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "<a href='https://www.mti.gov.sg/Newsroom/Press-Releases/2022/12/Launch-of-the-M-SEP-scheme-to-support-firms-expansion-plans'>The Manpower for Strategic Economic Priorities (M-SEP) Scheme</a>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Supporting businesses that contribute to Singapore's strategic economic priorities."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "<a href='https://www.mti.gov.sg/Partnerships/Overview'>Partnerships</a>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Multilateral collaborations to strengthen regional cooperation and build capabilities."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "<a href='https://www.mti.gov.sg/Trade/Digital-Economy-Agreements'>Digital Economy Agreements</a>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Digital trade rules and digital economy collaborations between two or more economies."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "<a href='https://www.mti.gov.sg/ITMs/Overview'>Industry Transformation Maps</a>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "23 roadmaps to drive industry transformation."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "<a href='https://www.mti.gov.sg/PEP/About-the-PEP'>Pro-Enterprise Panel (PEP)</a>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "A pro-enterprise environment that facilitates the growth of businesses."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "<a href='https://www.mti.gov.sg/Trade/Free-Trade-Agreements/EUSFTA'>European Union-Singapore Free Trade Agreement (EUSFTA)</a>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "The EUSFTA is the first FTA concluded between the EU and an ASEAN country."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "page": {
+    "title": "For Enterprises",
+    "contentPageHeader": {
+      "summary": "The Government is committed to working with our enterprises throughout their transformation journeys."
+    }
+  },
+  "version": "0.1.0"
 }
