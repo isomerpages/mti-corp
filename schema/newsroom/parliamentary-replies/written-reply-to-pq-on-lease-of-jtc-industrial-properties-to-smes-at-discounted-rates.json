@@ -1,0 +1,116 @@
+{
+  "layout": "article",
+  "content": [
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Question by Mr Pritam Singh"
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "To ask the Minister for Trade and Industry (a) whether Jurong Town Corporation (JTC) is empowered to lease of JTC industrial properties to local SMEs at a discount to the market rate; (b) if so, how many of such schemes are there and which industries are these schemes tailored for respectively; and (c) whether the Ministry has any plans to expand the number of such schemes that reduce business costs for local SMEs by way of lower rentals."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Written Answer by Minister for Trade and Industry Gan Kim Yong"
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "orderedlist",
+      "start": 1,
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "JTC does not typically provide rental rebates to local SMEs, as its rentals are currently at an average of 12% below prevailing market rates. JTC had last offered an exceptional once-off rental rebate during COVID-19."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "As rental costs comprise just one component of total business costs, the Government’s approach has been to support SMEs more holistically through a comprehensive suite of assistance programmes. For instance, to help businesses cope with rising costs, the Government allocated $1.3 billion under this year’s Budget for the Enterprise Support Package. This package includes the Enterprise Financing Scheme to help Singapore companies access loan financing more readily, the SkillsFuture Enterprise Credit to support transformation and skills training efforts, and a corporate income tax rebate of 50% for 2024."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "There are also grants that provide support for specific sectors. For instance, the Enterprise Development Grant (EDG) helps companies in the manufacturing sector to adopt automation and robotics to increase production capacity and improve warehousing density. Enterprise Singapore also has multiple Centres of Innovation (COIs) to help SMEs innovate new solutions in specific industries such as food manufacturing and the robotics."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "MTI and the Singapore Business Federation (SBF) have also formed an Alliance for Action (AfA) on Business Competitiveness to deep-dive into how businesses can remain competitive amid global uncertainties and structurally higher business costs. The AfA is co-chaired by MOS Low Yen Ling and NMP Mark Lee, Deputy Honorary Treasurer of SBF Council. The AfA has commenced industry consultations to seek views from businesses and aims to put out its recommendations by 4Q2024."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "page": {
+    "title": "Written reply to PQ on lease of JTC industrial properties to SMEs at discounted rates",
+    "defaultSortBy": "date",
+    "defaultSortDirection": "asc",
+    "category": "Parliament Q&A",
+    "date": "08 May 2024",
+    "articlePageHeader": {
+      "summary": [
+        "Mr Pritam Singh's question on the lease of JTC industrial properties to SME at discounted rates and a written answer by Minister of Trade and Industry Gan Kim Yong."
+      ]
+    }
+  },
+  "version": "0.1.0"
+}
