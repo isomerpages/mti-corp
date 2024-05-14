@@ -1,22 +1,203 @@
 {
-  "version": "0.1.0",
   "layout": "content",
-  "page": {
-    "contentPageHeader": {
-      "summary": "The US-Singapore Partnership for Growth and Innovation (PGI) aims to increase collaboration between US and Singapore companies by strengthening trade and investment collaboration in new and forward-looking areas, starting with (i) digital economy and smart cities; (ii) advanced manufacturing and supply chains; (iii) clean energy and environmental technologies; and (iv) healthcare."
-    },
-    "title": "US-Singapore Partnership for Growth and Innovation"
-  },
   "content": [
+    {
+      "type": "paragraph",
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Building on our strong ties, the United States and Singapore have launched a strategic pathfinder for new ways to deepen economic integration between the United States and Southeast Asia."
+        }
+      ]
+    },
     {
       "type": "paragraph",
       "content": [
         {
           "type": "text",
           "marks": [],
-          "text": "About US-Singapore Partnership for Growth and Innovation (PGI)"
+          "text": "The Partnership for Growth and Innovation (PGI) was signed by US Secretary of Commerce Gina Raimondo and Singapore Minister for Trade and Industry Gan Kim Yong on 7 October 2021."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The PGI aims to increase collaboration between US and Singapore companies by strengthening trade and investment collaboration in new and forward-looking areas, starting with (i) digital economy and smart cities; (ii) advanced manufacturing and supply chains; (iii) clean energy and environmental technologies; and (iv) healthcare."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Wherever possible, businesses and governments from the broader Southeast Asia region are welcomed to participate in PGI activities."
+        }
+      ]
+    },
+    {
+      "type": "accordion",
+      "details": [
+        {
+          "type": "heading",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "PGI roundtable with Min(T&I) and Commerce Secretary Gina Raimondo, Nov 2021"
+            }
+          ],
+          "level": 5
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Minister for Trade and Industry Gan Kim Yong and US Secretary of Commerce Gina Raimondo participated in a closed-door Partnership for Growth and Innovation event on 17 Nov 2021 at the Singapore Business Federation (SBF) Center. The event was co-organised by the US Department of Commerce, American Chamber of Commerce, Singapore Business Federation, and MTI. At the roundtable, Minister and Raimondo engaged in a free-flowing discussion with ten company representatives centered around three pillars of the PGI, namely (i) clean energy and environmental technology; (ii) advanced manufacturing and supply chain resilience; and (iii) digital economy."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "https://www.mti.gov.sg/-/media/MTI/Microsites/Partnerships/PGI/Events/2021/11/PGI-roundtable-with-Min-and-Commerce-Secretary-Gina-Raimondo.jpg",
+          "alt": "An image of PGI roundtable with Min(T&I) and Commerce Secretary Gina Raimondo",
+          "width": 100
+        },
+        {
+          "type": "heading",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "PGI Healthcare Roundtable, Feb 2022"
+            }
+          ],
+          "level": 5
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "MTI, the US Embassy, and the American Chamber of Commerce co-organised a PGI healthcare roundtable on 7 February 2021. The roundtable brought together three US companies and three Singapore companies, and discussed topics including (a) data sharing and cross-border data flows for the healthcare sector; (b) healthcare analytics; and (c) supply chain resilience."
+            }
+          ]
+        }
+      ],
+      "summary": "PGI Projects and Events"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "<a href='https://www.mti.gov.sg/Newsroom/Press-Releases/2022/03/New-Collaborations-Under-The-US-Singapore-Partnership-For-Growth-And-Innovation-Joint-Press-Release'>Joint press statement on the signing of the PGI</a> on 8 October 2021"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "<a href='https://www.mti.gov.sg/Newsroom/Press-Releases/2021/11/US-Singapore-Partnership-for-Growth-and-Innovation-A-Joint-Statement'>Joint press statement of Commerce Secretary Gina Raimondo’s visit to Singapore</a> on 17 November 2021"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "<a href='https://www.mti.gov.sg/Newsroom/Press-Releases/2022/03/New-Collaborations-Under-The-US-Singapore-Partnership-For-Growth-And-Innovation-Joint-Press-Release'>Joint press statement by MTI, MCI and the DOC on the new initiatives under the PGI</a> on 30 March 2022"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "summary": "Press Releases"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "We want to hear your ideas on how our governments and businesses can partner each other to seize opportunities in the PGI pillars."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Where possible, we want to partner you to pursue collaboration projects under the PGI, to deliver commercially meaningful outcomes in priority sectors."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Feel free to share your ideas with us at: <a href='mailto:MTI_PGI_Suggestions@mti.gov.sg'>MTI_PGI_Suggestions@mti.gov.sg</a>"
+            }
+          ]
+        }
+      ],
+      "summary": "How You Can Contribute"
     }
-  ]
+  ],
+  "page": {
+    "title": "US-Singapore Partnership for Growth and Innovation",
+    "contentPageHeader": {
+      "summary": "Apart from establishing collaborations with trade and industry partners, Singapore works closely with other countries to strengthen regional cooperation and build capabilities in new sectors including green and digital economies."
+    }
+  },
+  "version": "0.1.0"
 }
