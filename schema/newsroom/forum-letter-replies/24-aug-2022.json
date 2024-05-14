@@ -1,0 +1,147 @@
+{
+  "layout": "article",
+  "content": [
+    {
+      "type": "paragraph",
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "We refer to Berita Harian’s article, “Inflasi kian mencerut, namun cabaran, ancaman lain terus wujud”, dated 20 August 2022."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The infographic in the article, reflecting the expenses of “Mr. Samat”, implies that the prices of market goods, petrol, food services and electricity had risen by 42.9 per cent, 33.3 per cent, 11.1 per cent and 135 per cent respectively."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Apart from petrol, the implied price increases are far higher than what the Consumer Price Index (CPI) data shows. Based on the CPI for general households, the price increases for non-cooked food (as a proxy for market goods), food services and electricity in June 2022, as compared to June 2021, were 5.6 per cent, 5.3 per cent and 22 per cent respectively. The inflation rates for lower-income households were similarly lower."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The Government understands the challenges that many Singaporeans are facing with rising inflation amidst a challenging global economic environment. The Government has provided targeted assistance, including cash payouts, CDC vouchers, and U-Save rebates, that would have cushioned the cost increases for households. We will continue to monitor the situation closely, and stand ready to provide further support to Singaporeans if necessary."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Ms Andrea Goh</br>Director, Communications and Engagement Division</br> Ministry of Trade and Industry (MTI)"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Pemerintah kekal komited menyokong warga S'pura tangani kenaikan inflasi"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Kami merujuk kepada laporan Berita Harian, \"Inflasi kian mencerut, namun cabaran, ancaman lain terus wujud\", bertarikh 20 Ogos 2022."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Infografik dalam laporan itu, yang menggambarkan perbelanjaan \"Encik Samat\", menunjukkan harga barangan pasar, petrol, khidmat makanan dan elektrik masing-masing meningkat sebanyak 42.9 peratus, 33.3 peratus, 11.1 peratus dan 135 peratus."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Selain petrol, kenaikan harga yang ditunjukkan adalah jauh lebih tinggi daripada yang ditunjukkan oleh data Indeks Harga Pengguna (CPI)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Berdasarkan CPI untuk isi rumah umum, kenaikan harga untuk makanan tidak dimasak (sebagai proksi untuk barangan pasar), khidmat makanan dan elektrik pada Jun 2022, berbanding Jun 2021, masing-masing adalah 5.6 peratus, 5.3 peratus dan 22 peratus. Kadar inflasi bagi isi rumah berpendapatan rendah juga lebih rendah."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Pemerintah memahami cabaran yang dihadapi oleh ramai rakyat Singapura dengan peningkatan inflasi di tengah-tengah persekitaran ekonomi global yang mencabar. Pemerintah telah menyediakan bantuan khusus, termasuk pembayaran tunai, baucar CDC, dan rebat U-Save, yang akan mengurangkan kenaikan kos bagi isi rumah. Kami akan terus memantau keadaan dengan teliti, dan bersedia untuk memberikan sokongan lanjut kepada rakyat Singapura jika perlu."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Cik Andrea Goh</br> Pengarah, Divisyen Komunikasi dan Pendekatan</br> Kementerian Perdagangan dan Perusahaan (MTI)"
+        }
+      ]
+    }
+  ],
+  "page": {
+    "title": "Government remains committed to support Singaporeans with rising inflation",
+    "defaultSortBy": "date",
+    "defaultSortDirection": "asc",
+    "category": "Forum Letter Reply",
+    "date": "24 Aug 2022",
+    "articlePageHeader": {
+      "summary": [
+        "A forum reply to Berita Harian's article reflecting that the prices of market goods, petrol, food services and electricity had risen."
+      ]
+    }
+  },
+  "version": "0.1.0"
+}
