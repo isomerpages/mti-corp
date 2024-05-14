@@ -27,26 +27,26 @@
       ]
     },
     {
-      "type": "infocards",
-      "variant": "top",
-      "cards": [
-        {
-          "title": "SGUnited Jobs and Skills Package",
-          "text": "The SGUnited Jobs and Skills Package helps Singaporeans to develop their careers amidst changing economic conditions and ongoing restructuring. Workers who are seeking career advice, transitioning to a new job, or exploring new career opportunities will find these programmes useful.",
-          "url": "https://www.wsg.gov.sg/home/employers-industry-partners/workforce-development-job-redesign/sgunited-jobs-and-skills-placement-partners-initiative-employers",
-          "buttonLabel": "More on WSG",
-          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Transforming-Industries/cta-adaptandgrow.jpg?h=312&mh=312&w=534&hash=4FD6A8B38B1001F9111B485178EF13E4",
-          "imageAlt": "Image of a man walking into an office"
-        },
-        {
-          "title": "SkillsFuture",
-          "url": "https://www.skillsfuture.gov.sg/",
-          "text": "SkillsFuture is a national movement to provide Singaporeans with a wide range of opportunities to develop their fullest potential through life, regardless of their starting points. By investing in our people through education and training, we develop a highly-skilled and competitive workforce, which in turn leads to better jobs, higher incomes and higher standards of living for Singaporeans.",
-          "buttonLabel": "More on SkillsFuture",
-          "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Images/Transforming-Industries/cta-skillsfuture.jpg?h=312&mh=312&w=534&hash=08B434435632E0B25D0F5A7C774A0B64",
-          "imageAlt": "An image of the different job insdustries (eg: Digital media, Urban solutions, Tech-enabled services, etc)"
-        }
-      ]
+      "type": "infopic",
+      "title": "SGUnited Jobs and Skills Package",
+      "description": "The SGUnited Jobs and Skills Package helps Singaporeans to develop their careers amidst changing economic conditions and ongoing restructuring. Workers who are seeking career advice, transitioning to a new job, or exploring new career opportunities will find these programmes useful.",
+      "imageSrc": "https://www.mti.gov.sg/-/media/MTI/Images/Transforming-Industries/cta-adaptandgrow.jpg?h=312&mh=312&w=534&hash=4FD6A8B38B1001F9111B485178EF13E4",
+      "imageAlt": "Image of a man walking into an office",
+      "buttonLabel": "More on WSG",
+      "buttonUrl": "https://www.wsg.gov.sg/home/employers-industry-partners/workforce-development-job-redesign/sgunited-jobs-and-skills-placement-partners-initiative-employers",
+      "isTextOnRight": true,
+      "variant": "side-by-side"
+    },
+    {
+      "type": "infopic",
+      "title": "SkillsFuture",
+      "description": "SkillsFuture is a national movement to provide Singaporeans with a wide range of opportunities to develop their fullest potential through life, regardless of their starting points. By investing in our people through education and training, we develop a highly-skilled and competitive workforce, which in turn leads to better jobs, higher incomes and higher standards of living for Singaporeans.",
+      "imageSrc": "https://www.mti.gov.sg/-/media/MTI/Images/Transforming-Industries/cta-skillsfuture.jpg?h=312&mh=312&w=534&hash=08B434435632E0B25D0F5A7C774A0B64",
+      "imageAlt": "An image of the different job insdustries (eg: Digital media, Urban solutions, Tech-enabled services, etc)",
+      "buttonLabel": "More on SkillsFuture",
+      "buttonUrl": "https://www.skillsfuture.gov.sg/",
+      "isTextOnRight": true,
+      "variant": "side-by-side"
     },
     {
       "type": "heading",
