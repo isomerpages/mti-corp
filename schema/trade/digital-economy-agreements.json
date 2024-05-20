@@ -3,6 +3,11 @@
   "content": [
     {
       "type": "heading",
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -366,15 +371,9 @@
       ]
     },
     {
-      "type": "heading",
-      "content": [
-        {
-          "type": "text",
-          "marks": [],
-          "text": "Embed Youtube video"
-        }
-      ],
-      "level": 2
+      "type": "iframe",
+      "title": "Digital Economy Agreement (DEA) Video",
+      "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/AeSEpUk7gBY?si=UH7Jq1x_lZEEdycf\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
     },
     {
       "type": "infocols",
