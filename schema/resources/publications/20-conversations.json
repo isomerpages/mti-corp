@@ -17,6 +17,11 @@
       ]
     },
     {
+      "type": "iframe",
+      "title": "20 Conversations Publication",
+      "content": "<iframe style=\"width:700px;height:400px;\" src=\"https://online.fliphtml5.com/dvqz/fxkc/\" seamless=\"seamless\" scrolling=\"no\" frameborder=\"0\" allowtransparency=\"true\" allowfullscreen=\"true\"></iframe>"
+    },
+    {
       "type": "heading",
       "content": [
         {
