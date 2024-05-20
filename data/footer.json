@@ -1,64 +1,48 @@
 {
   "siteNavItems": [
     {
-      "title": "About us",
+      "title": "About Us",
       "url": "/about"
     },
     {
-      "title": "Our partners",
-      "url": "/partners"
+      "title": "Trade",
+      "url": "/trade"
     },
     {
-      "title": "Grants and programmes",
-      "url": "/grants-and-programmes"
-    },
-    {
-      "title": "Contact us",
-      "url": "/contact-us"
-    },
-    {
-      "title": "Something else",
-      "url": "/something-else"
-    },
-    {
-      "title": "Resources",
-      "url": "/resources"
+      "title": "Industries",
+      "url": "/industries"
     }
   ],
   "customNavItems": [
     {
+      "title": "Newsroom",
+      "url": "/newsroom"
+    },
+    {
+      "title": "Resources",
+      "url": "/resources"
+    },
+    {
       "title": "Careers",
       "url": "/careers"
-    },
-    {
-      "title": "2024 Budget Increase",
-      "url": "/2024-budget-increase"
-    },
-    {
-      "title": "Events Calendar",
-      "url": "/events-calendar"
-    },
-    {
-      "title": "Our Corp Site",
-      "url": "https://www.google.com"
     }
   ],
   "socialMediaLinks": [
     {
       "type": "linkedin",
-      "url": "https://www.linkedin.com/company/open-government-products/"
+      "url": "https://www.linkedin.com/company/mtisingapore"
     },
     {
-      "type": "instagram",
-      "url": "https://www.instagram.com/opengovsg/"
+      "type": "facebook",
+      "url": "https://www.facebook.com/MTISingapore/"
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/channel/UCuyiflEmkfLfIwOuuN5hAfg"
+      "url": "https://www.youtube.com/user/MTIofSingapore"
     }
   ],
   "contactUsLink": "/contact-us",
   "feedbackFormLink": "https://www.form.gov.sg",
-  "privacyStatementLink": "/privacy",
+  "privacyStatementLink": "/privacy-statement",
   "termsOfUseLink": "/terms-of-use"
 }
