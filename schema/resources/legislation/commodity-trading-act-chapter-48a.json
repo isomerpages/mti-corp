@@ -1,0 +1,108 @@
+{
+  "layout": "article",
+  "content": [
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Regulatory Body"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Prior to April 2018, the IE Singapore Board was the regulatory body responsible for administering the CTA."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "With the merger of IE Singapore and the Standards, Productivity and Innovation Board (SPRING Singapore) in April 2018, the Enterprise Singapore Board is now the regulatory body responsible for administering the CTA."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Visit the following links for more information:"
+        }
+      ]
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://sso.agc.gov.sg/Act/CTA1992'>Full Statute</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.enterprisesg.gov.sg/CTA'>Enterprise Singapore - Overview of CTA</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.enterprisesg.gov.sg/e-services/commodity-trading-act/commodity-trading-act/frequently-asked-questions'>Enterprise Singapore - FAQs about the CTA</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "page": {
+    "title": "Commodity Trading Act (Chapter 48A)",
+    "category": "Legislation",
+    "date": " ",
+    "articlePageHeader": {
+      "summary": [
+        "The Commodity Trading Act (CTA) was further amended in 2008, and regulatory oversight of commodity futures was transferred from International Enterprise Singapore (IE Singapore) to the Monetary Authority of Singapore (MAS).",
+        "The CTA now covers all commodities and regulates commodity trading activities, including commodity forward contracts, leveraged commodity trading, trading in differences and spot commodity trading etc."
+      ]
+    }
+  },
+  "version": "0.1.0"
+}
