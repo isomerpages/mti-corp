@@ -1,6 +1,10 @@
 {
   "siteNavItems": [
     {
+      "title": "Quick Links",
+      "url": "/quick-links"
+    },
+    {
       "title": "About Us",
       "url": "/about"
     },
@@ -25,6 +29,10 @@
     {
       "title": "Careers",
       "url": "/careers"
+    },
+    {
+      "title": "FAQs",
+      "url": "/faqs"
     }
   ],
   "socialMediaLinks": [
