@@ -32,6 +32,11 @@
       "variant": "top",
       "title": "Key Economic Indicators"
     },
+     {
+      "type": "iframe",
+      "title": "GDP in Chained (2015) Dollars (Change in %) - Quarter",
+      "content": "<iframe style=\"width:700px;height:400px;\" src=\"https://next-staging.data.gov.sg/collections/undefined/datasets/d_21e541fc325db73e1a540061d668e7b5/chart/1387\" seamless=\"seamless\" scrolling=\"no\" frameborder=\"0\" allowtransparency=\"true\" allowfullscreen=\"true\"></iframe>"
+    },
     {
       "type": "infocards",
       "cards": [
