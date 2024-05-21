@@ -9,6 +9,11 @@
   },
   "content": [
     {
+      "type": "iframe",
+      "title": "Google maps",
+      "content": "<iframe style=\"width:700px;height:400px;\" src=\"https://www.onemap.gov.sg/minimap/minimap.html?mWidth=800&mHeight=450&latLng=1.29067063202431,103.849819680672&zoomLevl=17&iwt=%3Cb%3EMinistry%20of%20Trade%20and%20Industry%3C/b%3E&popupWidth=200&popupHeight=300&includePopup=true&onloadPopup=true&design=original/\" seamless=\"seamless\" scrolling=\"no\" frameborder=\"0\" allowtransparency=\"true\" allowfullscreen=\"true\"></iframe>"
+    },
+    {
       "type": "heading",
       "level": 3,
       "content": [
