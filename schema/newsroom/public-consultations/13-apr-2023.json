@@ -21,7 +21,7 @@
           "text": "Introduction"
         }
       ],
-      "level": 5
+      "level": 2
     },
     {
       "type": "orderedlist",
@@ -53,7 +53,7 @@
           "text": "Overview"
         }
       ],
-      "level": 5
+      "level": 2
     },
     {
       "type": "orderedlist",
@@ -115,7 +115,7 @@
           "text": "Administrative Details"
         }
       ],
-      "level": 5
+      "level": 2
     },
     {
       "type": "orderedlist",
@@ -166,7 +166,7 @@
               "text": "IPEF Stakeholder Listening Session Singapore"
             }
           ],
-          "level": 5
+          "level": 3
         },
         {
           "type": "paragraph",
@@ -238,7 +238,7 @@
           "text": "Further Information"
         }
       ],
-      "level": 5
+      "level": 2
     },
     {
       "type": "unorderedlist",
