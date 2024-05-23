@@ -862,7 +862,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Annex I – Schedules of Tariff Commitments"
+              "text": "Annex I – Schedules of Tariff Commitments [PDF, 215KB]"
             }
           ],
           "level": 3
@@ -873,7 +873,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Annex I – General Headnotes"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Annex-I---General-Headnotes.pdf'>Annex I – General Headnotes</a> [PDF, 215KB]
             }
           ],
           "level": 4
@@ -884,7 +884,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Brunei Darussalam – Headnotes"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Headnote/Brunei-Darussalam---Headnotes.pdf'>Brunei Darussalam – Headnotes</a> [PDF, 215KB]"
             }
           ]
         },
@@ -894,7 +894,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Brunei Darussalam – Schedule of Tariff Commitments"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/Brunei-Darussalam---Schedule-of-Tariff-Commitments.pdf'>Brunei Darussalam – Schedule of Tariff Commitments</a> [PDF, 27.6MB]"
             }
           ]
         },
@@ -904,7 +904,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Cambodia – Headnotes"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Headnote/Cambodia---Headnotes.pdf'>Cambodia – Headnotes</a> [PDF, 377KB]"
             }
           ]
         },
@@ -914,7 +914,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Cambodia – Schedule of Tariff Commitments"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/Cambodia---Schedule-of-Tariff-Commitments.pdf'>Cambodia – Schedule of Tariff Commitments</a> [PDF, 22.3MB]"
             }
           ]
         },
@@ -924,7 +924,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Indonesia – Headnotes"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Headnote/Indonesia---Headnotes.pdf'>Indonesia – Headnotes</a> [PDF, 419KB]"
             }
           ]
         },
@@ -1039,7 +1039,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Indonesia – Appendix on Tariff Differentials"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Appendix-on-Tariff-Differentials/Indonesia---Appendix-on-Tariff-Differentials-para3.pdf'>Indonesia – Appendix on Tariff Differentials</a> [PDF, 578KB]"
             }
           ]
         },
@@ -1049,7 +1049,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Lao PDR – Headnotes"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Headnote/Lao-PDR---Headnotes.pdf'>Lao PDR – Headnotes</a> [PDF, 416KB]"
             }
           ]
         },
@@ -1059,7 +1059,17 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Malaysia – Headnotes"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/Lao-PDR---Schedule-of-Tariff-Commitments.pdf'>Lao PDR - Schedule of Tariff Commitments</a> [PDF, 4.4MB]"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Headnote/Malaysia---Headnotes.pdf'>Malaysia – Headnotes</a> [PDF, 421KB]"
             }
           ]
         },
@@ -1085,7 +1095,7 @@
                     {
                       "type": "text",
                       "marks": [],
-                      "text": "Malaysia - Schedule of Tariff Commitments"
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/Malaysia---Schedule-of-Tariff-Commitments/Malaysia---Schedule-of-Tariff-Commitments.pdf'>Malaysia - Schedule of Tariff Commitments</a> [PDF, 24MB]"
                     }
                   ]
                 }
@@ -1100,7 +1110,7 @@
                     {
                       "type": "text",
                       "marks": [],
-                      "text": "Malaysia - Schedule of Tariff Commitments (TRQ)"
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/Malaysia---Schedule-of-Tariff-Commitments/Malaysia--Schedule-of-Tariff-Commitments-TRQ.pdf'>Malaysia - Schedule of Tariff Commitments (TRQ)</a> [PDF, 31KB]"
                     }
                   ]
                 }
@@ -1114,7 +1124,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Myanmar – Headnotes"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Headnote/Myanmar---Headnotes.pdf'>Myanmar – Headnotes</a> [PDF, 349KB]"
             }
           ]
         },
@@ -1124,7 +1134,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Myanmar – Schedule of Tariff Commitments"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/Myanmar---Schedule-of-Tariff-Commitments.pdf'>Myanmar – Schedule of Tariff Commitments</a> [PDF, 23MB]"
             }
           ]
         },
@@ -1134,7 +1144,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Philippines – Headnotes"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Headnote/Philippines---Headnotes.pdf'>Philippines – Headnotes</a> [PDF, 181KB]"
             }
           ]
         },
@@ -1160,7 +1170,7 @@
                     {
                       "type": "text",
                       "marks": [],
-                      "text": "Philippines - Schedule of Tariff Commitments (Common Concession)"
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/Philippines---Schedule-of-Tariff-Commitments/Philippines--Schedule-of-Tariff-Commitments-Common-Concession.pdf'>Philippines - Schedule of Tariff Commitments (Common Concession)</a> [PDF, 23.8MB]"
                     }
                   ]
                 }
@@ -1175,7 +1185,7 @@
                     {
                       "type": "text",
                       "marks": [],
-                      "text": "Philippines - Schedule of Tariff Commitments for Australia and New Zealand"
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/Philippines---Schedule-of-Tariff-Commitments/Philippines---Schedule-of-Tariff-Commitments-for-Australia-and-New-Zealand.pdf'>Philippines - Schedule of Tariff Commitments for Australia and New Zealand</a> [PDF, 32.2KB]"
                     }
                   ]
                 }
@@ -1190,7 +1200,7 @@
                     {
                       "type": "text",
                       "marks": [],
-                      "text": "Philippines - Schedule of Tariff Commitments for China"
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/Philippines---Schedule-of-Tariff-Commitments/Philippines---Schedule-of-Tariff-Commitments-for-China.pdf'>Philippines - Schedule of Tariff Commitments for China</a> [PDF, 719KB]"
                     }
                   ]
                 }
@@ -1205,7 +1215,7 @@
                     {
                       "type": "text",
                       "marks": [],
-                      "text": "Philippines - Schedule of Tariff Commitments for Japan"
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/Philippines---Schedule-of-Tariff-Commitments/Philippines---Schedule-of-Tariff-Commitments-for-Japan.pdf'>Philippines - Schedule of Tariff Commitments for Japan</a> [PDF, 35.8KB]"
                     }
                   ]
                 }
@@ -1220,7 +1230,7 @@
                     {
                       "type": "text",
                       "marks": [],
-                      "text": "Philippines - Schedule of Tariff Commitments for Korea"
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/Philippines---Schedule-of-Tariff-Commitments/Philippines---Schedule-of-Tariff-Commitments-for-Korea.pdf'>Philippines - Schedule of Tariff Commitments for Korea</a> [PDF, 461KB]"
                     }
                   ]
                 }
@@ -1234,7 +1244,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Philippines – Appendix on Tariff Differentials"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Appendix-on-Tariff-Differentials/Philippines---Appendix-on-Tariff-Differentials.pdf'>Philippines – Appendix on Tariff Differentials</a> [PDF, 469KB]"
             }
           ]
         },
@@ -1244,7 +1254,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Singapore – Headnotes"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Headnote/Singapore---Headnotes.pdf'>Singapore – Headnotes</a> [PDF, 344KB]"
             }
           ]
         },
@@ -1254,7 +1264,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Thailand – Headnotes"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Headnote/Thailand---Headnotes.pdf'>Thailand – Headnotes</a> [PDF, 279KB]"
             }
           ]
         },
@@ -1264,7 +1274,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Thailand – Schedule of Tariff Commitments"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/Thailand---Schedule-of-Tariff-Commitments.pdf'>Thailand – Schedule of Tariff Commitments</a> [PDF, 13.5MB] "
             }
           ]
         },
@@ -1274,7 +1284,17 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Thailand – Appendix on Tariff Differentials"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Appendix-on-Tariff-Differentials/Thailand---Appendix-on-Tariff-Differentials.pdf'>Thailand – Appendix on Tariff Differentials</a> [PDF, 583KB]"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Headnote/Viet-Nam---Headnotes.pdf'>Viet Nam – Headnotes</a> [PDF, 428KB]"
             }
           ]
         },
@@ -1300,7 +1320,7 @@
                     {
                       "type": "text",
                       "marks": [],
-                      "text": "Viet Nam - Schedule of Tariff Commitments for ASEAN"
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/Viet-Nam---Schedule-of-Tariff-Commitments/Viet-Nam---Schedule-of-Tariff-Commitments-for-ASEAN.pdf'>Viet Nam - Schedule of Tariff Commitments for ASEAN</a> [PDF, 27.7MB]"
                     }
                   ]
                 }
@@ -1315,7 +1335,7 @@
                     {
                       "type": "text",
                       "marks": [],
-                      "text": "Viet Nam - Schedule of Tariff Commitments for Australia"
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/Viet-Nam---Schedule-of-Tariff-Commitments/Viet-Nam---Schedule-of-Tariff-Commitments-for-Australia.pdf'>Viet Nam - Schedule of Tariff Commitments for Australia</a> [PDF, 27.5MB] "
                     }
                   ]
                 }
@@ -1330,7 +1350,7 @@
                     {
                       "type": "text",
                       "marks": [],
-                      "text": "Viet Nam - Schedule of Tariff Commitments for China"
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/Viet-Nam---Schedule-of-Tariff-Commitments/Viet-Nam---Schedule-of-Tariff-Commitments-for-China.pdf'>Viet Nam - Schedule of Tariff Commitments for China</a> [PDF, 27.5MB]"
                     }
                   ]
                 }
@@ -1345,7 +1365,7 @@
                     {
                       "type": "text",
                       "marks": [],
-                      "text": "Viet Nam - Schedule of Tariff Commitments for Japan"
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/Viet-Nam---Schedule-of-Tariff-Commitments/Viet-Nam---Schedule-of-Tariff-Commitments-for-Japan.pdf'>Viet Nam - Schedule of Tariff Commitments for Japan</a> [PDF, 27.7MB]"
                     }
                   ]
                 }
@@ -1360,7 +1380,7 @@
                     {
                       "type": "text",
                       "marks": [],
-                      "text": "Viet Nam - Schedule of Tariff Commitments for Korea"
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/Viet-Nam---Schedule-of-Tariff-Commitments/Viet-Nam---Schedule-of-Tariff-Commitments-for-Korea.pdf'>Viet Nam - Schedule of Tariff Commitments for Korea</a> [PDF, 27.7MB]"
                     }
                   ]
                 }
@@ -1375,7 +1395,7 @@
                     {
                       "type": "text",
                       "marks": [],
-                      "text": "Viet Nam - Schedule of Tariff Commitments for New Zealand"
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/Viet-Nam---Schedule-of-Tariff-Commitments/Viet-Nam---Schedule-of-Tariff-Commitments-for-New-Zealand.pdf'>Viet Nam - Schedule of Tariff Commitments for New Zealand</a> [PDF, 27.5MB]"
                     }
                   ]
                 }
@@ -1389,7 +1409,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Viet Nam – Appendix on Tariff Differentials"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Appendix-on-Tariff-Differentials/Viet-Nam---Appendix-on-Tariff-Differentials.pdf'>Viet Nam – Appendix on Tariff Differentials</a> [PDF, 393KB]"
             }
           ]
         },
@@ -1399,7 +1419,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Australia – Headnotes"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Headnote/Australia---Headnotes.pdf'>Australia – Headnotes</a> [PDF, 416KB]"
             }
           ]
         },
@@ -1409,7 +1429,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Australia – Schedule of Tariff Commitments"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/Australia---Schedule-of-Tariff-Commitments.pdf'>Australia – Schedule of Tariff Commitments</a> [PDF, 14.2MB]"
             }
           ]
         },
@@ -1419,7 +1439,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "China – Headnotes"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Headnote/China---Headnotes.pdf'>China – Headnotes</a> [PDF, 420KB]"
             }
           ]
         },
@@ -1445,7 +1465,7 @@
                     {
                       "type": "text",
                       "marks": [],
-                      "text": "China - Schedule of Tariff Commitments for ASEAN"
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/China---Schedule-of-Tariff-Commitments/China---Schedule-of-Tariff-Commitments-for-ASEAN.pdf'>China - Schedule of Tariff Commitments for ASEAN</a> [PDF, 3.9MB]"
                     }
                   ]
                 }
@@ -1460,7 +1480,7 @@
                     {
                       "type": "text",
                       "marks": [],
-                      "text": "China - Schedule of Tariff Commitments for Australia"
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/China---Schedule-of-Tariff-Commitments/China---Schedule-of-Tariff-Commitments-for-Australia.pdf'>China - Schedule of Tariff Commitments for Australia</a> [PDF, 3.9MB]"
                     }
                   ]
                 }
@@ -1475,7 +1495,7 @@
                     {
                       "type": "text",
                       "marks": [],
-                      "text": "China - Schedule of Tariff Commitments for Japan"
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/China---Schedule-of-Tariff-Commitments/China---Schedule-of-Tariff-Commitments-for-Japan.pdf'>China - Schedule of Tariff Commitments for Japan</a> [PDF, 3.9MB]"
                     }
                   ]
                 }
@@ -1490,7 +1510,7 @@
                     {
                       "type": "text",
                       "marks": [],
-                      "text": "China - Schedule of Tariff Commitments for Korea"
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/China---Schedule-of-Tariff-Commitments/China---Schedule-of-Tariff-Commitments-for-Korea.pdf'>China - Schedule of Tariff Commitments for Korea</a> [PDF, 4.4MB]"
                     }
                   ]
                 }
@@ -1505,7 +1525,7 @@
                     {
                       "type": "text",
                       "marks": [],
-                      "text": "China - Schedule of Tariff Commitments for New Zealand"
+                      "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/China---Schedule-of-Tariff-Commitments/China---Schedule-of-Tariff-Commitments-for-New-Zealand.pdf'>China - Schedule of Tariff Commitments for New Zealand</a> [PDF, 3.8MB]"
                     }
                   ]
                 }
@@ -1529,7 +1549,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Japan – Headnotes"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Headnote/Japan---Headnotes.pdf'>Japan – Headnotes</a> [PDF, 101KB]"
             }
           ]
         },
@@ -1539,7 +1559,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Japan – Schedule of Tariff Commitments"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Schedule-of-Tariff-Commitments/Japan---Schedule-of-Tariff-Commitments.pdf'>Japan – Schedule of Tariff Commitments</a> [PDF, 31MB]"
             }
           ]
         },
@@ -1549,7 +1569,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Japan – Appendix on Tariff Differentials"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Appendix-on-Tariff-Differentials/Japan---Appendix-on-Tariff-Differentials-para3.pdf'>Japan – Appendix on Tariff Differentials</a> [PDF, 525KB]"
             }
           ]
         },
@@ -1559,7 +1579,7 @@
             {
               "type": "text",
               "marks": [],
-              "text": "Korea – Headnotes"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/All-Chapters-and-Market-Access-Annexes/Headnote/Korea---Headnotes.pdf'>Korea – Headnotes</a> [PDF, 271KB]"
             }
           ]
         },
