@@ -53,14 +53,14 @@
       "cards": [
         {
           "title": "SingStat",
-          "imageUrl": "/images/singstat.png",
+          "imageUrl": "/images/about/singstat.png",
           "url": "https://www.singstat.gov.sg/",
           "imageAlt": "Logo of StatSing",
           "text": "Delivering insightful statistics and statistical services"
         },
         {
           "url": "http://www.a-star.edu.sg/",
-          "imageUrl": "/images/A_STAR-logo.png",
+          "imageUrl": "/images/about/A_STAR-logo.png",
           "imageAlt": "Logo of A*STAR",
           "title": "A*STAR",
           "text": "Advancing science and developing innovative technology to further economic growth and improve lives"
@@ -68,7 +68,7 @@
         {
           "title": "CCCS",
           "url": "http://www.cccs.gov.sg/",
-          "imageUrl": "/images/cccs.jpg",
+          "imageUrl": "/images/about/cccs.jpg",
           "imageAlt": "Logo of CCCS",
           "text": "Making markets work well to create opportunities and choices for businesses and consumers"
         },
@@ -76,48 +76,48 @@
           "title": "EDB Singapore",
           "imageAlt": "Logo of EDB Singapore",
           "url": "https://www.edb.gov.sg/?cmpid=edb_en26",
-          "imageUrl": "/images/edb.png",
+          "imageUrl": "/images/about/edb.png",
           "text": "Enhancing Singapore’s position as a global centre for business, innovation, and talent"
         },
         {
           "title": "EMA",
           "url": "https://www.ema.gov.sg/",
-          "imageUrl": "/images/ema.png",
+          "imageUrl": "/images/about/ema.png",
           "imageAlt": "Logo of EMA",
           "text": "Building sustainable, resilient, dynamic and efficient energy markets and systems"
         },
         {
           "title": "Enterprise Singapore",
           "url": "https://www.enterprisesg.gov.sg/",
-          "imageUrl": "/images/enterprise.png",
+          "imageUrl": "/images/about/enterprise.png",
           "imageAlt": "Logo of Enterprise Singapore",
           "text": "Championing the development of Singapore businesses"
         },
         {
           "title": "Hotels Licensing Board",
           "imageAlt": "Logo of Hotels Licensing Board",
-          "imageUrl": "/images/hotel-licensing-board.png",
+          "imageUrl": "/images/about/hotel-licensing-board.png",
           "url": "https://www.hlb.gov.sg/",
           "text": "Administering the regulatory framework for the hotel industry"
         },
         {
           "title": "JTC",
           "url": "http://www.jtc.gov.sg/Pages/default.aspx",
-          "imageUrl": "/images/jtc.png",
+          "imageUrl": "/images/about/jtc.png",
           "imageAlt": "Logo of JTC",
           "text": "Developing a dynamic industrial landscape"
         },
         {
           "title": "Sentosa",
           "url": "http://www.sentosa.gov.sg/",
-          "imageUrl": "/images/sentosa.png",
+          "imageUrl": "/images/about/sentosa.png",
           "imageAlt": "Logo of Sentosa",
           "text": "Developing the island of Sentosa as a premier leisure getaway"
         },
         {
           "title": "Singapore Tourism Board",
           "url": "https://www.stb.gov.sg/",
-          "imageUrl": "/images/singapore-tourism-board.png",
+          "imageUrl": "/images/about/singapore-tourism-board.png",
           "text": "Shaping a dynamic tourism landscape for Singapore",
           "imageAlt": "Logo of Singapore Tourism Board"
         }
