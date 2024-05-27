@@ -59,10 +59,20 @@
         {
           "type": "text",
           "marks": [],
-          "text": "Highlights"
+          "text": "Information for enterprises"
         }
       ],
       "level": 2
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Table of information for enterprises"
+        }
+      ]
     },
     {
       "type": "table",
