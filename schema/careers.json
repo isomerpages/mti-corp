@@ -3,11 +3,16 @@
   "content": [
     {
       "type": "heading",
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
       "content": [
         {
           "type": "text",
           "marks": [],
-          "text": "Why MTI?"
+          "text": "Why MTI"
         }
       ],
       "level": 2
@@ -28,46 +33,46 @@
         {
           "type": "text",
           "marks": [],
-          "text": "Your work will help to boost economic growth and create jobs in Singapore, and achieve higher standards of living for everyone. Expect to be challenged and stretched, have your perspectives broadened, while working with passionate and driven people to make a difference."
+          "text": "Your work will help to boost economic growth and create jobs in Singapore, and achieve higher standards of living for everyone. Expect to be challenged and stretched, have your perspectives broadened, while working with passionate and driven people to make a difference.</br></br>"
         }
       ]
     },
     {
+      "type": "infobar",
+      "title": "What We Do",
+      "description": "Learn more about how we operate in Singapore's public sector, and how we support the growth of Singapore's economy.",
+      "buttonLabel": "Our MTI Professionals",
+      "buttonUrl": "https://www.mti.gov.sg/Careers/Join-Our-MTI-Professionals",
+      "secondaryButtonLabel": "The Economist Service",
+      "secondaryButtonUrl": "https://www.mti.gov.sg/Careers/Join-The-Economist-Service"
+    },
+    {
       "type": "infopic",
       "title": "Join Our Team",
-      "description": "To apply, you can go to Careers@Gov to find out our current vacancies and to submit your application. If you are looking for an internship with us, you can also apply directly at Careers@Gov.",
-      "imageSrc": "https://www.mti.gov.sg/-/media/MTI/Images/About/cta-image-join-us.jpg?h=328&mw=600&w=600&hash=3DAFF5C95050A92AE65C71C284BC587D",
-      "imageAlt": "An office worker punching numbers in a calculator",
-      "buttonLabel": "Careers@Gov",
+      "description": "Head over to Careers@Gov to find out more about our current vacancies and internship opportunities.",
+      "imageSrc": "https://sg.tepcdn.com/public/usr/1hrsv2/f5e75e-BLD-HIGH-STREET-CENTRE-OCT2023-01-SIC.jpg",
+      "imageAlt": "An image of High Street building",
+      "buttonLabel": "Job Openings at Careers@Gov",
       "buttonUrl": "https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html",
-      "isTextOnRight": true,
       "variant": "side-part"
     },
     {
       "type": "infopic",
-      "title": "Abdullah Bin Abdul Aziz",
+      "title": "Meet Abdullah and Xian Yun",
       "subtitle": "First Secretary (Economics), Jakarta Mission",
-      "description": "I was drawn to MTI because of my strong interest in international diplomacy. I was keen to play a role in Singapore's trade relations on the international stage. The negotiations taught me to think on my feet as I had to learn how to convey my stand concisely and find a common meeting ground.",
-      "imageSrc": "https://www.mti.gov.sg/-/media/MTI/Images/placeholders/person/abdul-aziz.png?h=132&mw=132&w=132&hash=CAE16CF3DF9C515FC1C9BA2A3696B177",
-      "imageAlt": "An image of Abdullah Bin Abdul Aziz",
+      "description": "Abdullah Bin Abdul Aziz, the First Secretary (Economics) at the Jakarta Mission, and Foo Xian Yun, an Economist Seconded to the Ministry of Finance, share their experiences working with MTI.",
+      "imageSrc": "https://www.mercer.com/insights/law-and-policy/singapore-to-tighten-foreign-work-pass-criteria-boost-local-jobs/_jcr_content/root/insight-wrapper/lead/lead-media/image.coreimg.jpeg/1678553039918/gl-2019-japan-adopts-work-style-labor-reforms-652373163.jpeg",
+      "imageAlt": "",
+      "buttonLabel": "Read their testimonials here",
+      "buttonUrl": "/",
       "isTextOnRight": false,
-      "variant": "side-by-side"
-    },
-    {
-      "type": "infopic",
-      "title": "Foo Xian Yun",
-      "subtitle": "Economist, Seconded to Ministry of Finance",
-      "description": "My work in the Economist Service has provided me with the opportunity to learn about a myriad of economic issues, ranging from global macroeconomic developments to structural challenges facing domestic economies. I benefit and learn from the diversity of views of my colleagues, who are often very open to share their views on economic issues, and knowledge on new empirical methods. I have seen for myself how rigorous empirical methodologies can be applied to better understand the impact of schemes, forecast growth, and examine trends in the labour market.  The wide range of work that I have done, for instance in relation to Singapore’s medium-term GDP growth, the relationship between productivity and wage growth, and understanding fiscal trends, have enabled me to become a more thoughtful and well-rounded economist.",
-      "imageSrc": "https://www.mti.gov.sg/-/media/MTI/Images/placeholders/person/Foo-Xian-Yun.jpg?h=132&mw=132&w=132&hash=93E30DD096031F76FA02F3A468C47E33",
-      "imageAlt": "An image of Foo Xian Yun",
-      "isTextOnRight": false,
-      "variant": "side-by-side"
+      "variant": "side-part"
     }
   ],
   "page": {
     "title": "Careers",
     "contentPageHeader": {
-      "summary": "At MTI, you will be at the forefront of shaping Singapore’s vibrant economy!"
+      "summary": "At MTI, you will be at the forefront of shaping Singapore’s vibrant economy."
     }
   },
   "version": "0.1.0"
