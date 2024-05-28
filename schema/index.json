@@ -12,8 +12,6 @@
       "title": "Ministry of Trade & Industry",
       "subtitle": " A leading global city of enterprise and talent, a vibrant nation of innovation and opportunity",
       "alignment": "left",
-      "buttonLabel": "Press Releases",
-      "buttonUrl": "/newsroom/press-releases/",
       "dropdown": {
         "options": []
       },
@@ -79,12 +77,12 @@
         {
           "title": "Committee of Supply (COS) 2024",
           "buttonLabel": "More on COS 2024",
-          "description": "Singapore Economy 2030",
+          "description": "Singapore Economy 2030.",
           "buttonUrl": "https://www.mti.gov.sg/COS-2024/Committee-of-Supply-2024",
           "icon": "bar-chart"
         },
         {
-          "title": "Launch of the Manpower for Strategic Economic Priorities (M-SEP) scheme to support firms’ expansion plans",
+          "title": "Manpower for Strategic Economic Priorities (M-SEP) scheme",
           "buttonUrl": "https://www.mti.gov.sg/Newsroom/Press-Releases/2022/12/Launch-of-the-M-SEP-scheme-to-support-firms-expansion-plans",
           "buttonLabel": "Read press release",
           "description": "Supporting businesses that contribute to Singapore's strategic economic priorities.",
@@ -106,14 +104,14 @@
         },
         {
           "title": "Industry Transformation Maps",
-          "description": "23 roadmaps to drive industry transformation",
+          "description": "23 roadmaps to drive industry transformation.",
           "buttonLabel": "Overview on ITMs",
           "buttonUrl": "https://www.mti.gov.sg/ITMs/Overview",
           "icon": "bar-chart"
         },
         {
           "title": "Pro-Enterprise Panel (PEP)",
-          "description": "A pro-enterprise environment that facilitates the growth of businesses",
+          "description": "A pro-enterprise environment that facilitates the growth of businesses.",
           "buttonLabel": "About PEP",
           "buttonUrl": "https://www.mti.gov.sg/PEP/About-the-PEP",
           "icon": "bar-chart"
