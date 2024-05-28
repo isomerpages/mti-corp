@@ -26,7 +26,7 @@
         {
           "type": "text",
           "marks": [],
-          "text": "CECA is a part of Singapore’s extensive network of 26 Free Trade Agreements (FTAs)."
+          "text": "CECA is a part of Singapore’s extensive network of 26 Free Trade Agreements (FTAs).</br></br>"
         }
       ]
     },
@@ -104,7 +104,7 @@
                 {
                   "type": "text",
                   "marks": [],
-                  "text": "More than 3,000 tariffs have been zeroed under CECA, and another 2,000-plus tariffs reduced. Products that benefit include the following:"
+                  "text": "More than 3,000 tariffs have been zeroed under CECA, and another 2,000-plus tariffs reduced. Products that benefit include the following:</br></br>"
                 }
               ]
             }
@@ -206,7 +206,7 @@
         {
           "type": "text",
           "marks": [],
-          "text": "These have resulted in the creation of good jobs for Singaporeans."
+          "text": "These have resulted in the creation of good jobs for Singaporeans.</br></br>"
         }
       ]
     },
