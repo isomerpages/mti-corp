@@ -12,6 +12,8 @@
       "title": "Ministry of Trade & Industry",
       "subtitle": " A leading global city of enterprise and talent, a vibrant nation of innovation and opportunity",
       "alignment": "left",
+      "buttonLabel": "Press Releases",
+      "buttonUrl": "/newsroom/press-releases/",
       "dropdown": {
         "options": []
       },
