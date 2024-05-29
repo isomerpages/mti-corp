@@ -35,7 +35,7 @@
           "url": "https://www.mti.gov.sg/Resources/Economic-Survey-of-Singapore/2023/Economic-Survey-of-Singapore-2023",
           "imageUrl": "https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2023/ESS-2023.jpg?h=450&hash=E43961F44F2FE87661774B09E9CB5820",
           "imageAlt": "A banner worded \"Economic Survey of Singapore 2023\"",
-          "buttonLabel": "View all files",
+          "buttonLabel": "Explore the survey",
           "text": "MTI has maintained the GDP growth forecast for 2024 at 1.0 to 3.0 per cent."
         },
         {
@@ -53,19 +53,19 @@
       "statistics": [
         {
           "label": "Real GDP, 4Q 2023 (YoY)",
-          "value": "+ 2.2%"
+          "value": "+2.2%"
         },
         {
           "label": "Total Merchandise Trade, Feb 2024 (YoY)",
-          "value": "+ 3.5%"
+          "value": "+3.5%"
         },
         {
           "label": "Industrial Production, Feb 2024 (YoY)",
-          "value": "+ 3.8%"
+          "value": "+3.8%"
         },
         {
           "label": "Consumer Price Index, Feb 2024 (YoY)",
-          "value": "+ 3.4%"
+          "value": "+3.4%"
         }
       ],
       "variant": "top",
@@ -82,48 +82,49 @@
           "icon": "bar-chart"
         },
         {
-          "title": "Manpower for Strategic Economic Priorities (M-SEP) scheme",
+          "title": "Manpower for Strategic Economic Priorities",
           "buttonUrl": "https://www.mti.gov.sg/Newsroom/Press-Releases/2022/12/Launch-of-the-M-SEP-scheme-to-support-firms-expansion-plans",
           "buttonLabel": "Read press release",
           "description": "Supporting businesses that contribute to Singapore's strategic economic priorities.",
-          "icon": "bar-chart"
+          "icon": "line-chart"
         },
         {
           "title": "Partnerships",
           "description": "Multilateral collaborations to strengthen regional cooperation and build capabilities.",
           "buttonLabel": "View overview",
           "buttonUrl": "https://www.mti.gov.sg/Partnerships/Overview",
-          "icon": "bar-chart"
+          "icon": "users"
         },
         {
           "title": "Digital Economy Agreements",
           "description": "Digital trade rules and digital economy collaborations between two or more economies.",
           "buttonLabel": "Learn about DEAs",
           "buttonUrl": "https://www.mti.gov.sg/Trade/Digital-Economy-Agreements",
-          "icon": "bar-chart"
+          "icon": "office-building"
         },
         {
           "title": "Industry Transformation Maps",
           "description": "23 roadmaps to drive industry transformation.",
           "buttonLabel": "Overview on ITMs",
           "buttonUrl": "https://www.mti.gov.sg/ITMs/Overview",
-          "icon": "bar-chart"
+          "icon": "stars"
         },
         {
           "title": "Pro-Enterprise Panel (PEP)",
           "description": "A pro-enterprise environment that facilitates the growth of businesses.",
           "buttonLabel": "About PEP",
           "buttonUrl": "https://www.mti.gov.sg/PEP/About-the-PEP",
-          "icon": "bar-chart"
+          "icon": "globe"
         }
       ],
       "title": "Highlights"
+      "subtitle": "The ministry's key initiatives"
     },
     {
       "type": "infopic",
-      "title": "Budget 2024",
-      "description": "Building our Shared Future Together",
-      "imageSrc": "https://www.mti.gov.sg/-/media/MTI/Images/Home/Budget-banner-2024.png?h=312&mh=312&w=533&hash=197E898658D82343A1FD208F1EEA9459",
+      "title": "Budget 2024: Building our future together",
+      "description": "Deputy Prime Minister and Minister for Finance, Mr Lawrence Wong, delivered Singapore’s FY2024 Budget Statement on Friday, 16 February 2024, in Parliament.",
+      "imageSrc": "https://images.unsplash.com/photo-1598845243320-c43cf5fd4af9?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "buttonLabel": "Singapore Budget",
       "buttonUrl": "https://www.mof.gov.sg/singaporebudget",
       "variant": "side-by-side",
