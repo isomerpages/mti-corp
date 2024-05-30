@@ -2,6 +2,17 @@
   "layout": "content",
   "content": [
     {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Supporting Individual Growth"
+        }
+      ],
+      "level": 2
+    },
+    {
       "type": "paragraph",
       "details": [
         {
@@ -65,7 +76,7 @@
         {
           "type": "text",
           "marks": [],
-          "text": "Here are some programmes that support individuals."
+          "text": "No matter what part of your career journey you are at, lifelong learning can support your growth in the workforce. Here are some opportunities for skills growth and development."
         }
       ]
     },
