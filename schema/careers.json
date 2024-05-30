@@ -45,7 +45,7 @@
       "imageAlt": "An image of High Street building",
       "buttonLabel": "Job Openings at Careers@Gov",
       "buttonUrl": "https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html",
-      "variant": "side-part"
+      "variant": "side-by-side"
     },
     {
       "type": "infopic",
@@ -57,7 +57,7 @@
       "buttonLabel": "Read their testimonials here",
       "buttonUrl": "/",
       "isTextOnRight": false,
-      "variant": "side-part"
+      "variant": "side-by-side"
     }
   ],
   "page": {
