@@ -2,33 +2,98 @@
   "layout": "content",
   "content": [
     {
-      "type": "infocols",
-      "title": "List of Multilateral & Regional Forums",
-      "infoBoxes": [
+      "type": "heading",
+      "details": [
         {
-          "title": "Asia-Europe Meeting (ASEM)",
-          "buttonLabel": "More on ASEM",
-          "buttonUrl": "https://www.mti.gov.sg/Trade/Multilateral-and-Regional-Forums/Asia-Europe-Meeting"
+          "type": "divider"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "List of Multilateral & Regional Forums"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Trade/Multilateral-and-Regional-Forums/Asia-Europe-Meeting'>Asia-Europe Meeting (ASEM)</a>"
+                }
+              ]
+            }
+          ]
         },
         {
-          "title": "Asia-Pacific Economic Cooperation (APEC)",
-          "buttonLabel": "More on APEC",
-          "buttonUrl": "https://www.mti.gov.sg/Trade/Multilateral-and-Regional-Forums/Asia-Pacific-Economic-Cooperation-APEC"
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Trade/Multilateral-and-Regional-Forums/Asia-Pacific-Economic-Cooperation-APEC'>Asia-Pacific Economic Cooperation (APEC)</a>"
+                }
+              ]
+            }
+          ]
         },
         {
-          "title": "Association of Southeast Asian Nations (ASEAN)",
-          "buttonLabel": "More on ASEAN",
-          "buttonUrl": "https://www.mti.gov.sg/ASEAN/Association-of-Southeast-Asian-Nations---ASEAN"
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/ASEAN/Association-of-Southeast-Asian-Nations---ASEAN'>Association of Southeast Asian Nations (ASEAN)</a>"
+                }
+              ]
+            }
+          ]
         },
         {
-          "title": "Group of Twenty (G20)",
-          "buttonUrl": "https://www.mti.gov.sg/Trade/Multilateral-and-Regional-Forums/G20",
-          "buttonLabel": "More on G20"
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Trade/Multilateral-and-Regional-Forums/G20'>Group of Twenty (G20)</a>"
+                }
+              ]
+            }
+          ]
         },
         {
-          "title": "World Trade Organization (WTO)",
-          "buttonUrl": "https://www.mti.gov.sg/Trade/Multilateral-and-Regional-Forums/World-Trade-Organization-WTO",
-          "buttonLabel": "More on WTO"
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "<a href='https://www.mti.gov.sg/Trade/Multilateral-and-Regional-Forums/World-Trade-Organization-WTO'>World Trade Organization (WTO)</a>"
+                }
+              ]
+            }
+          ]
         }
       ]
     }
