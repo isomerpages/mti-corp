@@ -96,14 +96,14 @@
           "icon": "users"
         },
         {
-          "title": "Digital Economy Agreements",
+          "title": "Digital Economy Agreements (DEA)",
           "description": "Digital trade rules and digital economy collaborations between two or more economies.",
           "buttonLabel": "Learn about DEAs",
           "buttonUrl": "https://www.mti.gov.sg/Trade/Digital-Economy-Agreements",
           "icon": "office-building"
         },
         {
-          "title": "Industry Transformation Maps",
+          "title": "Industry Transformation Maps (ITM)",
           "description": "23 roadmaps to drive industry transformation.",
           "buttonLabel": "Overview on ITMs",
           "buttonUrl": "https://www.mti.gov.sg/ITMs/Overview",
