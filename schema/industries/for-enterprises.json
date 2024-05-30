@@ -10,7 +10,7 @@
           "text": "Empowering Businesses"
         }
       ],
-      "level": 3
+      "level": 2
     },
     {
       "type": "paragraph",
@@ -59,10 +59,20 @@
         {
           "type": "text",
           "marks": [],
-          "text": "Highlights"
+          "text": "Initatives for enterprises"
         }
       ],
-      "level": 3
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Empowering enterprises is at the forefront of our priorities. Click on each initiative to find out more on how MTI can help your business."
+        }
+      ]
     },
     {
       "type": "table",
