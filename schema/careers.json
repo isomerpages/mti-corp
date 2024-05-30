@@ -38,15 +38,6 @@
       ]
     },
     {
-      "type": "infobar",
-      "title": "What We Do",
-      "description": "Learn more about how we operate in Singapore's public sector, and how we support the growth of Singapore's economy.",
-      "buttonLabel": "Our MTI Professionals",
-      "buttonUrl": "https://www.mti.gov.sg/Careers/Join-Our-MTI-Professionals",
-      "secondaryButtonLabel": "The Economist Service",
-      "secondaryButtonUrl": "https://www.mti.gov.sg/Careers/Join-The-Economist-Service"
-    },
-    {
       "type": "infopic",
       "title": "Join Our Team",
       "description": "Head over to Careers@Gov to find out more about our current vacancies and internship opportunities.",
