@@ -28,8 +28,7 @@
             },
             {
                 "name": "International Investment Agreements",
-                "url": "/trade/international-investment-agreements",
-                "description": "Singapore's International Investment Agreements promote investment flows between the signatory countries"
+                "url": "/trade/international-investment-agreements"
             },
             {
                 "name": "Digital Economy Agreements",
@@ -46,7 +45,7 @@
                 "description": "Forums that promote free and open trade"
             },
             {
-                "name": "Indo-Pacific Economic Framework for Prosperity (IPEF)",
+                "name": "Indo-Pacific Economic Framework for Prosperity",
                 "url": "https://www.ipef.gov.sg",
                 "description": "Advancing resilient, sustainable, and inclusive economic growth in the region"
             }
