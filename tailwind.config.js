@@ -19,6 +19,7 @@ const config = {
           },
           secondary: {
             DEFAULT: siteConfig.colors["site-secondary-default"],
+            100: siteConfig.colors["site-secondary-100"],
           },
         },
       },
