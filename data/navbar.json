@@ -10,11 +10,13 @@
             },
             {
                 "name": "People at MTI",
-                "url": "/about/people-at-mti"
+                "url": "/about/people-at-mti",
+                "description": "More on who we are"
             },
             {
                 "name": "MTI Family",
-                "url": "/about/mti-family"
+                "url": "/about/mti-family",
+                "description": "MTI's statutory boards and government department"
             }
         ]
     },
@@ -24,15 +26,18 @@
         "items": [
             {
                 "name": "Free Trade Agreements",
-                "url": "/trade/free-trade-agreements"
+                "url": "/trade/free-trade-agreements",
+                "description": "Free Trade Agreements are treaties which make trade and investment between two or more economies easier. Find out more here."
             },
             {
                 "name": "International Investment Agreements",
-                "url": "/trade/international-investment-agreements"
+                "url": "/trade/international-investment-agreements",
+                "description": "Singapore's International Investment Agreements promote investment flows between the signatory countries. Find out more here."
             },
             {
                 "name": "Digital Economy Agreements",
-                "url": "/trade/digital-economy-agreements"
+                "url": "/trade/digital-economy-agreements",
+                "description": "A Digital Economy Agreement (DEA) is a treaty that establishes digital trade rules and digital economy collaborations between two or more economies."
             },
             {
                 "name": "Green Economy Agreements",
@@ -118,6 +123,7 @@
         "items": [
             {
                 "name": "Key Economic Indicators",
+                "description": "Key statistical data such as on the labour market, productivity, industrial production, investments, retail activity, tourism and trade are available here.",
                 "url": "/resources/key-economic-indicators"
             },
             {
