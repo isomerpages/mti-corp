@@ -5,7 +5,7 @@
       "type": "accordion",
       "details": [
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -376,7 +376,7 @@
       "type": "accordion",
       "details": [
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -1182,7 +1182,7 @@
       "type": "accordion",
       "details": [
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",

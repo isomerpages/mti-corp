@@ -2,7 +2,7 @@
   "layout": "content",
   "content": [
     {
-      "type": "orderedlist",
+      "type": "orderedList",
       "content": [
         {
           "type": "listItem",
@@ -20,7 +20,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -70,7 +70,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -105,7 +105,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -140,7 +140,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -190,7 +190,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",

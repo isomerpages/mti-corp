@@ -74,7 +74,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -372,7 +372,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -417,7 +417,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -467,7 +467,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -497,7 +497,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -567,7 +567,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -612,7 +612,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -667,7 +667,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -762,7 +762,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -802,7 +802,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -939,7 +939,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -1084,7 +1084,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -1159,7 +1159,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -1309,7 +1309,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -1454,7 +1454,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -1594,7 +1594,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -1961,7 +1961,7 @@
             {
               "type": "text",
               "marks": [],
-              "text":"<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/Annex-III---Schedules-of-Reservations-and-Non-Conforming-Measures-for-Services-and-Investment/New-Zealand---Schedule-of-Reservations-and-Non-Conforming-Measures-for-Investment.pdf'>New Zealand – Schedule of Reservations and Non-Conforming Measures for Investment</a> [PDF, 1,032KB]"
+              "text": "<a href='https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/Annex-III---Schedules-of-Reservations-and-Non-Conforming-Measures-for-Services-and-Investment/New-Zealand---Schedule-of-Reservations-and-Non-Conforming-Measures-for-Investment.pdf'>New Zealand – Schedule of Reservations and Non-Conforming Measures for Investment</a> [PDF, 1,032KB]"
             }
           ]
         },

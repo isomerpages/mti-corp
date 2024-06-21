@@ -5,7 +5,7 @@
       "type": "accordion",
       "details": [
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -376,7 +376,7 @@
       "type": "accordion",
       "details": [
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -1167,7 +1167,7 @@
       "type": "accordion",
       "details": [
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -1195,9 +1195,7 @@
     "category": "Economic Survey of Singapore",
     "date": "13 Feb 2023",
     "articlePageHeader": {
-      "summary": [
-        "Economic Survey of Singapore 2022"
-      ]
+      "summary": ["Economic Survey of Singapore 2022"]
     }
   },
   "version": "0.1.0"

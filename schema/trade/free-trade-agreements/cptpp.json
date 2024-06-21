@@ -68,7 +68,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -191,7 +191,7 @@
       ]
     },
     {
-     "type": "heading",
+      "type": "heading",
       "level": 3,
       "content": [
         {
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -414,7 +414,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -456,7 +456,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -498,7 +498,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -540,7 +540,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -571,7 +571,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -602,7 +602,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -644,7 +644,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -675,7 +675,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -721,7 +721,7 @@
       ]
     },
     {
-      "type": "orderedlist",
+      "type": "orderedList",
       "start": 1,
       "content": [
         {
@@ -779,7 +779,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -810,7 +810,7 @@
       ]
     },
     {
-      "type": "orderedlist",
+      "type": "orderedList",
       "start": 1,
       "content": [
         {
@@ -844,7 +844,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -879,7 +879,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -929,7 +929,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -962,7 +962,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -1218,7 +1218,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -1249,7 +1249,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -1295,7 +1295,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -1341,7 +1341,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
